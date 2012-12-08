@@ -15,7 +15,7 @@ module.exports = function(grunt) {
     },
     watch: {
       files: ['index.html'],
-      tasks: 'lint reload'
+      tasks: 'reload'
     }
   });
 
