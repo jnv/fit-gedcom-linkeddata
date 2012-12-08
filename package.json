@@ -1,0 +1,7 @@
+{
+  "name": "whos-ur-daddy-big",
+  "version": "0",
+  "devDependencies": {
+    "grunt-reload": "~0.2.0"
+  }
+}
