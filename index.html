@@ -1,6 +1,12 @@
-<!DOCTYPE html><html><head><title></title><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type='text/css'>
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <style type='text/css'>
 body {
-  font-family: 'Helvetica';
+  font-family: 'Arial', sans-serif;
   letter-spacing:-5px;
   background:#000;
   background-size:100%;
@@ -20,13 +26,15 @@ em, a {
 }
 
 a {
-  background: #34d0e7;
-  color:#000;
+  /*background: #34d0e7;
+  color:#000;*/
   text-decoration:none;
+  white-space: nowrap;
 }
 
 img {
-  width:100%;
+  max-width:100%;
+  max-height: 100%;
 }
 
 div {
@@ -36,7 +44,14 @@ div {
   top:0;
   left:0;
 }
-</style><script type='text/javascript'>
+
+pre
+{
+  letter-spacing: 0;
+  font-family: 'Courier New', monospace;
+}
+</style>
+<script type='text/javascript'>
 window.onload = function() {
     var s = document.getElementsByTagName('div'), cur = 0;
     if (!s) return;
@@ -83,5 +98,48 @@ window.onload = function() {
 
     go(cur);
 };
-</script></head><body>
-<div>welcome to <em>Big</em></div>
+</script>
+
+</head>
+<body>
+
+<div>
+  <h1>family tree visuzalization</h1>
+  jan vlnas
+</div>
+
+<div>
+  <!-- -->
+  <img src="img/daddy.jpg" alt="who’s your daddy?">
+</div>
+
+<div>gedcom</div>
+<div>
+<pre>
+<em>0 @I1@ INDI</em>
+1 NAME John Douglas /Cochrane/
+2 GIVN John Douglas
+2 SURN Cochrane
+1 SEX M
+1 BIRT
+2 DATE 21 Oct 1884
+2 PLAC Drummond Terrace, Ottawa, Ontario, Canada
+1 DEAT
+2 DATE 12 Jul 1941
+2 PLAC Tranquille Sanitarium, British Columbia, Canada
+2 CAUS Pulminary Tuberculosis
+</pre>
+</div>
+
+<div>gedcom&nbsp;&rarr; xml&nbsp;&rarr; rdf</div>
+
+<div></div>
+
+<div>
+</div>
+
+<div>
+  <a href="http://git.io/daddy">git.io/daddy</a>
+</div>
+
+</body>
