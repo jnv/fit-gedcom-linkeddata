@@ -50,6 +50,10 @@ pre
   letter-spacing: 0;
   font-family: 'Courier New', monospace;
 }
+pre b
+{
+  color: #8dbd0c;
+}
 </style>
 <script type='text/javascript'>
 window.onload = function() {
@@ -131,9 +135,27 @@ window.onload = function() {
 </pre>
 </div>
 
-<div>gedcom&nbsp;&rarr; xml&nbsp;&rarr; rdf</div>
+<div>gedcom&nbsp;&rarr;&nbsp;xml</div>
 
-<div></div>
+<div>
+<pre>
+<b>&lt;</b><b>INDI</b> id<i>=</i><b>'@I1@'</b><b>></b>
+  <b>&lt;</b><b>NAME</b><b>></b>John Douglas /Cochrane/
+    <b>&lt;</b><b>GIVN</b><b>></b>John Douglas<b>&lt;/</b><b>GIVN</b><b>></b>
+    <b>&lt;</b><b>SURN</b><b>></b>Cochrane<b>&lt;/</b><b>SURN</b><b>></b>
+  <b>&lt;/</b><b>NAME</b><b>></b>
+  <b>&lt;</b><b>SEX</b><b>></b>M<b>&lt;/</b><b>SEX</b><b>></b>
+  <b>&lt;</b><b>BIRT</b><b>></b>
+    <b>&lt;</b><b>DATE</b><b>></b>21 Oct 1884<b>&lt;/</b><b>DATE</b><b>></b>
+    <b>&lt;</b><b>PLAC</b><b>></b>Drummond Terrace, Ottawa, Ontario, Canada<b>&lt;/</b><b>PLAC</b><b>></b>
+  <b>&lt;/</b><b>BIRT</b><b>></b>
+  &hellip;
+</pre>
+</div>
+
+<div>xml&nbsp;&rarr;&nbsp;rdf</div>
+
+<div><em>foaf</em> + <em>bio</em> + <em>relationship</em></div>
 
 <div>
 </div>
