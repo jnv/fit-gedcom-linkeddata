@@ -1,0 +1,7825 @@
+<gedcom>
+  <HEAD>
+    <SOUR>
+      Legacy
+      <VERS>
+        6.0
+      </VERS>
+      <NAME>
+        Legacy (R)
+      </NAME>
+      <CORP>
+        Millennia Corp.
+        <ADDR>
+          PO Box 9410
+          <CONT>
+            Surprise, AZ 85374
+          </CONT>
+        </ADDR>
+      </CORP>
+    </SOUR>
+    <DEST>
+      Gedcom55
+    </DEST>
+    <DATE>
+      27 Aug 2006
+    </DATE>
+    <SUBM>
+      @S0@
+    </SUBM>
+    <FILE>
+      sample.ged
+    </FILE>
+    <GEDC>
+      <VERS>
+        5.5
+      </VERS>
+      <FORM>
+        LINEAGE-LINKED
+      </FORM>
+    </GEDC>
+    <CHAR>
+      UTF-8
+    </CHAR>
+  </HEAD>
+  <SUBM id='@S0@'>
+    <NAME>
+      Keith Morrison
+    </NAME>
+    <_EMAIL>
+      keithm@infused.org
+    </_EMAIL>
+  </SUBM>
+  <INDI id='@I1@'>
+    <NAME>John Douglas /Cochrane/
+      <GIVN>John Douglas</GIVN>
+      <SURN>Cochrane</SURN>
+    </NAME>
+    <SEX>M</SEX>
+    <BIRT>
+      <DATE>21 Oct 1884</DATE>
+      <PLAC>Drummond Terrace, Ottawa, Ontario, Canada</PLAC>
+    </BIRT>
+    <DEAT>
+      <DATE>12 Jul 1941</DATE>
+      <PLAC>Tranquille Sanitarium, Kamloops, British Columbia, Canada</PLAC>
+      <CAUS>Pulminary Tuberculosis
+        <SOUR>
+          @S151@
+        </SOUR>
+      </CAUS>
+      <SOUR>
+        @S14@
+        <DATA>
+          <TEXT>
+            Name: Cochrane, John Douglas; Gender: Male; Age: 56; Deat
+            <CONC>
+              h Date: 12 July 1941; Place of Death: Tranquille; Registrat
+            </CONC>
+            <CONC>
+              ion Number: 1941-09-591161; BCA Number: B13172; GSU Number
+            </CONC>
+            <CONC>
+              : 1953632
+            </CONC>
+          </TEXT>
+        </DATA>
+      </SOUR>
+      <SOUR>
+        @S151@
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Pleasant Street Cemetary, Kamloops, British Columbia, Canada
+      </PLAC>
+      <SOUR>
+        @S158@
+      </SOUR>
+      <OBJE>
+        <FORM>
+          jpg
+        </FORM>
+        <FILE>
+          C:\Program Files\Legacy\Pictures\john_douglas_cochrane_funeral.jpg
+        </FILE>
+        <_SCBK>
+          Y
+        </_SCBK>
+        <_PRIM>
+          Y
+        </_PRIM>
+        <_TYPE>
+          PHOTO
+        </_TYPE>
+      </OBJE>
+      <OBJE>
+        <FORM>
+          jpg
+        </FORM>
+        <FILE>
+          C:\Program Files\Legacy\Pictures\john_douglas_cochrane_funeral2.jpg
+        </FILE>
+        <_SCBK>
+          Y
+        </_SCBK>
+        <_TYPE>
+          PHOTO
+        </_TYPE>
+      </OBJE>
+    </BURI>
+    <REFN>
+      1
+    </REFN>
+    <OCCU>
+      Musician and Salesman
+      <SOUR>
+        @S151@
+      </SOUR>
+    </OCCU>
+    <RESI>
+      <DATE>
+        1904
+      </DATE>
+      <PLAC>
+        Acme, , Alberta, Canada
+      </PLAC>
+      <SOUR>
+        @S160@
+        <PAGE>
+          Page 468
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <EVEN>
+      <TYPE>
+        Last Known Addr
+      </TYPE>
+      <PLAC>
+        Vancouver, British Columbia, Canada
+      </PLAC>
+      <SOUR>
+        @S151@
+      </SOUR>
+      <ADDR>
+        826 Homer Street
+        <CONT>
+          Vancouver, British Columbia Canada
+        </CONT>
+        <_NAME>
+          n/a
+        </_NAME>
+        <ADR1>
+          826 Homer Street
+        </ADR1>
+        <CITY>
+          Vancouver
+        </CITY>
+        <STAE>
+          British Columbia
+        </STAE>
+        <CTRY>
+          Canada
+        </CTRY>
+      </ADDR>
+    </EVEN>
+    <_UID>
+      FD0FA2F09AD74FD3827E6F46F8F243C2D52B
+    </_UID>
+    <CHAN>
+      <DATE>
+        13 Mar 2005
+        <TIME>
+          22:31
+        </TIME>
+      </DATE>
+    </CHAN>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\jd_cochrane_and_lm_edwards.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_PRIM>
+        Y
+      </_PRIM>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\jd_and_wg_cochrane.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\john_douglas_cochrane.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\john_douglas_cochrane2.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\john_douglas_cochrane3.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\john_douglas_cochrane4.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <FAMS>
+      @F2@
+    </FAMS>
+    <NOTE>
+      @NI1@
+    </NOTE>
+    <NOTE>
+      @HI1@
+    </NOTE>
+  </INDI>
+  <NOTE id='@NI1@'>
+    <CONC>
+      Played Coronet, French horn, and percussion for Philadelphi
+    </CONC>
+    <CONC>
+      a or Chicago Symphony. He also played for John Phillip Sou
+    </CONC>
+    <CONC>
+      sa&apos;s Band.
+    </CONC>
+  </NOTE>
+  <NOTE id='@HI1@'>
+    <CONC>
+      (Research):10/22/2002: Checked archives at the Chicago Symp
+    </CONC>
+    <CONC>
+      hony Orchestra. No record for any Cochrane&apos;s.
+    </CONC>
+  </NOTE>
+  <INDI id='@I111@'>
+    <NAME>
+      Creon Henry /Nims/
+      <GIVN>
+        Creon Henry
+      </GIVN>
+      <SURN>
+        Nims
+      </SURN>
+    </NAME>
+    <NAME>
+      Connie //
+      <GIVN>
+        Connie
+      </GIVN>
+      <SURN>
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        21 Jan 1915
+      </DATE>
+      <PLAC>
+        Maquoketa, Iowa, USA
+      </PLAC>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        Jun 2004
+      </DATE>
+    </DEAT>
+    <REFN>
+      111
+    </REFN>
+    <ADDR>
+      4555 NE 84th Street
+      <CONT>
+        Portland, OR 97220, USA, , ,
+      </CONT>
+      <_NAME>
+        Connie Nims
+      </_NAME>
+      <ADR1>
+        4555 NE 84th Street
+      </ADR1>
+      <ADR2>
+        Portland, OR 97220, USA, , ,
+      </ADR2>
+    </ADDR>
+    <OCCU>
+      Autobody Repairman
+    </OCCU>
+    <_UID>
+      6E13CCFDFF3B49B28B00CFED7C3E3018C88C
+    </_UID>
+    <CHAN>
+      <DATE>
+        5 Jul 2004
+        <TIME>
+          16:27
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F65@
+    </FAMS>
+  </INDI>
+  <INDI id='@I381@'>
+    <NAME>
+      Herman Franklin /Morrison/
+      <GIVN>
+        Herman Franklin
+      </GIVN>
+      <SURN>
+        Morrison
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        15 Jan 1883
+      </DATE>
+      <PLAC>
+        York, York Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        19 Aug 1958
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 9629
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <REFN>
+      381
+    </REFN>
+    <EVEN>
+      <TYPE>
+        Alt. Birth
+      </TYPE>
+      <PLAC>
+        Wyoming, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        Abt 1916
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S171@
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Contractor
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Sand and Gravel Contractor
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <EVEN>
+      Ashes spread over the Pacific Ocean
+      <TYPE>
+        Cremated
+      </TYPE>
+      <DATE>
+        Aft 19 Aug 1958
+      </DATE>
+      <PLAC>
+        Astoria, Clatsop, Oregon, USA
+      </PLAC>
+    </EVEN>
+    <_UID>
+      1706F8BBFB8944688C369293C99CBD17207E
+    </_UID>
+    <CHAN>
+      <DATE>
+        30 Jun 2004
+        <TIME>
+          22:52
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F210@
+    </FAMS>
+  </INDI>
+  <INDI id='@I382@'>
+    <NAME>
+      Pauline R. /DeChenne/
+      <GIVN>
+        Pauline R.
+      </GIVN>
+      <SURN>
+        DeChenne
+      </SURN>
+    </NAME>
+    <NAME>
+      Pauline D. /Chenne/
+      <GIVN>
+        Pauline D.
+      </GIVN>
+      <SURN>
+        Chenne
+      </SURN>
+    </NAME>
+    <NAME>
+      Pauline S. /De Chenne/
+      <GIVN>
+        Pauline S.
+      </GIVN>
+      <SURN>
+        De Chenne
+      </SURN>
+    </NAME>
+    <NAME>
+      Polly Belle /DeChenne/
+      <GIVN>
+        Polly Belle
+      </GIVN>
+      <SURN>
+        DeChenne
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        10 Dec 1888
+      </DATE>
+      <PLAC>
+        Pocahontas, Bond Co, Illinois, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+        <OBJE>
+          <FORM>
+            jpg
+          </FORM>
+          <FILE>
+            C:\Program Files\Legacy\Pictures\1910C-WA-Lincoln-Edwall1B.jpg
+          </FILE>
+          <TITL>
+            Page 1B
+          </TITL>
+          <_SCBK>
+            Y
+          </_SCBK>
+          <_PRIM>
+            Y
+          </_PRIM>
+          <_TYPE>
+            PHOTO
+          </_TYPE>
+        </OBJE>
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        6 Oct 1961
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 13036
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Spokane, Spokane Co, Washington, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      382
+    </REFN>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        Abt 1916
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S171@
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <_UID>
+      A849C39D310A4CCDB4C74AF6AA2C825E167A
+    </_UID>
+    <CHAN>
+      <DATE>
+        30 Jun 2004
+        <TIME>
+          22:55
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F210@
+    </FAMS>
+  </INDI>
+  <INDI id='@I383@'>
+    <NAME>
+      Evelyn Paula /Morrison/
+      <GIVN>
+        Evelyn Paula
+      </GIVN>
+      <SURN>
+        Morrison
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        19 Mar 1910
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S171@
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 92-14879
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S540@
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        2 Aug 1992
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <CAUS>
+        Lung Cancer
+      </CAUS>
+      <SOUR>
+        @S171@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 92-14879
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <REFN>
+      383
+    </REFN>
+    <EVEN>
+      <TYPE>
+        Last Known Addr
+      </TYPE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <EVEN>
+      544-07-4858
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        Abt 1916
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S171@
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <_UID>
+      7CDAA7F8D41E468BAD33A83B78CDAC5ECAFA
+    </_UID>
+    <CHAN>
+      <DATE>
+        31 May 2004
+        <TIME>
+          21:20
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F212@
+    </FAMS>
+    <FAMC>
+      @F210@
+    </FAMC>
+  </INDI>
+  <INDI id='@I887@'>
+    <NAME>
+      Patricia /Bartch/
+      <GIVN>
+        Patricia
+      </GIVN>
+      <SURN>
+        Bartch
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        11 Feb 1951
+      </DATE>
+    </BIRT>
+    <REFN>
+      887
+    </REFN>
+    <_UID>
+      B8A00ACFA1544560BBEF7A5B30AF68BC4D86
+    </_UID>
+    <CHAN>
+      <DATE>
+        21 Oct 2002
+        <TIME>
+          22:51
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F436@
+    </FAMS>
+  </INDI>
+  <INDI id='@I998@'>
+    <NAME>
+      Elwood Dean /Morrison/
+      <GIVN>
+        Elwood Dean
+      </GIVN>
+      <SURN>
+        Morrison
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        15 Aug 1907
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 73-01461
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S540@
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        23 Jan 1973
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 73-01461
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Rose City Cemetery, Multnomah Co, Portland, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S63@
+        <PAGE>
+          Lot E 1/2 34, Section E, Grave 3
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BURI>
+    <REFN>
+      998
+    </REFN>
+    <EVEN>
+      540-05-3181
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Edwall, Lincoln, Washington, USA
+      </PLAC>
+      <SOUR>
+        @S104@
+        <PAGE>
+          Page 1B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        Abt 1916
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S171@
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S103@
+        <PAGE>
+          District 155, Page 2B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Truck Driver (sand &amp; gravel)
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 183, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <_UID>
+      36C19812686248EC932CC5D3FDB354211B7A
+    </_UID>
+    <CHAN>
+      <DATE>
+        31 May 2004
+        <TIME>
+          21:18
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F493@
+    </FAMS>
+    <FAMC>
+      @F210@
+    </FAMC>
+  </INDI>
+  <INDI id='@I1009@'>
+    <NAME>
+      Julianna /Breeden/
+      <GIVN>
+        Julianna
+      </GIVN>
+      <SURN>
+        Breeden
+      </SURN>
+    </NAME>
+    <NAME>
+      Julia Anne /Breeden/
+      <GIVN>
+        Julia Anne
+      </GIVN>
+      <SURN>
+        Breeden
+      </SURN>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 151, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        18 Apr 1917
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S11@
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 151, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 97-24302
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        4 Nov 1997
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 97-24302
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Rose City Cemetery, Multnomah Co, Portland, Oregon, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      1009
+    </REFN>
+    <ADDR>
+      790 SE Webber
+      <CONT>
+        Portland, OR 97202, , , ,
+      </CONT>
+      <_NAME>
+        Julianna Morrison
+      </_NAME>
+      <ADR1>
+        790 SE Webber
+      </ADR1>
+      <ADR2>
+        Portland, OR 97202, , , ,
+      </ADR2>
+    </ADDR>
+    <EVEN>
+      544-16-2395
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 151, Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <_UID>
+      866EB35956D34DA984A8684660A7C3B1745F
+    </_UID>
+    <CHAN>
+      <DATE>
+        29 Jan 2003
+        <TIME>
+          11:42
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F3611@
+    </FAMS>
+    <FAMS>
+      @F493@
+    </FAMS>
+    <FAMC>
+      @F499@
+    </FAMC>
+  </INDI>
+  <INDI id='@I1019@'>
+    <NAME>
+      Leanna /Morrison/
+      <GIVN>
+        Leanna
+      </GIVN>
+      <SURN>
+        Morrison
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        28 Nov 1940
+      </DATE>
+    </BIRT>
+    <REFN>
+      1019
+    </REFN>
+    <_UID>
+      EEC325C1857C4DD0BAE6C9EF0AC3376071BC
+    </_UID>
+    <CHAN>
+      <DATE>
+        21 Oct 2002
+        <TIME>
+          22:51
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMC>
+      @F493@
+    </FAMC>
+  </INDI>
+  <INDI id='@I1030@'>
+    <NAME>
+      Michael Dean /Morrison/
+      <GIVN>
+        Michael Dean
+      </GIVN>
+      <SURN>
+        Morrison
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        2 Jul 1950
+      </DATE>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 80-12403
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        22 Jul 1980
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 80-12403
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Rose City Cemetery, Multnomah Co, Portland, Oregon, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      1030
+    </REFN>
+    <EVEN>
+      544-52-6421
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <_UID>
+      279887D012C945A894D22D6ECE5510EE0036
+    </_UID>
+    <CHAN>
+      <DATE>
+        13 Dec 2002
+        <TIME>
+          12:26
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMC>
+      @F493@
+    </FAMC>
+    <NOTE>
+      @NI1030@
+    </NOTE>
+  </INDI>
+  <NOTE id='@NI1030@'>
+    <CONC>
+      Buried: Grave 3, Lot E 1/2 34, Section E
+    </CONC>
+  </NOTE>
+  <INDI id='@I1101@'>
+    <NAME>
+      Leah Mary /Edwards/
+      <GIVN>
+        Leah Mary
+      </GIVN>
+      <SURN>
+        Edwards
+      </SURN>
+    </NAME>
+    <NAME>
+      Lily //
+      <GIVN>
+        Lily
+      </GIVN>
+      <SURN>
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        2 Sep 1890
+      </DATE>
+      <PLAC>
+        Lydeard St. Lawrence, Somerset, England
+      </PLAC>
+      <SOUR>
+        @S76@
+        <PAGE>
+          RG13, Piece 2279, Folio 84, Page 9, Schedule 57
+        </PAGE>
+        <QUAY>
+          2
+        </QUAY>
+        <DATA>
+          <TEXT>
+            Name: Leah Mary Edwards; Relation to Head of Household: Dau
+            <CONC>
+              ghter; Condition as to Marriage: S; Age Last Birthday: 11
+            </CONC>
+            <CONC>
+              ; Sex: F; Profession or Occupation: undefined; Employment S
+            </CONC>
+            <CONC>
+              tatus: undefined; Where Born: Somt Lydeard St Lawrence
+            </CONC>
+          </TEXT>
+        </DATA>
+      </SOUR>
+      <SOUR>
+        @S526@
+        <PAGE>
+          Page 10
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S528@
+        <PAGE>
+          Reg No 611
+        </PAGE>
+        <QUAY>
+          4
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <CHR>
+      <DATE>
+        3 Apr 1892
+      </DATE>
+      <PLAC>
+        Lydeard St. Lawrence, Somerset, England
+      </PLAC>
+      <SOUR>
+        @S528@
+        <PAGE>
+          Reg No 611
+        </PAGE>
+        <QUAY>
+          4
+        </QUAY>
+      </SOUR>
+    </CHR>
+    <DEAT>
+      <DATE>
+        27 Dec 1964
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 17742
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <DATE>
+        30 Dec 1964
+      </DATE>
+      <PLAC>
+        Riverview Abbey Mausoleum, Portland, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S63@
+      </SOUR>
+    </BURI>
+    <REFN>
+      1101
+    </REFN>
+    <EVEN>
+      544-30-0654
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1891
+      </DATE>
+      <PLAC>
+        Lydeard St. Lawrence, Somerset, England
+      </PLAC>
+      <SOUR>
+        @S526@
+        <PAGE>
+          Page 10
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1901
+      </DATE>
+      <PLAC>
+        West Bagborough, Somerset, England
+      </PLAC>
+      <SOUR>
+        @S76@
+        <PAGE>
+          RG13, Piece 2279, Folio 84, Page 9, Schedule 57
+        </PAGE>
+        <QUAY>
+          2
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <IMMI>
+      from Canada
+      <DATE>
+        1922
+      </DATE>
+      <PLAC>
+        USA
+      </PLAC>
+    </IMMI>
+    <EVEN>
+      <TYPE>
+        Funeral
+      </TYPE>
+      <DATE>
+        30 Dec 1964
+      </DATE>
+      <PLAC>
+        Ross Hollywood Chapel, Portland, Multnomah Co, Oregon, USA
+      </PLAC>
+    </EVEN>
+    <_UID>
+      9FD57D02E47343F6A4CB952CD6845D94FE79
+    </_UID>
+    <CHAN>
+      <DATE>
+        23 Jun 2003
+        <TIME>
+          12:59
+        </TIME>
+      </DATE>
+    </CHAN>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\jd_cochrane_and_lm_edwards.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_PRIM>
+        Y
+      </_PRIM>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <FAMS>
+      @F2@
+    </FAMS>
+    <FAMS>
+      @F540@
+    </FAMS>
+  </INDI>
+  <INDI id='@I1155@'>
+    <NAME>
+      Forrest Eugene /Lewin/
+      <GIVN>
+        Forrest Eugene
+      </GIVN>
+      <SURN>
+        Lewin
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        22 Jan 1882
+      </DATE>
+      <PLAC>
+        Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S86@
+        <PAGE>
+          Page 2
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S84@
+        <PAGE>
+          Page 6
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S143@
+        <PAGE>
+          Page 170A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S184@
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        9 May 1943
+      </DATE>
+      <PLAC>
+        Shingle Springs, El Dorado Co, California, USA
+      </PLAC>
+      <SOUR>
+        @S184@
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <DATE>
+        1943
+      </DATE>
+      <PLAC>
+        El Dorado Cemetary, Placerville, El Dorado Co, California, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      1155
+    </REFN>
+    <EVEN>
+      <TYPE>
+        Military
+      </TYPE>
+      <PLAC>
+        WW1
+      </PLAC>
+    </EVEN>
+    <EVEN>
+      567-01-2713
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S10@
+      </SOUR>
+      <SOUR>
+        @S184@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      <DATE>
+        1900
+      </DATE>
+      <PLAC>
+        Sargent Twp, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S143@
+        <PAGE>
+          Page 170A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Farm Laborer
+      <DATE>
+        1900
+      </DATE>
+      <PLAC>
+        Sargent Twp, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S143@
+        <PAGE>
+          Page 170A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S86@
+        <PAGE>
+          Page 2
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Laborer
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S86@
+        <PAGE>
+          Page 2
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S84@
+        <PAGE>
+          Page 6
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Carpenter
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S84@
+        <PAGE>
+          Page 6
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Ericson, Wheeler, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Carpenter (house)
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Ericson, Wheeler, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <_UID>
+      844B3408C1364F4A8A2FA12072E021048CA0
+    </_UID>
+    <CHAN>
+      <DATE>
+        31 May 2004
+        <TIME>
+          21:33
+        </TIME>
+      </DATE>
+    </CHAN>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\fe_lewin_and_df_sumner.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_PRIM>
+        Y
+      </_PRIM>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\forrest_eugene_lewin_1yr.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <FAMS>
+      @F559@
+    </FAMS>
+  </INDI>
+  <INDI id='@I1166@'>
+    <NAME>
+      Della Florence /Sumner/
+      <GIVN>
+        Della Florence
+      </GIVN>
+      <SURN>
+        Sumner
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        2 Jun 1882
+      </DATE>
+      <PLAC>
+        Wilsonville, Furnas Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S10@
+      </SOUR>
+      <SOUR>
+        @S86@
+        <PAGE>
+          Page 2
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S184@
+      </SOUR>
+      <SOUR>
+        @S273@
+        <PAGE>
+          Page 7B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        29 Jan 1971
+      </DATE>
+      <PLAC>
+        Placerville, El Dorado Co, California, USA
+      </PLAC>
+      <SOUR>
+        @S59@
+      </SOUR>
+      <SOUR>
+        @S10@
+      </SOUR>
+      <SOUR>
+        @S184@
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <DATE>
+        1971
+      </DATE>
+      <PLAC>
+        El Dorado Cemetary, Placerville, El Dorado Co, California, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      1166
+    </REFN>
+    <EVEN>
+      567-01-2713
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S10@
+      </SOUR>
+      <SOUR>
+        @S184@
+      </SOUR>
+    </EVEN>
+    <RESI>
+      In household of uncle John M. Wollen
+      <DATE>
+        1900
+      </DATE>
+      <PLAC>
+        Crystal, Norton Co, Kansas, USA
+      </PLAC>
+      <SOUR>
+        @S273@
+        <PAGE>
+          Page 7B
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1910
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S86@
+        <PAGE>
+          Page 2
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1920
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S84@
+        <PAGE>
+          Page 6
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <RESI>
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Ericson, Wheeler, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Telephone Operator
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Ericson, Wheeler, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <_UID>
+      543D0C9F16EC461B99D7107A8953C2BDF432
+    </_UID>
+    <CHAN>
+      <DATE>
+        31 May 2004
+        <TIME>
+          22:12
+        </TIME>
+      </DATE>
+    </CHAN>
+    <OBJE>
+      <FORM>
+        jpg
+      </FORM>
+      <FILE>
+        C:\Program Files\Legacy\Pictures\fe_lewin_and_df_sumner.jpg
+      </FILE>
+      <_SCBK>
+        Y
+      </_SCBK>
+      <_PRIM>
+        Y
+      </_PRIM>
+      <_TYPE>
+        PHOTO
+      </_TYPE>
+    </OBJE>
+    <FAMS>
+      @F559@
+    </FAMS>
+  </INDI>
+  <INDI id='@I1181@'>
+    <NAME>
+      Isaac Bern /Breeden/
+      <GIVN>
+        Isaac Bern
+      </GIVN>
+      <SURN>
+        Breeden
+      </SURN>
+    </NAME>
+    <NAME>
+      Bern //
+      <GIVN>
+        Bern
+      </GIVN>
+      <SURN>
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        16 Aug 1910
+      </DATE>
+      <PLAC>
+        Arnett, Oklahoma, USA
+      </PLAC>
+      <SOUR>
+        @S170@
+      </SOUR>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 532, Page 4A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 92-17276
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        24 Aug 1992
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S170@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 92-17276
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <NOTE>
+        @XI1181@
+      </NOTE>
+    </BURI>
+    <REFN>
+      1181
+    </REFN>
+    <EVEN>
+      <TYPE>
+        Last Known Addr
+      </TYPE>
+      <PLAC>
+        Seaside, Clatsop, Oregon, USA
+      </PLAC>
+    </EVEN>
+    <EVEN>
+      542-05-0123
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <OCCU>
+      Construction Supervisor for Portland Road &amp; Driveway Co
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S170@
+      </SOUR>
+    </OCCU>
+    <RESI>
+      Killingsworth Ave
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 532, Page 4A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </RESI>
+    <OCCU>
+      Truck Driver (meat)
+      <DATE>
+        1930
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S172@
+        <PAGE>
+          District 532, Page 4A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+    </OCCU>
+    <_UID>
+      F2A6663AF20E42408229841816A1299B7C0D
+    </_UID>
+    <CHAN>
+      <DATE>
+        18 Feb 2003
+        <TIME>
+          13:53
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F212@
+    </FAMS>
+    <FAMC>
+      @F499@
+    </FAMC>
+  </INDI>
+  <NOTE id='@XI1181@'>
+    <CONC>
+      Ashes Spread over the Pacific Ocean
+    </CONC>
+  </NOTE>
+  <INDI id='@I1282@'>
+    <NAME>
+      Estelle Meredith /Cochrane/
+      <GIVN>
+        Estelle Meredith
+      </GIVN>
+      <SURN>
+        Cochrane
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        4 Apr 1916
+      </DATE>
+      <PLAC>
+        Calgary, Alberta, Canada
+      </PLAC>
+    </BIRT>
+    <REFN>
+      1282
+    </REFN>
+    <ADDR>
+      7515 NE Prescott Avenue
+      <CONT>
+        Portland, OR 97218, , , ,
+      </CONT>
+      <_NAME>
+        Estelle Lewin
+      </_NAME>
+      <ADR1>
+        7515 NE Prescott Avenue
+      </ADR1>
+      <ADR2>
+        Portland, OR 97218, , , ,
+      </ADR2>
+    </ADDR>
+    <OCCU>
+      Bookkeeper
+    </OCCU>
+    <BAPM>
+      <DATE>
+        24 Sep 1916
+      </DATE>
+      <PLAC>
+        Church of the Redeemer, Calgary, Alberta, Canada
+      </PLAC>
+    </BAPM>
+    <IMMI>
+      from Canada
+      <DATE>
+        1922
+      </DATE>
+      <PLAC>
+        USA
+      </PLAC>
+    </IMMI>
+    <NATU>
+      <DATE>
+        24 Dec 1941
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S288@
+      </SOUR>
+    </NATU>
+    <RESI>
+      217 SE 84th Avenue
+      <DATE>
+        24 Dec 1941
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <SOUR>
+        @S288@
+      </SOUR>
+    </RESI>
+    <RESI>
+      868 Baden Avenue
+      <DATE>
+        16 May 1948
+      </DATE>
+      <PLAC>
+        San Francisco Co, California, USA
+      </PLAC>
+      <SOUR>
+        @S289@
+      </SOUR>
+    </RESI>
+    <_UID>
+      5AF4AC1E918C493CB7B169152BDCD443BE39
+    </_UID>
+    <CHAN>
+      <DATE>
+        22 Feb 2003
+        <TIME>
+          15:26
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F4232@
+    </FAMS>
+    <FAMS>
+      @F614@
+    </FAMS>
+    <FAMC>
+      @F2@
+    </FAMC>
+  </INDI>
+  <INDI id='@I1393@'>
+    <NAME>
+      Muriel Alice Elizabeth /Cochrane/
+      <GIVN>
+        Muriel Alice Elizabeth
+      </GIVN>
+      <SURN>
+        Cochrane
+      </SURN>
+    </NAME>
+    <SEX>
+      F
+    </SEX>
+    <BIRT>
+      <DATE>
+        10 Aug 1917
+      </DATE>
+      <PLAC>
+        Calgary, Alberta, Canada
+      </PLAC>
+      <SOUR>
+        @S174@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 96-25234
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        14 Nov 1996
+      </DATE>
+      <PLAC>
+        Portland, Multnomah, Oregon, USA
+      </PLAC>
+      <CAUS>
+        Complications from Parkinson&apos;s Disease
+      </CAUS>
+      <SOUR>
+        @S174@
+      </SOUR>
+      <SOUR>
+        @S173@
+        <PAGE>
+          Certificate 96-25234
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <PLAC>
+        Rose City Cemetery, Multnomah Co, Portland, Oregon, USA
+      </PLAC>
+    </BURI>
+    <REFN>
+      1393
+    </REFN>
+    <SOUR>
+      @S174@
+    </SOUR>
+    <ADDR>
+      4555 NE 84th Street
+      <CONT>
+        Portland, OR 97220, USA, , ,
+      </CONT>
+      <_NAME>
+        Muriel Nims
+      </_NAME>
+      <ADR1>
+        4555 NE 84th Street
+      </ADR1>
+      <ADR2>
+        Portland, OR 97220, USA, , ,
+      </ADR2>
+    </ADDR>
+    <OCCU>
+      Office Worker
+    </OCCU>
+    <IMMI>
+      Canada
+      <DATE>
+        1922
+      </DATE>
+      <PLAC>
+        USA
+      </PLAC>
+    </IMMI>
+    <EVEN>
+      542-01-8719
+      <TYPE>
+        Social Security Number
+      </TYPE>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </EVEN>
+    <_UID>
+      CA436F1131D54F53948B05354328AAF59851
+    </_UID>
+    <CHAN>
+      <DATE>
+        13 Dec 2002
+        <TIME>
+          12:06
+        </TIME>
+      </DATE>
+    </CHAN>
+    <FAMS>
+      @F65@
+    </FAMS>
+    <FAMC>
+      @F2@
+    </FAMC>
+  </INDI>
+  <INDI id='@I1467@'>
+    <NAME>
+      Claude William /Lewin/
+      <GIVN>
+        Claude William
+      </GIVN>
+      <SURN>
+        Lewin
+      </SURN>
+    </NAME>
+    <SEX>
+      M
+    </SEX>
+    <BIRT>
+      <DATE>
+        18 Mar 1914
+      </DATE>
+      <PLAC>
+        Comstock, Custer Co, Nebraska, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+      <SOUR>
+        @S176@
+        <PAGE>
+          Page 2A
+        </PAGE>
+        <QUAY>
+          3
+        </QUAY>
+      </SOUR>
+      <SOUR>
+        @S507@
+      </SOUR>
+    </BIRT>
+    <DEAT>
+      <DATE>
+        18 Feb 2001
+      </DATE>
+      <PLAC>
+        Novato, Marin Co, California, USA
+      </PLAC>
+      <SOUR>
+        @S55@
+      </SOUR>
+    </DEAT>
+    <BURI>
+      <DATE>
+        23 Feb 2001
+      </DATE>
+      <PLAC>
+        Golden Gate National Cemetary, San Bruno, San Mateo, California, USA
+      </PLAC>
+      <ADDR>
+        1300 Sneath Lane
+        <CONT>
+          San Bruno, California 94066 USA
+        </CONT>
+        <_NAME>
+          Golden Gate National Cemetary
+        </_NAME>
+        <ADR1>
+          1300 Sneath Lane
+        </ADR1>
+        <CITY>
+          San Bruno
+        </CITY>
+        <STAE>
+          California
+        </STAE>
+        <POST>
+          94066
+        </POST>
+        <CTRY>
+          USA
+        </CTRY>
+      </ADDR>
+      <PHON>
+       (650) 589-7737
+     </PHON>
+     <NOTE>
+      @XI1467@
+    </NOTE>
+  </BURI>
+  <REFN>
+    1467
+  </REFN>
+  <ADDR>
+    609 Olive Avenue
+    <CONT>
+      Novato, California, 94945, USA,
+    </CONT>
+    <_NAME>
+      Claude Lewin
+    </_NAME>
+    <ADR1>
+      609 Olive Avenue
+    </ADR1>
+    <ADR2>
+      Novato, California, 94945, USA,
+    </ADR2>
+  </ADDR>
+  <OCCU>
+    Electrical Engineer
+  </OCCU>
+  <EVEN>
+    553-01-5800
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <OCCU>
+    Machinist, Seattle Tacoma Ship Yards
+    <DATE>
+      Bet Mar 1940 and Sep 1942
+    </DATE>
+    <PLAC>
+      Seattle, King Co, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S507@
+    </SOUR>
+  </OCCU>
+  <EVEN>
+    US Navy
+    <TYPE>
+      Military Enlist
+    </TYPE>
+    <DATE>
+      2 Sep 1942
+    </DATE>
+    <PLAC>
+      Seattle, King Co, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S507@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      2 Sep 1942
+    </DATE>
+    <PLAC>
+      Shingle, California, USA
+    </PLAC>
+    <SOUR>
+      @S507@
+    </SOUR>
+  </RESI>
+  <EVEN>
+    US Navy, Electriacian&apos;s Mate 1st Class V-6
+    <TYPE>
+      Military Discharge
+    </TYPE>
+    <DATE>
+      7 Oct 1945
+    </DATE>
+    <PLAC>
+      San Pedro, California, USA
+    </PLAC>
+    <SOUR>
+      @S507@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    868 Baden Avenue
+    <DATE>
+      16 May 1948
+    </DATE>
+    <PLAC>
+      San Francisco Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S289@
+    </SOUR>
+  </RESI>
+  <_UID>
+    F84DE9CB92994671A8174509B311AC277F5A
+  </_UID>
+  <CHAN>
+    <DATE>
+      19 Apr 2004
+      <TIME>
+        00:05
+      </TIME>
+    </DATE>
+  </CHAN>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\claude_william_lewin.jpg
+    </FILE>
+    <TITL>
+      Claude William Lewin
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <FAMS>
+    @F700@
+  </FAMS>
+  <FAMS>
+    @F614@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<NOTE id='@XI1467@'>
+  <CONC>
+    Section 2A
+  </CONC>
+  <CONT>
+    Site 302-B
+  </CONT>
+</NOTE>
+<INDI id='@I1577@'>
+  <NAME>
+    Stephen Forrest /Lewin/
+    <GIVN>
+      Stephen Forrest
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      16 May 1948
+    </DATE>
+    <PLAC>
+      Stanford Medical Center, San Francisco, San Francisco Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S193@
+    </SOUR>
+    <SOUR>
+      @S289@
+    </SOUR>
+  </BIRT>
+  <REFN>
+    1577
+  </REFN>
+  <ADDR>
+    533 NE Bridgeton Road
+    <CONT>
+      Portland, OR 97211, , , ,
+    </CONT>
+    <_NAME>
+      Steve Lewin
+    </_NAME>
+    <ADR1>
+      533 NE Bridgeton Road
+    </ADR1>
+    <ADR2>
+      Portland, OR 97211, , , ,
+    </ADR2>
+  </ADDR>
+  <_UID>
+    8039704AF2544BC992FCE6DAF806783BCC63
+  </_UID>
+  <CHAN>
+    <DATE>
+      22 Feb 2003
+      <TIME>
+        15:30
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F436@
+  </FAMS>
+  <FAMC>
+    @F614@
+  </FAMC>
+</INDI>
+<INDI id='@I1589@'>
+  <NAME>
+    David Todd /Vosper/
+    <GIVN>
+      David Todd
+    </GIVN>
+    <SURN>
+      Vosper
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      1950
+    </DATE>
+  </BIRT>
+  <REFN>
+    1589
+  </REFN>
+  <_UID>
+    10B1F5EBC7F84B41A43542C5C97BF4373B93
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3905@
+  </FAMS>
+</INDI>
+<INDI id='@I1687@'>
+  <NAME>
+    Claudia Leadele /Lewin/
+    <GIVN>
+      Claudia Leadele
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      2 Apr 1950
+    </DATE>
+    <PLAC>
+      San Francisco, San Francisco Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S193@
+    </SOUR>
+  </BIRT>
+  <REFN>
+    1687
+  </REFN>
+  <ADDR>
+    1613 SE 127th Avenue
+    <CONT>
+      Vancouver, WA 98684, USA, , ,
+    </CONT>
+    <_NAME>
+      Claudia Falls
+    </_NAME>
+    <ADR1>
+      1613 SE 127th Avenue
+    </ADR1>
+    <ADR2>
+      Vancouver, WA 98684, USA, , ,
+    </ADR2>
+  </ADDR>
+  <_UID>
+    9849F8628AC347449FD36ED70B152EDBF37A
+  </_UID>
+  <CHAN>
+    <DATE>
+      16 Dec 2002
+      <TIME>
+        23:17
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F5@
+  </FAMS>
+  <FAMS>
+    @F770@
+  </FAMS>
+  <FAMS>
+    @F771@
+  </FAMS>
+  <FAMS>
+    @F3905@
+  </FAMS>
+  <FAMC>
+    @F614@
+  </FAMC>
+</INDI>
+<INDI id='@I1708@'>
+  <NAME>
+    Thomas /Bleth/
+    <GIVN>
+      Thomas
+    </GIVN>
+    <SURN>
+      Bleth
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1708
+  </REFN>
+  <_UID>
+    93630FADE05C4FA391BF3165E33A7260B53B
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F770@
+  </FAMS>
+</INDI>
+<INDI id='@I1710@'>
+  <NAME>
+    Herbert /Bernard/
+    <GIVN>
+      Herbert
+    </GIVN>
+    <SURN>
+      Bernard
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1710
+  </REFN>
+  <_UID>
+    439455D2423F46CF94D03B5FDFE93E7B13B7
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F540@
+  </FAMS>
+</INDI>
+<INDI id='@I1711@'>
+  <NAME>
+    Anne Louise /McQuade/
+    <GIVN>
+      Anne Louise
+    </GIVN>
+    <SURN>
+      McQuade
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      25 Aug 1928
+    </DATE>
+    <PLAC>
+      San Francisco Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S184@
+    </SOUR>
+    <SOUR>
+      @S193@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      16 Jun 1997
+    </DATE>
+    <PLAC>
+      Novato, Marin Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S184@
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1711
+  </REFN>
+  <EVEN>
+    552-34-3521
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S184@
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <_UID>
+    80723180B7274BD9B9642C041FB4D41BB4A7
+  </_UID>
+  <CHAN>
+    <DATE>
+      16 Jan 2003
+      <TIME>
+        12:12
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F700@
+  </FAMS>
+</INDI>
+<INDI id='@I1789@'>
+  <NAME>
+    Stephen Douglas /Morrison/
+    <GIVN>
+      Stephen Douglas
+    </GIVN>
+    <SURN>
+      Morrison
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      4 Jun 1949
+    </DATE>
+    <PLAC>
+      Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA
+    </PLAC>
+  </BIRT>
+  <REFN>
+    1789
+  </REFN>
+  <ADDR>
+    4958 Belford Lane
+    <CONT>
+      Lake Oswego, OR 97035 USA
+    </CONT>
+    <_NAME>
+      Steve Morrison
+    </_NAME>
+    <ADR1>
+      4958 Belford Lane
+    </ADR1>
+    <CITY>
+      Lake Oswego
+    </CITY>
+    <STAE>
+      OR
+    </STAE>
+    <POST>
+      97035
+    </POST>
+    <CTRY>
+      USA
+    </CTRY>
+  </ADDR>
+  <_UID>
+    25EBC0D910F040D39777574A2D2CC0981C5A
+  </_UID>
+  <CHAN>
+    <DATE>
+      17 Nov 2002
+      <TIME>
+        14:24
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F5@
+  </FAMS>
+  <FAMS>
+    @F3354@
+  </FAMS>
+  <FAMC>
+    @F493@
+  </FAMC>
+</INDI>
+<INDI id='@I1807@'>
+  <NAME>
+    Zelda Elaine /Lewin/
+    <GIVN>
+      Zelda Elaine
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      9 Mar 1907
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S183@
+      <PAGE>
+        Page 11B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      24 Jan 1978
+    </DATE>
+    <PLAC>
+      Sonoma, Sonoma Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1807
+  </REFN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      Sonoma Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <EVEN>
+    530-16-2387
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1910
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S86@
+      <PAGE>
+        Page 2
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Placerville, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S183@
+      <PAGE>
+        Page 11B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <OCCU>
+    Housekeeper
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Placerville, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S183@
+      <PAGE>
+        Page 11B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </OCCU>
+  <_UID>
+    8EADAA127D2F45B4825F6265D1EF7E9B1DB6
+  </_UID>
+  <CHAN>
+    <DATE>
+      12 Dec 2002
+      <TIME>
+        17:22
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F814@
+  </FAMS>
+  <FAMS>
+    @F815@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<INDI id='@I1808@'>
+  <NAME>
+    Leola Edna /Lewin/
+    <GIVN>
+      Leola Edna
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      14 Apr 1908
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S86@
+      <PAGE>
+        Page 2
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      4 Jul 1981
+    </DATE>
+    <PLAC>
+      Sacramento Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1808
+  </REFN>
+  <EVEN>
+    572-36-9818
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </EVEN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      Shingle Springs, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1910
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S86@
+      <PAGE>
+        Page 2
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Mud Springs, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    BF65CEA2512248FAA4D1FAF00C585ED33D5F
+  </_UID>
+  <CHAN>
+    <DATE>
+      12 Dec 2002
+      <TIME>
+        17:06
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F816@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<INDI id='@I1809@'>
+  <NAME>
+    Lilas F. /Lewin/
+    <GIVN>
+      Lilas F.
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      12 Jul 1909
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S20@
+      <PAGE>
+        1920, Comstock Twp, Custer Co, Nebraska, USA
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S86@
+      <PAGE>
+        Page 2
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    Y
+  </DEAT>
+  <REFN>
+    1809
+  </REFN>
+  <ADDR>
+    921 East 9th
+    <CONT>
+      Ogallala, Nebraska 69153
+    </CONT>
+    <_NAME>
+      Lilas Thomas
+    </_NAME>
+    <ADR1>
+      921 East 9th
+    </ADR1>
+    <CITY>
+      Ogallala
+    </CITY>
+    <STAE>
+      Nebraska
+    </STAE>
+    <POST>
+      69153
+    </POST>
+  </ADDR>
+  <PHON>
+    308-284-2186
+  </PHON>
+  <RESI>
+    <DATE>
+      1910
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S86@
+      <PAGE>
+        Page 2
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    D3EC45C4103747C190756B9CA572F7FF3082
+  </_UID>
+  <CHAN>
+    <DATE>
+      20 Feb 2003
+      <TIME>
+        11:55
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F817@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<INDI id='@I1810@'>
+  <NAME>
+    Leo Eugene /Lewin/
+    <GIVN>
+      Leo Eugene
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <NAME>
+    Pinky //
+    <GIVN>
+      Pinky
+    </GIVN>
+    <SURN>
+    </SURN>
+  </NAME>
+  <NAME>
+    Eugene L. /Lewin/
+    <GIVN>
+      Eugene L.
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      25 Jan 1911
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      May 1986
+    </DATE>
+    <PLAC>
+      Nevada, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1810
+  </REFN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      Dayton, Lyon Co, Nevada, USA
+    </PLAC>
+  </EVEN>
+  <EVEN>
+    560-10-7606
+    <TYPE>
+      Social Security Number
+    </TYPE>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    4CA29D2384344A5A9A8A6395329A6FC4251E
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Feb 2003
+      <TIME>
+        12:31
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMC>
+    @F559@
+  </FAMC>
+  <NOTE>
+    @NI1810@
+  </NOTE>
+</INDI>
+<NOTE id='@NI1810@'>
+  <CONC>
+    Also had 4 boys.
+  </CONC>
+</NOTE>
+<INDI id='@I1811@'>
+  <NAME>
+    John Harvey /Lewin/
+    <GIVN>
+      John Harvey
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      1 Sep 1915
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S20@
+      <PAGE>
+        1920, Comstock Twp, Custer Co, Nebraska, USA
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      18 Apr 1945
+    </DATE>
+    <PLAC>
+      Italy
+    </PLAC>
+    <CAUS>
+      Killed in Action
+    </CAUS>
+    <SOUR>
+      @S73@
+      <PAGE>
+        Entry for John H. Lewin
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+      <DATA>
+        <TEXT>
+          John H. Lewin
+          <CONT>
+            Private First Class, U.S. Army
+          </CONT>
+          <CONT>
+            39326572
+          </CONT>
+          <CONT>
+            85th Infantry Regiment, 10th Mountain Division
+          </CONT>
+          <CONT>
+            Entered the Service from: Oregon
+          </CONT>
+          <CONT>
+            Died: April 18, 1945
+          </CONT>
+          <CONT>
+            Buried at: Plot C Row 10 Grave 23
+          </CONT>
+          <CONT>
+            Florence American Cemetery
+          </CONT>
+          <CONT>
+            Florence, Italy
+          </CONT>
+          <CONT>
+            Awards: Bronze Star, Purple Heart
+          </CONT>
+        </TEXT>
+      </DATA>
+    </SOUR>
+  </DEAT>
+  <BURI>
+    <PLAC>
+      Florence American Cemetary, Florence, Italy
+    </PLAC>
+    <SOUR>
+      @S73@
+      <PAGE>
+        Entry for John H. Lewin
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <NOTE>
+      @XI1811@
+    </NOTE>
+  </BURI>
+  <REFN>
+    1811
+  </REFN>
+  <EVEN>
+    WW2, PFC, 85th Infantry Regiment, 10th Mountain Division
+    <TYPE>
+      Military
+    </TYPE>
+    <NOTE>
+      39326572
+    </NOTE>
+  </EVEN>
+  <EVEN>
+    Bronze Star
+    <TYPE>
+      Military Award
+    </TYPE>
+  </EVEN>
+  <EVEN>
+    Purple Heart
+    <TYPE>
+      Military Award
+    </TYPE>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      Abt 1944
+    </DATE>
+    <PLAC>
+      Lane Co, Oregon, USA
+    </PLAC>
+  </RESI>
+  <_UID>
+    4B32A9893DE1498C94DA1AB82D3DDD032C10
+  </_UID>
+  <CHAN>
+    <DATE>
+      28 Mar 2003
+      <TIME>
+        13:31
+      </TIME>
+    </DATE>
+  </CHAN>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\john_harvey_lewin.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <FAMS>
+    @F819@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<NOTE id='@XI1811@'>
+  <CONC>
+    Plot C Row 10 Grave 23
+  </CONC>
+</NOTE>
+<INDI id='@I1813@'>
+  <NAME>
+    Amy Lucille /Lewin/
+    <GIVN>
+      Amy Lucille
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      16 Sep 1917
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      9 Jun 1989
+    </DATE>
+    <PLAC>
+      El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1813
+  </REFN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      Shingle Springs, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <EVEN>
+    572-36-5830
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1920
+    </DATE>
+    <PLAC>
+      Comstock, Custer Co, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S84@
+      <PAGE>
+        Page 6
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    A6E824DC02A14A2C801F79F2A7136D09E1B0
+  </_UID>
+  <CHAN>
+    <DATE>
+      17 Dec 2002
+      <TIME>
+        10:42
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F820@
+  </FAMS>
+  <FAMC>
+    @F559@
+  </FAMC>
+</INDI>
+<INDI id='@I1814@'>
+  <NAME>
+    Jessie S. /Lewin/
+    <GIVN>
+      Jessie S.
+    </GIVN>
+    <SURN>
+      Lewin
+    </SURN>
+  </NAME>
+  <NAME>
+    Curly //
+    <GIVN>
+      Curly
+    </GIVN>
+    <SURN>
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      11 Mar 1920
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      7 Aug 1967
+    </DATE>
+    <PLAC>
+      San Francisco, San Francisco Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1814
+  </REFN>
+  <EVEN>
+    566-12-3797
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Ericson, Wheeler, Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S176@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    173FE087B30D42E89F400F41E37931DD4078
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Feb 2003
+      <TIME>
+        12:23
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMC>
+    @F559@
+  </FAMC>
+  <NOTE>
+    @NI1814@
+  </NOTE>
+</INDI>
+<NOTE id='@NI1814@'>
+  <CONC>
+    Had 8 children.
+  </CONC>
+</NOTE>
+<INDI id='@I1815@'>
+  <NAME>
+    Unknown /Woods/
+    <GIVN>
+      Unknown
+    </GIVN>
+    <SURN>
+      Woods
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1815
+  </REFN>
+  <_UID>
+    DE60DCE85E3D4CFBA272CC9374F268C5EA32
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F814@
+  </FAMS>
+</INDI>
+<INDI id='@I1819@'>
+  <NAME>
+    Albert Carl /Heinz/
+    <GIVN>
+      Albert Carl
+    </GIVN>
+    <SURN>
+      Heinz
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      12 Sep 1901
+    </DATE>
+    <PLAC>
+      Nebraska, USA
+    </PLAC>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      30 Oct 1960
+    </DATE>
+    <PLAC>
+      El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    1819
+  </REFN>
+  <OCCU>
+    <PLAC>
+      Saudi Arabia
+    </PLAC>
+  </OCCU>
+  <EVEN>
+    561-05-0793
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Mud Springs, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <OCCU>
+    Farmer
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Mud Springs, El Dorado Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </OCCU>
+  <_UID>
+    A7A8CC8757F142BBB93A7EDDE6E2CD30FA8C
+  </_UID>
+  <CHAN>
+    <DATE>
+      12 Dec 2002
+      <TIME>
+        17:02
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F816@
+  </FAMS>
+</INDI>
+<INDI id='@I1820@'>
+  <NAME>
+    Ray /Thomas/
+    <GIVN>
+      Ray
+    </GIVN>
+    <SURN>
+      Thomas
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1820
+  </REFN>
+  <_UID>
+    4D3881D7977245E09BB9DD112BDFFBA6F8EC
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F817@
+  </FAMS>
+</INDI>
+<INDI id='@I1828@'>
+  <NAME>
+    William /Daniels/
+    <GIVN>
+      William
+    </GIVN>
+    <SURN>
+      Daniels
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1828
+  </REFN>
+  <_UID>
+    FB8F3EF2CFDA4233AA7ECCF2B81E960630E0
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F820@
+  </FAMS>
+</INDI>
+<INDI id='@I1900@'>
+  <NAME>
+    Keith Douglas /Morrison/
+    <GIVN>
+      Keith Douglas
+    </GIVN>
+    <SURN>
+      Morrison
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      16 Feb 1971
+    </DATE>
+    <PLAC>
+      St. Vincents Hospital, Portland, Multnomah, Oregon, USA
+    </PLAC>
+  </BIRT>
+  <REFN>
+    1900
+  </REFN>
+  <_UID>
+    6B5E0132B03F41DC879591CEF163A7EA68E1
+  </_UID>
+  <CHAN>
+    <DATE>
+      24 Jan 2004
+      <TIME>
+        11:42
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F856@
+  </FAMS>
+  <FAMS>
+    @F857@
+  </FAMS>
+  <FAMC>
+    @F5@
+  </FAMC>
+  <NOTE>
+    @NI1900@
+  </NOTE>
+</INDI>
+<NOTE id='@NI1900@'>
+  <CONC>
+    Born 4:02pm / Weight 7 lbs 1/2 oz
+  </CONC>
+</NOTE>
+<INDI id='@I1973@'>
+  <NAME>
+    Winston /Falls/
+    <GIVN>
+      Winston
+    </GIVN>
+    <SURN>
+      Falls
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    1973
+  </REFN>
+  <_UID>
+    69E3C6AAB9724991AF0377C628CF4607F4AD
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F771@
+  </FAMS>
+</INDI>
+<INDI id='@I2045@'>
+  <NAME>
+    Agnes /Usselman/
+    <GIVN>
+      Agnes
+    </GIVN>
+    <SURN>
+      Usselman
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      15 Jun 1913
+    </DATE>
+    <PLAC>
+      Eureka, McPherson, South Dakota, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      12 Aug 1975
+    </DATE>
+    <PLAC>
+      Sacramento, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    2045
+  </REFN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      West Sacramento, Yolo Co, California, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <EVEN>
+    554-20-1780
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S184@
+    </SOUR>
+  </EVEN>
+  <_UID>
+    68EAD0F71C3F48EEB9F368B8D15EBFE44889
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Feb 2003
+      <TIME>
+        15:55
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F819@
+  </FAMS>
+</INDI>
+<INDI id='@I2276@'>
+  <NAME>
+    Jack Earl /Morrison/
+    <GIVN>
+      Jack Earl
+    </GIVN>
+    <SURN>
+      Morrison
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      2 Aug 1917
+    </DATE>
+    <PLAC>
+      Bellingham, Whatcom, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S103@
+      <PAGE>
+        District 155, Page 2B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 183, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S540@
+    </SOUR>
+  </BIRT>
+  <REFN>
+    2276
+  </REFN>
+  <RESI>
+    <DATE>
+      Abt 1916
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S171@
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 183, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1992
+    </DATE>
+    <PLAC>
+      Bend, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S171@
+    </SOUR>
+  </RESI>
+  <_UID>
+    89D8704DA6174467A9048C3548B86C53B375
+  </_UID>
+  <CHAN>
+    <DATE>
+      31 May 2004
+      <TIME>
+        21:27
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3618@
+  </FAMS>
+  <FAMC>
+    @F210@
+  </FAMC>
+</INDI>
+<INDI id='@I3579@'>
+  <NAME>
+    Arnold Ernest /Breeden/
+    <GIVN>
+      Arnold Ernest
+    </GIVN>
+    <SURN>
+      Breeden
+    </SURN>
+  </NAME>
+  <NAME>
+    Arnold Elsworth //
+    <GIVN>
+      Arnold Elsworth
+    </GIVN>
+    <SURN>
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      3 Mar 1885
+    </DATE>
+    <PLAC>
+      Kansas, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S212@
+      <PAGE>
+        Page 3C
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      6 Jan 1918
+    </DATE>
+    <PLAC>
+      Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate 39
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+      <DATA>
+        <TEXT>
+          Listed as Arnold E. Breedan
+        </TEXT>
+      </DATA>
+    </SOUR>
+  </DEAT>
+  <BURI>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+  </BURI>
+  <REFN>
+    3579
+  </REFN>
+  <EVEN>
+    <TYPE>
+      Alt. Birth
+    </TYPE>
+    <DATE>
+      Mar 1884
+    </DATE>
+    <PLAC>
+      Kansas, USA
+    </PLAC>
+    <SOUR>
+      @S519@
+      <PAGE>
+        Page 195
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1900
+    </DATE>
+    <PLAC>
+      Union Twp, Garfield Co, Oklahoma, USA
+    </PLAC>
+    <SOUR>
+      @S519@
+      <PAGE>
+        Page 195
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    AB7387158A1442DD9AEA30B4C6F983CEEF3E
+  </_UID>
+  <CHAN>
+    <DATE>
+      12 Sep 2004
+      <TIME>
+        18:46
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F499@
+  </FAMS>
+</INDI>
+<INDI id='@I4684@'>
+  <NAME>
+    Unknown /Neal/
+    <GIVN>
+      Unknown
+    </GIVN>
+    <SURN>
+      Neal
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    4684
+  </REFN>
+  <_UID>
+    373D4C4C57674C0EBE63ED588E49F965BF53
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F815@
+  </FAMS>
+</INDI>
+<INDI id='@I4796@'>
+  <NAME>
+    Suanne Marie /Heilman/
+    <GIVN>
+      Suanne Marie
+    </GIVN>
+    <SURN>
+      Heilman
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <REFN>
+    4796
+  </REFN>
+  <_UID>
+    FB4AD2151274459081CA8EB081D43C31D2A4
+  </_UID>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F856@
+  </FAMS>
+</INDI>
+<INDI id='@I4797@'>
+  <NAME>
+    Monica /Santoyo Lopez/
+    <GIVN>
+      Monica
+    </GIVN>
+    <SURN>
+      Santoyo Lopez
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      13 Jan 1971
+    </DATE>
+    <PLAC>
+      Celaya, , Guanajuato, México
+    </PLAC>
+  </BIRT>
+  <REFN>
+    4797
+  </REFN>
+  <_UID>
+    C0DCE28EA64D489A8F6F4D12BDB9BFB023BD
+  </_UID>
+  <CHAN>
+    <DATE>
+      19 Nov 2003
+      <TIME>
+        12:56
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F857@
+  </FAMS>
+</INDI>
+<INDI id='@I4958@'>
+  <NAME>
+    Berniece A. /Blanch/
+    <GIVN>
+      Berniece A.
+    </GIVN>
+    <SURN>
+      Blanch
+    </SURN>
+  </NAME>
+  <NAME>
+    Allie //
+    <GIVN>
+      Allie
+    </GIVN>
+    <SURN>
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      1 Mar 1891
+    </DATE>
+    <PLAC>
+      Ottawa, Franklin, Kansas, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate 74-06831
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S231@
+    </SOUR>
+    <SOUR>
+      @S263@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      4 May 1974
+    </DATE>
+    <PLAC>
+      Seaside, Clatsop, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate 74-06831
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </DEAT>
+  <BURI>
+    <PLAC>
+      Rose City Cemetery, Multnomah Co, Portland, Oregon, USA
+    </PLAC>
+  </BURI>
+  <REFN>
+    4958
+  </REFN>
+  <EVEN>
+    543-30-0266
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S231@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1900
+    </DATE>
+    <PLAC>
+      Hayes, Franklin Co, Kansas, USA
+    </PLAC>
+    <SOUR>
+      @S263@
+      <PAGE>
+        Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <RESI>
+    1638 SE Knight Street
+    <DATE>
+      15 Oct 1945
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S231@
+    </SOUR>
+  </RESI>
+  <OCCU>
+    Employed at Metzer Parker, Woodlark Building
+    <DATE>
+      15 Oct 1945
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S231@
+    </SOUR>
+  </OCCU>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <DATE>
+      1974
+    </DATE>
+    <PLAC>
+      Seaside, Clatsop, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <_UID>
+    53F17AA7D7144B9EB14FD9BCBC2B328D74B7
+  </_UID>
+  <CHAN>
+    <DATE>
+      12 Sep 2004
+      <TIME>
+        12:01
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F499@
+  </FAMS>
+  <FAMS>
+    @F3573@
+  </FAMS>
+</INDI>
+<INDI id='@I9260@'>
+  <NAME>
+    Lindsey /Unknown/
+    <GIVN>
+      Lindsey
+    </GIVN>
+    <SURN>
+      Unknown
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <REFN>
+    9260
+  </REFN>
+  <_UID>
+    CCA9FDB4DDCD4801A9A545DFF1C4B02414FD
+  </_UID>
+  <CHAN>
+    <DATE>
+      20 Mar 2003
+      <TIME>
+        15:54
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3354@
+  </FAMS>
+</INDI>
+<INDI id='@I10057@'>
+  <NAME>
+    Grover Cleveland /Curtner/
+    <GIVN>
+      Grover Cleveland
+    </GIVN>
+    <SURN>
+      Curtner
+    </SURN>
+  </NAME>
+  <NAME>
+    Bud //
+    <GIVN>
+      Bud
+    </GIVN>
+    <SURN>
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      Abt 1886
+    </DATE>
+    <PLAC>
+      Texas, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      27 Sep 1958
+    </DATE>
+    <PLAC>
+      Multnomah Co, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate 10984
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </DEAT>
+  <REFN>
+    10057
+  </REFN>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <OCCU>
+    Contractor (road and highway construction)
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </OCCU>
+  <_UID>
+    A260117B856D4081926493798DF4256049B6
+  </_UID>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:13
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3573@
+  </FAMS>
+</INDI>
+<INDI id='@I10058@'>
+  <NAME>
+    Margaret Blanch /Breeden/
+    <GIVN>
+      Margaret Blanch
+    </GIVN>
+    <SURN>
+      Breeden
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <BIRT>
+    <DATE>
+      5 Feb 1915
+    </DATE>
+    <PLAC>
+      Ranch 3 miles east of Monitor, Marion Co, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate Number 90-10555
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      21 May 1990
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate Number 90-10555
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </DEAT>
+  <BURI>
+    <NOTE>
+      @XI10058@
+    </NOTE>
+  </BURI>
+  <REFN>
+    10058
+  </REFN>
+  <EVEN>
+    544-18-1734
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <EVEN>
+    <TYPE>
+      Last Known Addr
+    </TYPE>
+    <PLAC>
+      Seaside, Clatsop, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <RESI>
+    <DATE>
+      1930
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </RESI>
+  <_UID>
+    810E3B80ABEE4D739155B47AC91049EFC831
+  </_UID>
+  <CHAN>
+    <DATE>
+      29 Jan 2003
+      <TIME>
+        11:50
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3576@
+  </FAMS>
+  <FAMC>
+    @F499@
+  </FAMC>
+</INDI>
+<NOTE id='@XI10058@'>
+  <CONC>
+    Ashes Spread over the Pacific Ocean at the Columbia River b
+  </CONC>
+  <CONC>
+    ar
+  </CONC>
+</NOTE>
+<INDI id='@I10063@'>
+  <NAME>
+    Carroll W. /Moscoe/
+    <GIVN>
+      Carroll W.
+    </GIVN>
+    <SURN>
+      Moscoe
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <BIRT>
+    <DATE>
+      2 Jun 1905
+    </DATE>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate Number 73-03830
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </BIRT>
+  <DEAT>
+    <DATE>
+      28 Mar 1973
+    </DATE>
+    <PLAC>
+      Clatsop Co, Oregon, USA
+    </PLAC>
+    <SOUR>
+      @S173@
+      <PAGE>
+        Certificate Number 73-03830
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </DEAT>
+  <REFN>
+    10063
+  </REFN>
+  <EVEN>
+    540-01-5680
+    <TYPE>
+      Social Security Number
+    </TYPE>
+    <SOUR>
+      @S55@
+    </SOUR>
+  </EVEN>
+  <_UID>
+    75133A5AAB3941318122D7A4F3FD4EE4B25C
+  </_UID>
+  <CHAN>
+    <DATE>
+      13 Dec 2002
+      <TIME>
+        11:52
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3576@
+  </FAMS>
+</INDI>
+<INDI id='@I10137@'>
+  <NAME>
+    Ronald David /Barrie/
+    <GIVN>
+      Ronald David
+    </GIVN>
+    <SURN>
+      Barrie
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    10137
+  </REFN>
+  <_UID>
+    70977D5900344627AFF6E7EABB9711BE154A
+  </_UID>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:18
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3611@
+  </FAMS>
+</INDI>
+<INDI id='@I10158@'>
+  <NAME>
+    Grace Marie /Unknown/
+    <GIVN>
+      Grace Marie
+    </GIVN>
+    <SURN>
+      Unknown
+    </SURN>
+  </NAME>
+  <SEX>
+    F
+  </SEX>
+  <REFN>
+    10158
+  </REFN>
+  <_UID>
+    62A3AE6C9F4E431993F8C85CF01A6B24B0DE
+  </_UID>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        23:30
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F3618@
+  </FAMS>
+</INDI>
+<INDI id='@I12106@'>
+  <NAME>
+    Unknown /Plotner/
+    <GIVN>
+      Unknown
+    </GIVN>
+    <SURN>
+      Plotner
+    </SURN>
+  </NAME>
+  <SEX>
+    M
+  </SEX>
+  <REFN>
+    12106
+  </REFN>
+  <_UID>
+    BED3C94D2AD44D018642AC86B5B1D8709BEE
+  </_UID>
+  <CHAN>
+    <DATE>
+      20 Feb 2003
+      <TIME>
+        12:35
+      </TIME>
+    </DATE>
+  </CHAN>
+  <FAMS>
+    @F4232@
+  </FAMS>
+</INDI>
+<FAM id='@F2@'>
+  <HUSB>
+    @I1@
+  </HUSB>
+  <WIFE>
+    @I1101@
+  </WIFE>
+  <MARR>
+    <PLAC>
+      Alberta, Canada
+    </PLAC>
+  </MARR>
+  <CHIL>
+    @I1282@
+  </CHIL>
+  <CHIL>
+    @I1393@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      9 Dec 2002
+      <TIME>
+        14:23
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F5@'>
+  <HUSB>
+    @I1789@
+  </HUSB>
+  <WIFE>
+    @I1687@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      25 Apr 1969
+    </DATE>
+    <PLAC>
+      West Minster Church, Portland, Oregon, USA
+    </PLAC>
+  </MARR>
+  <DIV>
+    <DATE>
+      1977
+    </DATE>
+  </DIV>
+  <CHIL>
+    @I1900@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      11 Dec 2002
+      <TIME>
+        12:41
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F65@'>
+  <HUSB>
+    @I111@
+  </HUSB>
+  <WIFE>
+    @I1393@
+  </WIFE>
+  <MARR>
+    <DATE>
+      1946
+    </DATE>
+    <SOUR>
+      @S174@
+    </SOUR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      8 Dec 2002
+      <TIME>
+        00:01
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F210@'>
+  <HUSB>
+    @I381@
+  </HUSB>
+  <WIFE>
+    @I382@
+  </WIFE>
+  <MARR>
+    <DATE>
+      20 Jun 1906
+    </DATE>
+    <PLAC>
+      Edwall, Lincoln, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S104@
+      <PAGE>
+        Page 1B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </MARR>
+  <CHIL>
+    @I998@
+  </CHIL>
+  <CHIL>
+    @I383@
+  </CHIL>
+  <CHIL>
+    @I2276@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      26 Feb 2003
+      <TIME>
+        12:23
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F212@'>
+  <HUSB>
+    @I1181@
+  </HUSB>
+  <WIFE>
+    @I383@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      4 May 1940
+    </DATE>
+  </MARR>
+  <DIV>
+    <DATE>
+      1973
+    </DATE>
+  </DIV>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        23:30
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F436@'>
+  <HUSB>
+    @I1577@
+  </HUSB>
+  <WIFE>
+    @I887@
+  </WIFE>
+  <MARR>
+    <DATE>
+      11 Jul 1987
+    </DATE>
+    <PLAC>
+      Portland, Multnomah, Oregon, USA
+    </PLAC>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F493@'>
+  <HUSB>
+    @I998@
+  </HUSB>
+  <WIFE>
+    @I1009@
+  </WIFE>
+  <MARR>
+    <DATE>
+      1 Nov 1946
+    </DATE>
+  </MARR>
+  <CHIL>
+    @I1019@
+  </CHIL>
+  <CHIL>
+    @I1789@
+  </CHIL>
+  <CHIL>
+    @I1030@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:19
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F499@'>
+  <HUSB>
+    @I3579@
+  </HUSB>
+  <WIFE>
+    @I4958@
+  </WIFE>
+  <MARR>
+    <DATE>
+      28 Oct 1909
+    </DATE>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </MARR>
+  <CHIL>
+    @I1181@
+  </CHIL>
+  <CHIL>
+    @I10058@
+  </CHIL>
+  <CHIL>
+    @I1009@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:12
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F540@'>
+  <HUSB>
+    @I1710@
+  </HUSB>
+  <WIFE>
+    @I1101@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F559@'>
+  <HUSB>
+    @I1155@
+  </HUSB>
+  <WIFE>
+    @I1166@
+  </WIFE>
+  <MARR>
+    <DATE>
+      21 Feb 1906
+    </DATE>
+    <PLAC>
+      Ord, Valley Co, Nebraska, USA
+    </PLAC>
+  </MARR>
+  <CHIL>
+    @I1807@
+  </CHIL>
+  <CHIL>
+    @I1808@
+  </CHIL>
+  <CHIL>
+    @I1809@
+  </CHIL>
+  <CHIL>
+    @I1810@
+  </CHIL>
+  <CHIL>
+    @I1467@
+  </CHIL>
+  <CHIL>
+    @I1811@
+  </CHIL>
+  <CHIL>
+    @I1813@
+  </CHIL>
+  <CHIL>
+    @I1814@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      9 Nov 2002
+      <TIME>
+        09:23
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F614@'>
+  <HUSB>
+    @I1467@
+  </HUSB>
+  <WIFE>
+    @I1282@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      10 Mar 1946
+    </DATE>
+    <PLAC>
+      San Francisco, San Francisco Co, California, USA
+    </PLAC>
+  </MARR>
+  <EVEN>
+    <TYPE>
+      Marriage Fact
+    </TYPE>
+    <DATE>
+      1955
+    </DATE>
+  </EVEN>
+  <CHIL>
+    @I1577@
+  </CHIL>
+  <CHIL>
+    @I1687@
+  </CHIL>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F700@'>
+  <HUSB>
+    @I1467@
+  </HUSB>
+  <WIFE>
+    @I1711@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F770@'>
+  <HUSB>
+    @I1708@
+  </HUSB>
+  <WIFE>
+    @I1687@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      13 Sep 1987
+    </DATE>
+    <PLAC>
+      Reno, Washoe, Nevada, USA
+    </PLAC>
+  </MARR>
+  <CHAN>
+    <DATE>
+      11 Jan 2003
+      <TIME>
+        17:25
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F771@'>
+  <HUSB>
+    @I1973@
+  </HUSB>
+  <WIFE>
+    @I1687@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      1993
+    </DATE>
+    <PLAC>
+      Vancouver, Clark, Washington, USA
+    </PLAC>
+  </MARR>
+  <EVEN>
+    <TYPE>
+      Marriage Fact
+    </TYPE>
+    <DATE>
+      2001
+    </DATE>
+  </EVEN>
+  <CHAN>
+    <DATE>
+      11 Jan 2003
+      <TIME>
+        17:25
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F814@'>
+  <HUSB>
+    @I1815@
+  </HUSB>
+  <WIFE>
+    @I1807@
+  </WIFE>
+  <MARR>
+    <DATE>
+      Bef 1930
+    </DATE>
+    <SOUR>
+      @S183@
+      <PAGE>
+        Page 11B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      11 Dec 2002
+      <TIME>
+        14:55
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F815@'>
+  <HUSB>
+    @I4684@
+  </HUSB>
+  <WIFE>
+    @I1807@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F816@'>
+  <HUSB>
+    @I1819@
+  </HUSB>
+  <WIFE>
+    @I1808@
+  </WIFE>
+  <MARR>
+    <DATE>
+      Abt 1928
+    </DATE>
+    <SOUR>
+      @S182@
+      <PAGE>
+        Page 4B
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      11 Dec 2002
+      <TIME>
+        14:46
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F817@'>
+  <HUSB>
+    @I1820@
+  </HUSB>
+  <WIFE>
+    @I1809@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F819@'>
+  <HUSB>
+    @I1811@
+  </HUSB>
+  <WIFE>
+    @I2045@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F820@'>
+  <HUSB>
+    @I1828@
+  </HUSB>
+  <WIFE>
+    @I1813@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      21 Oct 2002
+      <TIME>
+        22:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F856@'>
+  <HUSB>
+    @I1900@
+  </HUSB>
+  <WIFE>
+    @I4796@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      23 Mar 1990
+    </DATE>
+    <PLAC>
+      Vancouver, Clark, Washington, USA
+    </PLAC>
+  </MARR>
+  <DIV>
+    <DATE>
+      12 Aug 1993
+    </DATE>
+    <PLAC>
+      Vancouver, Clark, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S27@
+    </SOUR>
+  </DIV>
+  <CHAN>
+    <DATE>
+      8 Jan 2003
+      <TIME>
+        12:00
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F857@'>
+  <HUSB>
+    @I1900@
+  </HUSB>
+  <WIFE>
+    @I4797@
+  </WIFE>
+  <MARR>
+    <DATE>
+      16 Dec 2000
+    </DATE>
+    <PLAC>
+      Vancouver, Clark, Washington, USA
+    </PLAC>
+    <SOUR>
+      @S100@
+    </SOUR>
+    <SOUR>
+      @S101@
+    </SOUR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      19 Nov 2003
+      <TIME>
+        14:51
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3354@'>
+  <HUSB>
+    @I1789@
+  </HUSB>
+  <WIFE>
+    @I9260@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      1 Nov 2002
+      <TIME>
+        21:54
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3573@'>
+  <HUSB>
+    @I10057@
+  </HUSB>
+  <WIFE>
+    @I4958@
+  </WIFE>
+  <MARR>
+    <DATE>
+      14 Oct 1923
+    </DATE>
+    <SOUR>
+      @S172@
+      <PAGE>
+        District 151, Page 2A
+      </PAGE>
+      <QUAY>
+        3
+      </QUAY>
+    </SOUR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:13
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3576@'>
+  <HUSB>
+    @I10063@
+  </HUSB>
+  <WIFE>
+    @I10058@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      8 Dec 2002
+      <TIME>
+        11:33
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3611@'>
+  <HUSB>
+    @I10137@
+  </HUSB>
+  <WIFE>
+    @I1009@
+  </WIFE>
+  <DIV>
+    Y
+  </DIV>
+  <MARR>
+    <DATE>
+      Jul 1938
+    </DATE>
+  </MARR>
+  <DIV>
+    <DATE>
+      1946
+    </DATE>
+  </DIV>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        22:19
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3618@'>
+  <HUSB>
+    @I2276@
+  </HUSB>
+  <WIFE>
+    @I10158@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      24 Dec 2002
+      <TIME>
+        23:30
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F3905@'>
+  <HUSB>
+    @I1589@
+  </HUSB>
+  <WIFE>
+    @I1687@
+  </WIFE>
+  <MARR>
+    <DATE>
+      11 Jan 2003
+    </DATE>
+    <PLAC>
+      Vancouver, Clark, Washington, USA
+    </PLAC>
+  </MARR>
+  <CHAN>
+    <DATE>
+      11 Jan 2003
+      <TIME>
+        17:24
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<FAM id='@F4232@'>
+  <HUSB>
+    @I12106@
+  </HUSB>
+  <WIFE>
+    @I1282@
+  </WIFE>
+  <MARR>
+  </MARR>
+  <CHAN>
+    <DATE>
+      20 Feb 2003
+      <TIME>
+        12:35
+      </TIME>
+    </DATE>
+  </CHAN>
+</FAM>
+<SOUR id='@S212@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1880 U.S. Census - Kansas, Lane Co, Township 17
+  </ABBR>
+  <TITL>
+    1880 U.S. Census - Kansas, Lane Co, Township 17
+  </TITL>
+</SOUR>
+<SOUR id='@S526@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1891 U.K. Census - England, Somerset, Lydeard St. Lawrence
+  </ABBR>
+  <TITL>
+    U.K. Census - England, Somerset, Lydeard St. Lawrence
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program
+      Files\Legacy\Pictures\1891C-England-Somerset-LydeardStLawrence-Dist8-10.jpg
+    </FILE>
+    <TITL>
+      Page 10
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S263@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1900 U.S. Census - Kansas, Franklin Co, Hayes
+  </ABBR>
+  <TITL>
+    1900 U.S. Census - Kansas, Franklin Co, Hayes
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1900C-KS-Franklin-Hayes2A.jpg
+    </FILE>
+    <TITL>
+      Page 2A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S273@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1900 U.S. Census - Kansas, Norton Co, Crystal
+  </ABBR>
+  <TITL>
+    1900 U.S. Census - Kansas, Norton Co, Crystal
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1900C-KS-Norton-Crystal7B.jpg
+    </FILE>
+    <TITL>
+      Page 7B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S143@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1900 U.S. Census - Nebraska, Custer Co, Sargent Twp
+  </ABBR>
+  <TITL>
+    1900 U.S. Census - Nebraska, Custer Co, Sargent Twp
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1900C-NE-Custer-Sargent170A.jpg
+    </FILE>
+    <TITL>
+      Page 170A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S519@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1900 U.S. Census - Oklahoma, Garfield Co, Union Twp
+  </ABBR>
+  <TITL>
+    1900 U.S. Census - Oklahoma, Garfield Co, Union Twp
+  </TITL>
+  <OBJE>
+    <FORM>
+      gif
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1900C-OK-Garfield-Union195.gif
+    </FILE>
+    <TITL>
+      Page 195
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S76@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1901 U.K. Census - England, Somerset, West Bagborough
+  </ABBR>
+  <TITL>
+    1901 U.K. Census - England, Somerset, West Bagborough
+  </TITL>
+</SOUR>
+<SOUR id='@S86@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1910 U.S. Census - Nebraska, Custer Co, Comstock Twp
+  </ABBR>
+  <TITL>
+    1910 U.S. Census - Nebraska, Custer Co, Comstock Twp
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1910C-NE-Custer-Comstock1.jpg
+    </FILE>
+    <TITL>
+      Page 1A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1910C-NE-Custer-Comstock2.jpg
+    </FILE>
+    <TITL>
+      Page 2A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1910C-NE-Custer-Comstock6A.jpg
+    </FILE>
+    <TITL>
+      Page 6A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1910C-NE-Custer-Comstock3A.jpg
+    </FILE>
+    <TITL>
+      Page 3A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S104@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1910 U.S. Census - Washington, Lincoln Co, Edwall
+  </ABBR>
+  <TITL>
+    1910 U.S. Census - Washington, Lincoln Co, Edwall
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1910C-WA-Lincoln-Edwall1B.jpg
+    </FILE>
+    <TITL>
+      Page 1B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S84@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1920 U.S. Census - Nebraska, Custer Co, Comstock Twp
+  </ABBR>
+  <TITL>
+    1930 U.S. Census - Nebraska, Custer Co, Comstock Twp
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1920C-NE-Custer-Comstock1.jpg
+    </FILE>
+    <TITL>
+      Page 6
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1920C-NE-Custer-Comstock216.jpg
+    </FILE>
+    <TITL>
+      Page 216
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1920C-NE-Custer-Comstock111.jpg
+    </FILE>
+    <TITL>
+      Page 111
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S103@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1920 U.S. Census - Oregon, Multnomah Co, Portland
+  </ABBR>
+  <TITL>
+    1920 U.S. Census - Oregon, Multnomah Co, Portland
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1920C-OR-Multnomah-Portland2B.jpg
+    </FILE>
+    <TITL>
+      Dist 155, Page 2B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1920C-OR-Multnomah-Portland-Prec274-9A.jpg
+    </FILE>
+    <TITL>
+      Precinct 274, Page 9A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S182@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1930 U.S. Census - California, El Dorado Co, Mud Springs
+  </ABBR>
+  <TITL>
+    1930 U.S. Census - California, El Dorado Co, Mud Springs
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-CA-ElDorado-MudSprings4B.jpg
+    </FILE>
+    <TITL>
+      Pge 4B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S183@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1930 U.S. Census - California, El Dorado Co, Placerville
+  </ABBR>
+  <TITL>
+    1930 U.S. Census - California, El Dorado Co, Placerville
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-CA-ElDorado-Placerville11B.jpg
+    </FILE>
+    <TITL>
+      Page 11B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S176@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1930 U.S. Census - Nebraska, Wheeler Co, Ericson
+  </ABBR>
+  <TITL>
+    1930 U.S. Census - Nebraska, Wheeler Co, Ericson
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-NE-Wheeler-Ericson2A.jpg
+    </FILE>
+    <TITL>
+      Page 2A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S172@'>
+  <_MEDI>
+    Census/Tax
+  </_MEDI>
+  <ABBR>
+    1930 U.S. Census - Oregon, Multnomah Co, Portland
+  </ABBR>
+  <TITL>
+    1930 U.S. Census - Oregon, Multnomah Co, Portland
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-OR-Multnomah-Portland152-2A.jpg
+    </FILE>
+    <TITL>
+      Dist 151, Page 2A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-OR-Multnomah-Portland183-2A.jpg
+    </FILE>
+    <TITL>
+      Dist 183, Page 2A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930C-OR-Multnomah-Portland498-4B.jpg
+    </FILE>
+    <TITL>
+      Dist 498, Page 4B
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      gif
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\1930-OR-Portland-Dist461-4A.gif
+    </FILE>
+    <TITL>
+      Dist 461, Page 4A
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S160@'>
+  <_MEDI>
+    Book
+  </_MEDI>
+  <ABBR>
+    Acme Memories
+  </ABBR>
+  <TITL>
+    Acme Memories
+  </TITL>
+  <PUBL>
+    Acme and District Historical Society - Acme, Alberta - 1979
+  </PUBL>
+  <TEXT>
+    Page 468
+    <CONT>
+    </CONT>
+    <CONT>
+      Walter Whalley - by Mary Whalley
+    </CONT>
+    <CONT>
+    </CONT>
+    <CONT>
+      On May 19, 1904 the Cochrane family - consisting of our mot
+    </CONT>
+    <CONC>
+      her, Grace Cochrane, my brother Gordon, and myself, Mary, l
+    </CONC>
+    <CONC>
+      eft Ottawa, Ontario, tot take up homesteads on land ten o
+    </CONC>
+    <CONC>
+      r 12 miles west of what now is Acme. We were 20 miles eas
+    </CONC>
+    <CONC>
+      t of Crossfield whic was our nearest post office and town
+    </CONC>
+    <CONC>
+      . When we settled there, there were no roads, no fences, n
+    </CONC>
+    <CONC>
+      o settler&apos;s light, except for the three Davis bachelors far
+    </CONC>
+    <CONC>
+      ming on the fourth quarter of our section. Prior to our ar
+    </CONC>
+    <CONC>
+      rival my older brother, Douglas, had moved to a farm clos
+    </CONC>
+    <CONC>
+      e to Crossfield and we had come to join him.
+    </CONC>
+    <CONT>
+    </CONT>
+    <CONT>
+      In the year 1910 I married Walter Whalley, living on a home
+    </CONT>
+    <CONC>
+      stead close to Acme with his mother, Mrs. Margaret Whiddon
+    </CONC>
+    <CONC>
+      , and his sister, Nellie Whalley.
+    </CONC>
+    <CONT>
+    </CONT>
+    <CONT>
+      In the year 1911 or 1912 the Anglican Church, St. John th
+    </CONT>
+    <CONC>
+      e Divine, was built in Acme, all volunteer labour of the me
+    </CONC>
+    <CONC>
+      n. The women cooked and delivered a hot meal each day to t
+    </CONC>
+    <CONC>
+      he workers. Our first clergyman was the Rev. W. Attwood wh
+    </CONC>
+    <CONC>
+      o shingled the church roof unassisted. On completion of th
+    </CONC>
+    <CONC>
+      e building, Bishop Pinkham cam out and with Rev. Attwood as
+    </CONC>
+    <CONC>
+      sisting, our church was dedicated. Both clergymen stayed o
+    </CONC>
+    <CONC>
+      vernight with us in our home.
+    </CONC>
+    <CONT>
+    </CONT>
+    <CONT>
+      We farmed at Acme for two more years, then rented the far
+    </CONT>
+    <CONC>
+      m and moved to Calgary where our first two children, Ronni
+    </CONC>
+    <CONC>
+      e and Beth were born, Ronnie in 1915 and Beth in 1917. I
+    </CONC>
+    <CONC>
+      n 1922 we moved back to Acme where our third child, Margare
+    </CONC>
+    <CONC>
+      t, was born on the farm. The winters were very, very sever
+    </CONC>
+    <CONC>
+      e. When Margaret was born we had to put her in the warmin
+    </CONC>
+    <CONC>
+      g oven of our cookstove to keep her warm enough.
+    </CONC>
+  </TEXT>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\AcmeMemories_Cover.jpg
+    </FILE>
+    <TITL>
+      Cover
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\AcmeMemories_Title.jpg
+    </FILE>
+    <TITL>
+      Title
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\AcmeMemories_P468.jpg
+    </FILE>
+    <TITL>
+      Page 468
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\AcmeMemories_P469.jpg
+    </FILE>
+    <TITL>
+      Page 469
+    </TITL>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S10@'>
+  <ABBR>
+    Ancestry.com Database
+  </ABBR>
+  <TITL>
+    Ancestry.com Database
+  </TITL>
+  <REPO>
+    @R63@
+  </REPO>
+</SOUR>
+<SOUR id='@S231@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Application for SSN - Berniece Blanch
+  </ABBR>
+  <TITL>
+    Application for SSN - Berniece Blanch
+  </TITL>
+</SOUR>
+<SOUR id='@S11@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Application for SSN - Julianna Breeden
+  </ABBR>
+  <TITL>
+    Application for SSN - Julianna Breeden
+  </TITL>
+</SOUR>
+<SOUR id='@S289@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Birth Certificate - Stephen Forrest Lewin
+  </ABBR>
+  <TITL>
+    Birth Certificate - Stephen Forrest Lewin
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\BirthCert-StephenLewin.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S158@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    British Columbia Cemetary Finding Aid Database
+  </ABBR>
+  <TITL>
+    British Columbia Cemetary Finding Aid Database
+  </TITL>
+  <REPO>
+    @R92@
+  </REPO>
+</SOUR>
+<SOUR id='@S14@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    British Columbia Death Index - 1872 to 1981
+  </ABBR>
+  <TITL>
+    British Columbia Death Index - 1872 to 1981
+  </TITL>
+  <REPO>
+    @R93@
+  </REPO>
+</SOUR>
+<SOUR id='@S193@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    California Birth Index, 1905-1995
+  </ABBR>
+  <TITL>
+    California Birth Index, 1905-1995
+  </TITL>
+  <REPO>
+    @R96@
+  </REPO>
+</SOUR>
+<SOUR id='@S184@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    California Deaths, 1940-1997
+  </ABBR>
+  <TITL>
+    California Deaths, 1940-1997
+  </TITL>
+  <REPO>
+    @R85@
+  </REPO>
+</SOUR>
+<SOUR id='@S20@'>
+  <ABBR>
+    Census
+  </ABBR>
+  <TITL>
+    Census
+  </TITL>
+  <REPO>
+    @R19@
+  </REPO>
+</SOUR>
+<SOUR id='@S288@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Certificate of Naturalization - Estelle Meredith Cochrane
+  </ABBR>
+  <TITL>
+    Certificate of Naturalization - Estelle Meredith Cochrane
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\Naturalization-EstelleMerid.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S151@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Death Certificate of John Douglas Cochrane
+  </ABBR>
+  <TITL>
+    Death Certificate of John Douglas Cochrane
+  </TITL>
+  <OBJE>
+    <FORM>
+      tif
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\D1941-09-591161.tif
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S27@'>
+  <ABBR>
+    Divorce Certificate
+  </ABBR>
+  <TITL>
+    Divorce Certificate
+  </TITL>
+</SOUR>
+<SOUR id='@S101@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Marriage Application of Keith Morrison and Monica Santoyo
+  </ABBR>
+  <TITL>
+    Marriage Application of Keith Morrison and Monica Santoyo
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\morrison_santoyo_marr_app.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S100@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Marriage Certificate of Keith Morrison and Monica Santoyo
+  </ABBR>
+  <TITL>
+    Marriage Certificate of Keith Morrison and Monica Santoyo
+  </TITL>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\morrison_santoyo_marr_cert.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S507@'>
+  <_MEDI>
+    Military
+  </_MEDI>
+  <ABBR>
+    Notice of Separation from US Naval Service - Claude William Lewin
+  </ABBR>
+  <TITL>
+    Notice of Separation from US Naval Service - Claude Willia
+    <CONC>
+      m Lewin
+    </CONC>
+  </TITL>
+</SOUR>
+<SOUR id='@S170@'>
+  <_MEDI>
+    Newspaper
+  </_MEDI>
+  <ABBR>
+    Obituary of Bern Breeden
+  </ABBR>
+  <TITL>
+    The Oregonian
+  </TITL>
+  <PUBL>
+    August 27, 1992
+  </PUBL>
+  <TEXT>
+    Page F10
+    <CONT>
+      A memorial service for Bern Breeden of Seaside will be a
+    </CONT>
+    <CONC>
+      t 2 p.m. Saturday in the Hughes Ransom Mortuary in Seaside.
+    </CONC>
+    <CONT>
+      Mr. Breeden died Monday in a Portland care center. He was 8
+    </CONT>
+    <CONC>
+      2.
+    </CONC>
+    <CONT>
+      He was born in Oklahoma in 1910, but moved to Portland a
+    </CONT>
+    <CONC>
+      s a child. He later worked as a construction supervisor fo
+    </CONC>
+    <CONC>
+      r Portland Road and Driveway Co. for more than 30 years.
+    </CONC>
+    <CONT>
+      He was a former member of the U.S. Coast Guard Auxiliary.
+    </CONT>
+    <CONT>
+      Survivors include a sister, Julianna Morrison of Portland
+    </CONT>
+    <CONC>
+      , and a brother, B.J. Curtner of Wilsonville.
+    </CONC>
+    <CONT>
+      Disposition was by cremation.
+    </CONT>
+    <CONT>
+      The family suggests that remembrances be contributions t
+    </CONT>
+    <CONC>
+      o a favorite charity.
+    </CONC>
+  </TEXT>
+</SOUR>
+<SOUR id='@S171@'>
+  <_MEDI>
+    Newspaper
+  </_MEDI>
+  <ABBR>
+    Obituary of Evelyn Paula Breeden
+  </ABBR>
+  <TITL>
+    The Oregonian
+  </TITL>
+  <PUBL>
+    August 5, 1992
+  </PUBL>
+  <TEXT>
+    Page B8:
+    <CONT>
+      A memorial service for Evelyn Paula Breeden, a North Portla
+    </CONT>
+    <CONC>
+      nd resident, will be at 1 p.m. Wednesday in the chapel of R
+    </CONC>
+    <CONC>
+      ose City Cemetery and Funeral Home.
+    </CONC>
+    <CONT>
+      Mrs. Breeden died of lung cancer Sunday in a Portland car
+    </CONT>
+    <CONC>
+      e center. She was 82.
+    </CONC>
+    <CONT>
+      She was born March 19, 1910, in Edwall, Wash., and moved t
+    </CONT>
+    <CONC>
+      o Oregon with her family at the age of 6. Mrs. Breeden wa
+    </CONC>
+    <CONC>
+      s a homemaker. She had lived in North Portland for many yea
+    </CONC>
+    <CONC>
+      rs and briefly had done laboratory work for Good Samarita
+    </CONC>
+    <CONC>
+      n Hospital &amp; Medical Center.
+    </CONC>
+    <CONT>
+      Mrs. Breeden is survived by her brother, Jack E. Morrison o
+    </CONT>
+    <CONC>
+      f Bend.
+    </CONC>
+    <CONT>
+      Disposition was by cremation.
+    </CONT>
+    <CONT>
+      The family suggests that remembrances be contributions t
+    </CONT>
+    <CONC>
+      o a favorite charity.
+    </CONC>
+  </TEXT>
+</SOUR>
+<SOUR id='@S174@'>
+  <_MEDI>
+    Newspaper
+  </_MEDI>
+  <ABBR>
+    Obituary of Muriel Alice Nims
+  </ABBR>
+  <TITL>
+    The Oregonian
+  </TITL>
+  <PUBL>
+    November 17, 1996
+  </PUBL>
+  <TEXT>
+    Page C15:
+    <CONT>
+      A memorial service will be at 3 p.m. Tuesday, Nov. 19, 1996
+    </CONT>
+    <CONC>
+      , in Rose City Cemetery and Funeral Home for Muriel Alice N
+    </CONC>
+    <CONC>
+      ims, who died Nov. 14 of complications of Parkinson&apos;s disea
+    </CONC>
+    <CONC>
+      se at age 79.
+    </CONC>
+    <CONT>
+      Mrs. Nims was born Aug. 10, 1917, in Calgary, Alberta. In 1
+    </CONT>
+    <CONC>
+      946, she married C.H. Nims.
+    </CONC>
+    <CONT>
+      Surviving are her husband; daughter, Cheryl D. Rosen of Por
+    </CONT>
+    <CONC>
+      tland; sister, Estelle Lewin of Portland; one grandchild; a
+    </CONC>
+    <CONC>
+      nd two great-grandchildren.
+    </CONC>
+    <CONT>
+      Disposition will be by cremation. The family suggests remem
+    </CONT>
+    <CONC>
+      brances to Parkinson Center of Oregon in care of Oregon Hea
+    </CONC>
+    <CONC>
+      lth Sciences University Department of Neurology L-226.
+    </CONC>
+  </TEXT>
+</SOUR>
+<SOUR id='@S173@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    Oregon Death Index
+  </ABBR>
+  <TITL>
+    Oregon Death Index
+  </TITL>
+  <REPO>
+    @R85@
+  </REPO>
+  <OBJE>
+    <FORM>
+      jpg
+    </FORM>
+    <FILE>
+      C:\Program Files\Legacy\Pictures\DeathCert-LeahMaryEdwards.jpg
+    </FILE>
+    <_SCBK>
+      Y
+    </_SCBK>
+    <_PRIM>
+      Y
+    </_PRIM>
+    <_TYPE>
+      PHOTO
+    </_TYPE>
+  </OBJE>
+</SOUR>
+<SOUR id='@S528@'>
+  <_MEDI>
+    Vital
+  </_MEDI>
+  <ABBR>
+    Parish Registers, Somerset 16 May 1573 - 8 Oct 1903
+  </ABBR>
+  <TITL>
+    Parish Registers, Somerset 16 May 1573 - 8 Oct 1903
+  </TITL>
+  <REPO>
+    @R118@
+  </REPO>
+</SOUR>
+<SOUR id='@S55@'>
+  <ABBR>
+    Social Security Death Index
+  </ABBR>
+  <TITL>
+    Social Security Death Index
+  </TITL>
+  <REPO>
+    @R63@
+  </REPO>
+</SOUR>
+<SOUR id='@S59@'>
+  <ABBR>
+    The Comstock News
+  </ABBR>
+  <TITL>
+    The Comstock News
+  </TITL>
+  <PUBL>
+    Nebraska
+  </PUBL>
+  <REPO>
+    @R19@
+  </REPO>
+</SOUR>
+<SOUR id='@S63@'>
+  <ABBR>
+    Tombstone Inscription
+  </ABBR>
+  <TITL>
+    Tombstone Inscription
+  </TITL>
+  <REPO>
+    @R19@
+  </REPO>
+</SOUR>
+<SOUR id='@S540@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    Washington State Birth Index 1907-19
+  </ABBR>
+  <TITL>
+    Washington State Birth Index 1907-19
+  </TITL>
+  <REPO>
+    @R85@
+  </REPO>
+</SOUR>
+<SOUR id='@S73@'>
+  <_MEDI>
+    Internet
+  </_MEDI>
+  <ABBR>
+    World War II Honor Roll - ABMC
+  </ABBR>
+  <TITL>
+    World War II Honor Roll - American Battle Monuments Commiss
+    <CONC>
+      ion
+    </CONC>
+  </TITL>
+  <AUTH>
+    AMERICAN BATTLE MONUMENTS COMMISSION
+  </AUTH>
+  <PUBL>
+    online &lt;http://americanwardead.com/listww.asp&gt;
+  </PUBL>
+</SOUR>
+<REPO id='@R19@'>
+  <NAME>
+    Keith Morrison
+  </NAME>
+  <ADDR>
+    <_NAME>
+      Keith Morrison
+    </_NAME>
+  </ADDR>
+  <_EMAIL>
+    keithm@infused.org
+  </_EMAIL>
+</REPO>
+<REPO id='@R63@'>
+  <NAME>
+    Not Given (See Notes)
+  </NAME>
+  <ADDR>
+    <_NAME>
+      Not Given (See Notes)
+    </_NAME>
+  </ADDR>
+  <NOTE>
+    http://www.vanderfordfamily.com
+  </NOTE>
+</REPO>
+<REPO id='@R85@'>
+  <NAME>
+    Ancestry.com
+  </NAME>
+  <ADDR>
+    <_NAME>
+      Ancestry.com
+    </_NAME>
+  </ADDR>
+  <_URL>
+    www.ancestry.com
+  </_URL>
+</REPO>
+<REPO id='@R92@'>
+  <NAME>
+    n/a
+  </NAME>
+  <ADDR>
+    <_NAME>
+      n/a
+    </_NAME>
+  </ADDR>
+  <_URL>
+    http://www.islandnet.com/cgi-bin/ms2/rsd/search
+  </_URL>
+</REPO>
+<REPO id='@R93@'>
+  <NAME>
+    BC Archives
+  </NAME>
+  <ADDR>
+    <_NAME>
+      BC Archives
+    </_NAME>
+  </ADDR>
+  <_URL>
+    http://www.bcarchives.gov.bc.ca
+  </_URL>
+</REPO>
+<REPO id='@R96@'>
+  <NAME>
+    Vitalsearch California Birth Index
+  </NAME>
+  <ADDR>
+    <_NAME>
+      Vitalsearch California Birth Index
+    </_NAME>
+  </ADDR>
+  <_URL>
+    http://www.vitalsearch-ca.com/gen/ca/_vitals/cabiygen.htm
+  </_URL>
+</REPO>
+<REPO id='@R118@'>
+  <NAME>
+    n/a
+  </NAME>
+  <ADDR>
+    <_NAME>
+      n/a
+    </_NAME>
+  </ADDR>
+  <_URL>
+    Parish Registers, Somerset 16 May 1573 - 8 Oct 1903
+  </_URL>
+</REPO>
+<TRLR>
+</TRLR>
+</gedcom>

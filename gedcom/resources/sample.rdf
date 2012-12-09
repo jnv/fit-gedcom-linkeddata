@@ -1,0 +1,2360 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"  xmlns:rel="http://purl.org/vocab/relationship/"  xmlns:foaf="http://xmlns.com/foaf/0.1/"  xmlns:bio="http://purl.org/vocab/bio/0.1/">
+
+
+
+  <foaf:Group rdf:about="F2.xml#F2">
+    <rdfs:seeAlso rdf:resource="F2.xml#F2"/>
+    <foaf:member rdf:resource="I1.xml#I1"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1.xml#I1">
+    <foaf:name>John Douglas Cochrane</foaf:name>
+    <foaf:givenname>John Douglas</foaf:givenname>
+    <foaf:family_name>Cochrane</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>21 Oct 1884</bio:date>
+        <bio:place>Drummond Terrace, Ottawa, Ontario, Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>12 Jul 1941</bio:date>
+        <bio:place>Tranquille Sanitarium, Kamloops, British Columbia, Canada</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1101.xml#I1101"/>
+    <rel:parentOf rdf:resource="I1282.xml#I1282"/>
+    <rel:parentOf rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1101.xml#I1101">
+    <foaf:name>Leah Mary Edwards</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1101.xml#I1101"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1393.xml#I1393">
+    <foaf:name>Muriel Alice Elizabeth Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F65.xml#F65">
+    <rdfs:seeAlso rdf:resource="F65.xml#F65"/>
+    <foaf:member rdf:resource="I111.xml#I111"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I111.xml#I111">
+    <foaf:name>Creon Henry Nims</foaf:name>
+    <foaf:givenname>Creon Henry</foaf:givenname>
+    <foaf:family_name>Nims</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>21 Jan 1915</bio:date>
+        <bio:place>Maquoketa, Iowa, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>Jun 2004</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1393.xml#I1393">
+    <foaf:name>Muriel Alice Elizabeth Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F210.xml#F210">
+    <rdfs:seeAlso rdf:resource="F210.xml#F210"/>
+    <foaf:member rdf:resource="I381.xml#I381"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I381.xml#I381">
+    <foaf:name>Herman Franklin Morrison</foaf:name>
+    <foaf:givenname>Herman Franklin</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>15 Jan 1883</bio:date>
+        <bio:place>York, York Co, Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>19 Aug 1958</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I382.xml#I382"/>
+    <rel:parentOf rdf:resource="I998.xml#I998"/>
+    <rel:parentOf rdf:resource="I383.xml#I383"/>
+    <rel:parentOf rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I382.xml#I382">
+    <foaf:name>Pauline R. DeChenne</foaf:name>
+    <rdfs:seeAlso rdf:resource="I382.xml#I382"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F210.xml#F210">
+    <rdfs:seeAlso rdf:resource="F210.xml#F210"/>
+    <foaf:member rdf:resource="I382.xml#I382"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I382.xml#I382">
+    <foaf:name>Pauline R. DeChenne</foaf:name>
+    <foaf:givenname>Pauline R.</foaf:givenname>
+    <foaf:family_name>DeChenne</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>10 Dec 1888</bio:date>
+        <bio:place>Pocahontas, Bond Co, Illinois, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>6 Oct 1961</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I381.xml#I381"/>
+    <rel:parentOf rdf:resource="I998.xml#I998"/>
+    <rel:parentOf rdf:resource="I383.xml#I383"/>
+    <rel:parentOf rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I381.xml#I381">
+    <foaf:name>Herman Franklin Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I381.xml#I381"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F210.xml#F210">
+    <rdfs:seeAlso rdf:resource="F210.xml#F210"/>
+    <foaf:member rdf:resource="I383.xml#I383"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F212.xml#F212">
+    <rdfs:seeAlso rdf:resource="F212.xml#F212"/>
+    <foaf:member rdf:resource="I383.xml#I383"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <foaf:givenname>Evelyn Paula</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>19 Mar 1910</bio:date>
+        <bio:place>Edwall, Lincoln, Washington, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>2 Aug 1992</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I381.xml#I381"/>
+    <rel:childOf rdf:resource="I382.xml#I382"/>
+    <rel:spouseOf rdf:resource="I1181.xml#I1181"/>
+    <rel:siblingOf rdf:resource="I998.xml#I998"/>
+    <rel:siblingOf rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I381.xml#I381">
+    <foaf:name>Herman Franklin Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I381.xml#I381"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I382.xml#I382">
+    <foaf:name>Pauline R. DeChenne</foaf:name>
+    <rdfs:seeAlso rdf:resource="I382.xml#I382"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1181.xml#I1181"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F436.xml#F436">
+    <rdfs:seeAlso rdf:resource="F436.xml#F436"/>
+    <foaf:member rdf:resource="I887.xml#I887"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I887.xml#I887">
+    <foaf:name>Patricia Bartch</foaf:name>
+    <foaf:givenname>Patricia</foaf:givenname>
+    <foaf:family_name>Bartch</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>11 Feb 1951</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1577.xml#I1577"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1577.xml#I1577">
+    <foaf:name>Stephen Forrest Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1577.xml#I1577"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F210.xml#F210">
+    <rdfs:seeAlso rdf:resource="F210.xml#F210"/>
+    <foaf:member rdf:resource="I998.xml#I998"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F493.xml#F493">
+    <rdfs:seeAlso rdf:resource="F493.xml#F493"/>
+    <foaf:member rdf:resource="I998.xml#I998"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <foaf:givenname>Elwood Dean</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>15 Aug 1907</bio:date>
+        <bio:place>Edwall, Lincoln, Washington, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>23 Jan 1973</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I381.xml#I381"/>
+    <rel:childOf rdf:resource="I382.xml#I382"/>
+    <rel:spouseOf rdf:resource="I1009.xml#I1009"/>
+    <rel:siblingOf rdf:resource="I383.xml#I383"/>
+    <rel:siblingOf rdf:resource="I2276.xml#I2276"/>
+    <rel:parentOf rdf:resource="I1019.xml#I1019"/>
+    <rel:parentOf rdf:resource="I1789.xml#I1789"/>
+    <rel:parentOf rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I381.xml#I381">
+    <foaf:name>Herman Franklin Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I381.xml#I381"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I382.xml#I382">
+    <foaf:name>Pauline R. DeChenne</foaf:name>
+    <rdfs:seeAlso rdf:resource="I382.xml#I382"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1019.xml#I1019">
+    <foaf:name>Leanna Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1019.xml#I1019"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1030.xml#I1030">
+    <foaf:name>Michael Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F499.xml#F499">
+    <rdfs:seeAlso rdf:resource="F499.xml#F499"/>
+    <foaf:member rdf:resource="I1009.xml#I1009"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3611.xml#F3611">
+    <rdfs:seeAlso rdf:resource="F3611.xml#F3611"/>
+    <foaf:member rdf:resource="I1009.xml#I1009"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F493.xml#F493">
+    <rdfs:seeAlso rdf:resource="F493.xml#F493"/>
+    <foaf:member rdf:resource="I1009.xml#I1009"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <foaf:givenname>Julianna</foaf:givenname>
+    <foaf:family_name>Breeden</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>18 Apr 1917</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>4 Nov 1997</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I3579.xml#I3579"/>
+    <rel:childOf rdf:resource="I4958.xml#I4958"/>
+    <rel:spouseOf rdf:resource="I10137.xml#I10137"/>
+    <rel:spouseOf rdf:resource="I998.xml#I998"/>
+    <rel:siblingOf rdf:resource="I1181.xml#I1181"/>
+    <rel:siblingOf rdf:resource="I10058.xml#I10058"/>
+    <rel:parentOf rdf:resource="I1019.xml#I1019"/>
+    <rel:parentOf rdf:resource="I1789.xml#I1789"/>
+    <rel:parentOf rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I3579.xml#I3579">
+    <foaf:name>Arnold Ernest Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I3579.xml#I3579"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1181.xml#I1181"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10137.xml#I10137">
+    <foaf:name>Ronald David Barrie</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10137.xml#I10137"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1019.xml#I1019">
+    <foaf:name>Leanna Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1019.xml#I1019"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1030.xml#I1030">
+    <foaf:name>Michael Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F493.xml#F493">
+    <rdfs:seeAlso rdf:resource="F493.xml#F493"/>
+    <foaf:member rdf:resource="I1019.xml#I1019"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1019.xml#I1019">
+    <foaf:name>Leanna Morrison</foaf:name>
+    <foaf:givenname>Leanna</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>28 Nov 1940</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I998.xml#I998"/>
+    <rel:childOf rdf:resource="I1009.xml#I1009"/>
+    <rel:siblingOf rdf:resource="I1789.xml#I1789"/>
+    <rel:siblingOf rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1030.xml#I1030">
+    <foaf:name>Michael Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F493.xml#F493">
+    <rdfs:seeAlso rdf:resource="F493.xml#F493"/>
+    <foaf:member rdf:resource="I1030.xml#I1030"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1030.xml#I1030">
+    <foaf:name>Michael Dean Morrison</foaf:name>
+    <foaf:givenname>Michael Dean</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Jul 1950</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>22 Jul 1980</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I998.xml#I998"/>
+    <rel:childOf rdf:resource="I1009.xml#I1009"/>
+    <rel:siblingOf rdf:resource="I1019.xml#I1019"/>
+    <rel:siblingOf rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1019.xml#I1019">
+    <foaf:name>Leanna Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1019.xml#I1019"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F2.xml#F2">
+    <rdfs:seeAlso rdf:resource="F2.xml#F2"/>
+    <foaf:member rdf:resource="I1101.xml#I1101"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F540.xml#F540">
+    <rdfs:seeAlso rdf:resource="F540.xml#F540"/>
+    <foaf:member rdf:resource="I1101.xml#I1101"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1101.xml#I1101">
+    <foaf:name>Leah Mary Edwards</foaf:name>
+    <foaf:givenname>Leah Mary</foaf:givenname>
+    <foaf:family_name>Edwards</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Sep 1890</bio:date>
+        <bio:place>Lydeard St. Lawrence, Somerset, England</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>27 Dec 1964</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1.xml#I1"/>
+    <rel:spouseOf rdf:resource="I1710.xml#I1710"/>
+    <rel:parentOf rdf:resource="I1282.xml#I1282"/>
+    <rel:parentOf rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1.xml#I1">
+    <foaf:name>John Douglas Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1.xml#I1"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1710.xml#I1710">
+    <foaf:name>Herbert Bernard</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1710.xml#I1710"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1393.xml#I1393">
+    <foaf:name>Muriel Alice Elizabeth Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1155.xml#I1155"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <foaf:givenname>Forrest Eugene</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>22 Jan 1882</bio:date>
+        <bio:place>Custer Co, Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>9 May 1943</bio:date>
+        <bio:place>Shingle Springs, El Dorado Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1166.xml#I1166"/>
+    <rel:parentOf rdf:resource="I1807.xml#I1807"/>
+    <rel:parentOf rdf:resource="I1808.xml#I1808"/>
+    <rel:parentOf rdf:resource="I1809.xml#I1809"/>
+    <rel:parentOf rdf:resource="I1810.xml#I1810"/>
+    <rel:parentOf rdf:resource="I1467.xml#I1467"/>
+    <rel:parentOf rdf:resource="I1811.xml#I1811"/>
+    <rel:parentOf rdf:resource="I1813.xml#I1813"/>
+    <rel:parentOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1166.xml#I1166"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <foaf:givenname>Della Florence</foaf:givenname>
+    <foaf:family_name>Sumner</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Jun 1882</bio:date>
+        <bio:place>Wilsonville, Furnas Co, Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>29 Jan 1971</bio:date>
+        <bio:place>Placerville, El Dorado Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1155.xml#I1155"/>
+    <rel:parentOf rdf:resource="I1807.xml#I1807"/>
+    <rel:parentOf rdf:resource="I1808.xml#I1808"/>
+    <rel:parentOf rdf:resource="I1809.xml#I1809"/>
+    <rel:parentOf rdf:resource="I1810.xml#I1810"/>
+    <rel:parentOf rdf:resource="I1467.xml#I1467"/>
+    <rel:parentOf rdf:resource="I1811.xml#I1811"/>
+    <rel:parentOf rdf:resource="I1813.xml#I1813"/>
+    <rel:parentOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F499.xml#F499">
+    <rdfs:seeAlso rdf:resource="F499.xml#F499"/>
+    <foaf:member rdf:resource="I1181.xml#I1181"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F212.xml#F212">
+    <rdfs:seeAlso rdf:resource="F212.xml#F212"/>
+    <foaf:member rdf:resource="I1181.xml#I1181"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <foaf:givenname>Isaac Bern</foaf:givenname>
+    <foaf:family_name>Breeden</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>16 Aug 1910</bio:date>
+        <bio:place>Arnett, Oklahoma, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>24 Aug 1992</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I3579.xml#I3579"/>
+    <rel:childOf rdf:resource="I4958.xml#I4958"/>
+    <rel:spouseOf rdf:resource="I383.xml#I383"/>
+    <rel:siblingOf rdf:resource="I10058.xml#I10058"/>
+    <rel:siblingOf rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I3579.xml#I3579">
+    <foaf:name>Arnold Ernest Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I3579.xml#I3579"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F2.xml#F2">
+    <rdfs:seeAlso rdf:resource="F2.xml#F2"/>
+    <foaf:member rdf:resource="I1282.xml#I1282"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F4232.xml#F4232">
+    <rdfs:seeAlso rdf:resource="F4232.xml#F4232"/>
+    <foaf:member rdf:resource="I1282.xml#I1282"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F614.xml#F614">
+    <rdfs:seeAlso rdf:resource="F614.xml#F614"/>
+    <foaf:member rdf:resource="I1282.xml#I1282"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <foaf:givenname>Estelle Meredith</foaf:givenname>
+    <foaf:family_name>Cochrane</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>4 Apr 1916</bio:date>
+        <bio:place>Calgary, Alberta, Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1.xml#I1"/>
+    <rel:childOf rdf:resource="I1101.xml#I1101"/>
+    <rel:spouseOf rdf:resource="I12106.xml#I12106"/>
+    <rel:spouseOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1393.xml#I1393"/>
+    <rel:parentOf rdf:resource="I1577.xml#I1577"/>
+    <rel:parentOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1.xml#I1">
+    <foaf:name>John Douglas Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1.xml#I1"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1101.xml#I1101">
+    <foaf:name>Leah Mary Edwards</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1101.xml#I1101"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1393.xml#I1393">
+    <foaf:name>Muriel Alice Elizabeth Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1393.xml#I1393"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I12106.xml#I12106">
+    <foaf:name>Unknown Plotner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I12106.xml#I12106"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1577.xml#I1577">
+    <foaf:name>Stephen Forrest Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1577.xml#I1577"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F2.xml#F2">
+    <rdfs:seeAlso rdf:resource="F2.xml#F2"/>
+    <foaf:member rdf:resource="I1393.xml#I1393"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F65.xml#F65">
+    <rdfs:seeAlso rdf:resource="F65.xml#F65"/>
+    <foaf:member rdf:resource="I1393.xml#I1393"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1393.xml#I1393">
+    <foaf:name>Muriel Alice Elizabeth Cochrane</foaf:name>
+    <foaf:givenname>Muriel Alice Elizabeth</foaf:givenname>
+    <foaf:family_name>Cochrane</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>10 Aug 1917</bio:date>
+        <bio:place>Calgary, Alberta, Canada</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>14 Nov 1996</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1.xml#I1"/>
+    <rel:childOf rdf:resource="I1101.xml#I1101"/>
+    <rel:spouseOf rdf:resource="I111.xml#I111"/>
+    <rel:siblingOf rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1.xml#I1">
+    <foaf:name>John Douglas Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1.xml#I1"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1101.xml#I1101">
+    <foaf:name>Leah Mary Edwards</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1101.xml#I1101"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I111.xml#I111">
+    <foaf:name>Creon Henry Nims</foaf:name>
+    <rdfs:seeAlso rdf:resource="I111.xml#I111"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1467.xml#I1467"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F700.xml#F700">
+    <rdfs:seeAlso rdf:resource="F700.xml#F700"/>
+    <foaf:member rdf:resource="I1467.xml#I1467"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F614.xml#F614">
+    <rdfs:seeAlso rdf:resource="F614.xml#F614"/>
+    <foaf:member rdf:resource="I1467.xml#I1467"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <foaf:givenname>Claude William</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>18 Mar 1914</bio:date>
+        <bio:place>Comstock, Custer Co, Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>18 Feb 2001</bio:date>
+        <bio:place>Novato, Marin Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I1711.xml#I1711"/>
+    <rel:spouseOf rdf:resource="I1282.xml#I1282"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+    <rel:parentOf rdf:resource="I1577.xml#I1577"/>
+    <rel:parentOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1711.xml#I1711">
+    <foaf:name>Anne Louise McQuade</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1711.xml#I1711"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1577.xml#I1577">
+    <foaf:name>Stephen Forrest Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1577.xml#I1577"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F614.xml#F614">
+    <rdfs:seeAlso rdf:resource="F614.xml#F614"/>
+    <foaf:member rdf:resource="I1577.xml#I1577"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F436.xml#F436">
+    <rdfs:seeAlso rdf:resource="F436.xml#F436"/>
+    <foaf:member rdf:resource="I1577.xml#I1577"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1577.xml#I1577">
+    <foaf:name>Stephen Forrest Lewin</foaf:name>
+    <foaf:givenname>Stephen Forrest</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>16 May 1948</bio:date>
+        <bio:place>Stanford Medical Center, San Francisco, San Francisco Co, California, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1467.xml#I1467"/>
+    <rel:childOf rdf:resource="I1282.xml#I1282"/>
+    <rel:spouseOf rdf:resource="I887.xml#I887"/>
+    <rel:siblingOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I887.xml#I887">
+    <foaf:name>Patricia Bartch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I887.xml#I887"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3905.xml#F3905">
+    <rdfs:seeAlso rdf:resource="F3905.xml#F3905"/>
+    <foaf:member rdf:resource="I1589.xml#I1589"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1589.xml#I1589">
+    <foaf:name>David Todd Vosper</foaf:name>
+    <foaf:givenname>David Todd</foaf:givenname>
+    <foaf:family_name>Vosper</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1950</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F614.xml#F614">
+    <rdfs:seeAlso rdf:resource="F614.xml#F614"/>
+    <foaf:member rdf:resource="I1687.xml#I1687"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F5.xml#F5">
+    <rdfs:seeAlso rdf:resource="F5.xml#F5"/>
+    <foaf:member rdf:resource="I1687.xml#I1687"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F770.xml#F770">
+    <rdfs:seeAlso rdf:resource="F770.xml#F770"/>
+    <foaf:member rdf:resource="I1687.xml#I1687"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F771.xml#F771">
+    <rdfs:seeAlso rdf:resource="F771.xml#F771"/>
+    <foaf:member rdf:resource="I1687.xml#I1687"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3905.xml#F3905">
+    <rdfs:seeAlso rdf:resource="F3905.xml#F3905"/>
+    <foaf:member rdf:resource="I1687.xml#I1687"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <foaf:givenname>Claudia Leadele</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Apr 1950</bio:date>
+        <bio:place>San Francisco, San Francisco Co, California, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1467.xml#I1467"/>
+    <rel:childOf rdf:resource="I1282.xml#I1282"/>
+    <rel:spouseOf rdf:resource="I1789.xml#I1789"/>
+    <rel:spouseOf rdf:resource="I1708.xml#I1708"/>
+    <rel:spouseOf rdf:resource="I1973.xml#I1973"/>
+    <rel:spouseOf rdf:resource="I1589.xml#I1589"/>
+    <rel:siblingOf rdf:resource="I1577.xml#I1577"/>
+    <rel:parentOf rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1577.xml#I1577">
+    <foaf:name>Stephen Forrest Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1577.xml#I1577"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1708.xml#I1708">
+    <foaf:name>Thomas Bleth</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1708.xml#I1708"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1973.xml#I1973">
+    <foaf:name>Winston Falls</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1973.xml#I1973"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1589.xml#I1589">
+    <foaf:name>David Todd Vosper</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1589.xml#I1589"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1900.xml#I1900">
+    <foaf:name>Keith Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F770.xml#F770">
+    <rdfs:seeAlso rdf:resource="F770.xml#F770"/>
+    <foaf:member rdf:resource="I1708.xml#I1708"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1708.xml#I1708">
+    <foaf:name>Thomas Bleth</foaf:name>
+    <foaf:givenname>Thomas</foaf:givenname>
+    <foaf:family_name>Bleth</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F540.xml#F540">
+    <rdfs:seeAlso rdf:resource="F540.xml#F540"/>
+    <foaf:member rdf:resource="I1710.xml#I1710"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1710.xml#I1710">
+    <foaf:name>Herbert Bernard</foaf:name>
+    <foaf:givenname>Herbert</foaf:givenname>
+    <foaf:family_name>Bernard</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1101.xml#I1101"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1101.xml#I1101">
+    <foaf:name>Leah Mary Edwards</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1101.xml#I1101"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F700.xml#F700">
+    <rdfs:seeAlso rdf:resource="F700.xml#F700"/>
+    <foaf:member rdf:resource="I1711.xml#I1711"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1711.xml#I1711">
+    <foaf:name>Anne Louise McQuade</foaf:name>
+    <foaf:givenname>Anne Louise</foaf:givenname>
+    <foaf:family_name>McQuade</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>25 Aug 1928</bio:date>
+        <bio:place>San Francisco Co, California, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>16 Jun 1997</bio:date>
+        <bio:place>Novato, Marin Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F493.xml#F493">
+    <rdfs:seeAlso rdf:resource="F493.xml#F493"/>
+    <foaf:member rdf:resource="I1789.xml#I1789"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F5.xml#F5">
+    <rdfs:seeAlso rdf:resource="F5.xml#F5"/>
+    <foaf:member rdf:resource="I1789.xml#I1789"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3354.xml#F3354">
+    <rdfs:seeAlso rdf:resource="F3354.xml#F3354"/>
+    <foaf:member rdf:resource="I1789.xml#I1789"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <foaf:givenname>Stephen Douglas</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>4 Jun 1949</bio:date>
+        <bio:place>Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I998.xml#I998"/>
+    <rel:childOf rdf:resource="I1009.xml#I1009"/>
+    <rel:spouseOf rdf:resource="I1687.xml#I1687"/>
+    <rel:spouseOf rdf:resource="I9260.xml#I9260"/>
+    <rel:siblingOf rdf:resource="I1019.xml#I1019"/>
+    <rel:siblingOf rdf:resource="I1030.xml#I1030"/>
+    <rel:parentOf rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1019.xml#I1019">
+    <foaf:name>Leanna Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1019.xml#I1019"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1030.xml#I1030">
+    <foaf:name>Michael Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1030.xml#I1030"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I9260.xml#I9260">
+    <foaf:name>Lindsey Unknown</foaf:name>
+    <rdfs:seeAlso rdf:resource="I9260.xml#I9260"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1900.xml#I1900">
+    <foaf:name>Keith Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1807.xml#I1807"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F814.xml#F814">
+    <rdfs:seeAlso rdf:resource="F814.xml#F814"/>
+    <foaf:member rdf:resource="I1807.xml#I1807"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F815.xml#F815">
+    <rdfs:seeAlso rdf:resource="F815.xml#F815"/>
+    <foaf:member rdf:resource="I1807.xml#I1807"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <foaf:givenname>Zelda Elaine</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>9 Mar 1907</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>24 Jan 1978</bio:date>
+        <bio:place>Sonoma, Sonoma Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I1815.xml#I1815"/>
+    <rel:spouseOf rdf:resource="I4684.xml#I4684"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1815.xml#I1815">
+    <foaf:name>Unknown Woods</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1815.xml#I1815"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4684.xml#I4684">
+    <foaf:name>Unknown Neal</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4684.xml#I4684"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1808.xml#I1808"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F816.xml#F816">
+    <rdfs:seeAlso rdf:resource="F816.xml#F816"/>
+    <foaf:member rdf:resource="I1808.xml#I1808"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <foaf:givenname>Leola Edna</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>14 Apr 1908</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>4 Jul 1981</bio:date>
+        <bio:place>Sacramento Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I1819.xml#I1819"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1819.xml#I1819">
+    <foaf:name>Albert Carl Heinz</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1819.xml#I1819"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1809.xml#I1809"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F817.xml#F817">
+    <rdfs:seeAlso rdf:resource="F817.xml#F817"/>
+    <foaf:member rdf:resource="I1809.xml#I1809"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <foaf:givenname>Lilas F.</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>12 Jul 1909</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>UNKNOWN</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I1820.xml#I1820"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1820.xml#I1820">
+    <foaf:name>Ray Thomas</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1820.xml#I1820"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1810.xml#I1810"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <foaf:givenname>Leo Eugene</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>25 Jan 1911</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>May 1986</bio:date>
+        <bio:place>Nevada, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1811.xml#I1811"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F819.xml#F819">
+    <rdfs:seeAlso rdf:resource="F819.xml#F819"/>
+    <foaf:member rdf:resource="I1811.xml#I1811"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <foaf:givenname>John Harvey</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1 Sep 1915</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>18 Apr 1945</bio:date>
+        <bio:place>Italy</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I2045.xml#I2045"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2045.xml#I2045">
+    <foaf:name>Agnes Usselman</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2045.xml#I2045"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1813.xml#I1813"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F820.xml#F820">
+    <rdfs:seeAlso rdf:resource="F820.xml#F820"/>
+    <foaf:member rdf:resource="I1813.xml#I1813"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <foaf:givenname>Amy Lucille</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>16 Sep 1917</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>9 Jun 1989</bio:date>
+        <bio:place>El Dorado Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:spouseOf rdf:resource="I1828.xml#I1828"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1814.xml#I1814"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1828.xml#I1828">
+    <foaf:name>William Daniels</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1828.xml#I1828"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F559.xml#F559">
+    <rdfs:seeAlso rdf:resource="F559.xml#F559"/>
+    <foaf:member rdf:resource="I1814.xml#I1814"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1814.xml#I1814">
+    <foaf:name>Jessie S. Lewin</foaf:name>
+    <foaf:givenname>Jessie S.</foaf:givenname>
+    <foaf:family_name>Lewin</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>11 Mar 1920</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>7 Aug 1967</bio:date>
+        <bio:place>San Francisco, San Francisco Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1155.xml#I1155"/>
+    <rel:childOf rdf:resource="I1166.xml#I1166"/>
+    <rel:siblingOf rdf:resource="I1807.xml#I1807"/>
+    <rel:siblingOf rdf:resource="I1808.xml#I1808"/>
+    <rel:siblingOf rdf:resource="I1809.xml#I1809"/>
+    <rel:siblingOf rdf:resource="I1810.xml#I1810"/>
+    <rel:siblingOf rdf:resource="I1467.xml#I1467"/>
+    <rel:siblingOf rdf:resource="I1811.xml#I1811"/>
+    <rel:siblingOf rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1155.xml#I1155">
+    <foaf:name>Forrest Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1155.xml#I1155"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1166.xml#I1166">
+    <foaf:name>Della Florence Sumner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1166.xml#I1166"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1810.xml#I1810">
+    <foaf:name>Leo Eugene Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1810.xml#I1810"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1467.xml#I1467">
+    <foaf:name>Claude William Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1467.xml#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F814.xml#F814">
+    <rdfs:seeAlso rdf:resource="F814.xml#F814"/>
+    <foaf:member rdf:resource="I1815.xml#I1815"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1815.xml#I1815">
+    <foaf:name>Unknown Woods</foaf:name>
+    <foaf:givenname>Unknown</foaf:givenname>
+    <foaf:family_name>Woods</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F816.xml#F816">
+    <rdfs:seeAlso rdf:resource="F816.xml#F816"/>
+    <foaf:member rdf:resource="I1819.xml#I1819"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1819.xml#I1819">
+    <foaf:name>Albert Carl Heinz</foaf:name>
+    <foaf:givenname>Albert Carl</foaf:givenname>
+    <foaf:family_name>Heinz</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>12 Sep 1901</bio:date>
+        <bio:place>Nebraska, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>30 Oct 1960</bio:date>
+        <bio:place>El Dorado Co, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1808.xml#I1808">
+    <foaf:name>Leola Edna Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1808.xml#I1808"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F817.xml#F817">
+    <rdfs:seeAlso rdf:resource="F817.xml#F817"/>
+    <foaf:member rdf:resource="I1820.xml#I1820"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1820.xml#I1820">
+    <foaf:name>Ray Thomas</foaf:name>
+    <foaf:givenname>Ray</foaf:givenname>
+    <foaf:family_name>Thomas</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1809.xml#I1809">
+    <foaf:name>Lilas F. Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1809.xml#I1809"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F820.xml#F820">
+    <rdfs:seeAlso rdf:resource="F820.xml#F820"/>
+    <foaf:member rdf:resource="I1828.xml#I1828"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1828.xml#I1828">
+    <foaf:name>William Daniels</foaf:name>
+    <foaf:givenname>William</foaf:givenname>
+    <foaf:family_name>Daniels</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1813.xml#I1813">
+    <foaf:name>Amy Lucille Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1813.xml#I1813"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F5.xml#F5">
+    <rdfs:seeAlso rdf:resource="F5.xml#F5"/>
+    <foaf:member rdf:resource="I1900.xml#I1900"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F856.xml#F856">
+    <rdfs:seeAlso rdf:resource="F856.xml#F856"/>
+    <foaf:member rdf:resource="I1900.xml#I1900"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F857.xml#F857">
+    <rdfs:seeAlso rdf:resource="F857.xml#F857"/>
+    <foaf:member rdf:resource="I1900.xml#I1900"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1900.xml#I1900">
+    <foaf:name>Keith Douglas Morrison</foaf:name>
+    <foaf:givenname>Keith Douglas</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>16 Feb 1971</bio:date>
+        <bio:place>St. Vincents Hospital, Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I1789.xml#I1789"/>
+    <rel:childOf rdf:resource="I1687.xml#I1687"/>
+    <rel:spouseOf rdf:resource="I4796.xml#I4796"/>
+    <rel:spouseOf rdf:resource="I4797.xml#I4797"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4796.xml#I4796">
+    <foaf:name>Suanne Marie Heilman</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4796.xml#I4796"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4797.xml#I4797">
+    <foaf:name>Monica Santoyo Lopez</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4797.xml#I4797"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F771.xml#F771">
+    <rdfs:seeAlso rdf:resource="F771.xml#F771"/>
+    <foaf:member rdf:resource="I1973.xml#I1973"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I1973.xml#I1973">
+    <foaf:name>Winston Falls</foaf:name>
+    <foaf:givenname>Winston</foaf:givenname>
+    <foaf:family_name>Falls</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1687.xml#I1687">
+    <foaf:name>Claudia Leadele Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1687.xml#I1687"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F819.xml#F819">
+    <rdfs:seeAlso rdf:resource="F819.xml#F819"/>
+    <foaf:member rdf:resource="I2045.xml#I2045"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I2045.xml#I2045">
+    <foaf:name>Agnes Usselman</foaf:name>
+    <foaf:givenname>Agnes</foaf:givenname>
+    <foaf:family_name>Usselman</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>15 Jun 1913</bio:date>
+        <bio:place>Eureka, McPherson, South Dakota, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>12 Aug 1975</bio:date>
+        <bio:place>Sacramento, California, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1811.xml#I1811">
+    <foaf:name>John Harvey Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1811.xml#I1811"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F210.xml#F210">
+    <rdfs:seeAlso rdf:resource="F210.xml#F210"/>
+    <foaf:member rdf:resource="I2276.xml#I2276"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3618.xml#F3618">
+    <rdfs:seeAlso rdf:resource="F3618.xml#F3618"/>
+    <foaf:member rdf:resource="I2276.xml#I2276"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <foaf:givenname>Jack Earl</foaf:givenname>
+    <foaf:family_name>Morrison</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Aug 1917</bio:date>
+        <bio:place>Bellingham, Whatcom, Washington, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:childOf rdf:resource="I381.xml#I381"/>
+    <rel:childOf rdf:resource="I382.xml#I382"/>
+    <rel:spouseOf rdf:resource="I10158.xml#I10158"/>
+    <rel:siblingOf rdf:resource="I998.xml#I998"/>
+    <rel:siblingOf rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I381.xml#I381">
+    <foaf:name>Herman Franklin Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I381.xml#I381"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I382.xml#I382">
+    <foaf:name>Pauline R. DeChenne</foaf:name>
+    <rdfs:seeAlso rdf:resource="I382.xml#I382"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I998.xml#I998">
+    <foaf:name>Elwood Dean Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I998.xml#I998"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I383.xml#I383">
+    <foaf:name>Evelyn Paula Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I383.xml#I383"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10158.xml#I10158">
+    <foaf:name>Grace Marie Unknown</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10158.xml#I10158"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F499.xml#F499">
+    <rdfs:seeAlso rdf:resource="F499.xml#F499"/>
+    <foaf:member rdf:resource="I3579.xml#I3579"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I3579.xml#I3579">
+    <foaf:name>Arnold Ernest Breeden</foaf:name>
+    <foaf:givenname>Arnold Ernest</foaf:givenname>
+    <foaf:family_name>Breeden</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>3 Mar 1885</bio:date>
+        <bio:place>Kansas, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>6 Jan 1918</bio:date>
+        <bio:place>Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I4958.xml#I4958"/>
+    <rel:parentOf rdf:resource="I1181.xml#I1181"/>
+    <rel:parentOf rdf:resource="I10058.xml#I10058"/>
+    <rel:parentOf rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1181.xml#I1181"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F815.xml#F815">
+    <rdfs:seeAlso rdf:resource="F815.xml#F815"/>
+    <foaf:member rdf:resource="I4684.xml#I4684"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I4684.xml#I4684">
+    <foaf:name>Unknown Neal</foaf:name>
+    <foaf:givenname>Unknown</foaf:givenname>
+    <foaf:family_name>Neal</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1807.xml#I1807">
+    <foaf:name>Zelda Elaine Lewin</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1807.xml#I1807"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F856.xml#F856">
+    <rdfs:seeAlso rdf:resource="F856.xml#F856"/>
+    <foaf:member rdf:resource="I4796.xml#I4796"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I4796.xml#I4796">
+    <foaf:name>Suanne Marie Heilman</foaf:name>
+    <foaf:givenname>Suanne Marie</foaf:givenname>
+    <foaf:family_name>Heilman</foaf:family_name>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1900.xml#I1900">
+    <foaf:name>Keith Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F857.xml#F857">
+    <rdfs:seeAlso rdf:resource="F857.xml#F857"/>
+    <foaf:member rdf:resource="I4797.xml#I4797"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I4797.xml#I4797">
+    <foaf:name>Monica Santoyo Lopez</foaf:name>
+    <foaf:givenname>Monica</foaf:givenname>
+    <foaf:family_name>Santoyo Lopez</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>13 Jan 1971</bio:date>
+        <bio:place>Celaya, , Guanajuato, México</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1900.xml#I1900">
+    <foaf:name>Keith Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1900.xml#I1900"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F499.xml#F499">
+    <rdfs:seeAlso rdf:resource="F499.xml#F499"/>
+    <foaf:member rdf:resource="I4958.xml#I4958"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3573.xml#F3573">
+    <rdfs:seeAlso rdf:resource="F3573.xml#F3573"/>
+    <foaf:member rdf:resource="I4958.xml#I4958"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <foaf:givenname>Berniece A.</foaf:givenname>
+    <foaf:family_name>Blanch</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>1 Mar 1891</bio:date>
+        <bio:place>Ottawa, Franklin, Kansas, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>4 May 1974</bio:date>
+        <bio:place>Seaside, Clatsop, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I3579.xml#I3579"/>
+    <rel:spouseOf rdf:resource="I10057.xml#I10057"/>
+    <rel:parentOf rdf:resource="I1181.xml#I1181"/>
+    <rel:parentOf rdf:resource="I10058.xml#I10058"/>
+    <rel:parentOf rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I3579.xml#I3579">
+    <foaf:name>Arnold Ernest Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I3579.xml#I3579"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10057.xml#I10057">
+    <foaf:name>Grover Cleveland Curtner</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10057.xml#I10057"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1181.xml#I1181"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3354.xml#F3354">
+    <rdfs:seeAlso rdf:resource="F3354.xml#F3354"/>
+    <foaf:member rdf:resource="I9260.xml#I9260"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I9260.xml#I9260">
+    <foaf:name>Lindsey Unknown</foaf:name>
+    <foaf:givenname>Lindsey</foaf:givenname>
+    <foaf:family_name>Unknown</foaf:family_name>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1789.xml#I1789">
+    <foaf:name>Stephen Douglas Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1789.xml#I1789"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3573.xml#F3573">
+    <rdfs:seeAlso rdf:resource="F3573.xml#F3573"/>
+    <foaf:member rdf:resource="I10057.xml#I10057"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I10057.xml#I10057">
+    <foaf:name>Grover Cleveland Curtner</foaf:name>
+    <foaf:givenname>Grover Cleveland</foaf:givenname>
+    <foaf:family_name>Curtner</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>Abt 1886</bio:date>
+        <bio:place>Texas, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>27 Sep 1958</bio:date>
+        <bio:place>Multnomah Co, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F499.xml#F499">
+    <rdfs:seeAlso rdf:resource="F499.xml#F499"/>
+    <foaf:member rdf:resource="I10058.xml#I10058"/>
+  </foaf:Group>
+  <foaf:Group rdf:about="F3576.xml#F3576">
+    <rdfs:seeAlso rdf:resource="F3576.xml#F3576"/>
+    <foaf:member rdf:resource="I10058.xml#I10058"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <foaf:givenname>Margaret Blanch</foaf:givenname>
+    <foaf:family_name>Breeden</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>5 Feb 1915</bio:date>
+        <bio:place>Ranch 3 miles east of Monitor, Marion Co, Oregon, USA</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>21 May 1990</bio:date>
+        <bio:place>Portland, Multnomah, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>female</foaf:gender>
+    <rel:childOf rdf:resource="I3579.xml#I3579"/>
+    <rel:childOf rdf:resource="I4958.xml#I4958"/>
+    <rel:spouseOf rdf:resource="I10063.xml#I10063"/>
+    <rel:siblingOf rdf:resource="I1181.xml#I1181"/>
+    <rel:siblingOf rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I3579.xml#I3579">
+    <foaf:name>Arnold Ernest Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I3579.xml#I3579"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I4958.xml#I4958">
+    <foaf:name>Berniece A. Blanch</foaf:name>
+    <rdfs:seeAlso rdf:resource="I4958.xml#I4958"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1181.xml#I1181">
+    <foaf:name>Isaac Bern Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1181.xml#I1181"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10063.xml#I10063">
+    <foaf:name>Carroll W. Moscoe</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10063.xml#I10063"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3576.xml#F3576">
+    <rdfs:seeAlso rdf:resource="F3576.xml#F3576"/>
+    <foaf:member rdf:resource="I10063.xml#I10063"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I10063.xml#I10063">
+    <foaf:name>Carroll W. Moscoe</foaf:name>
+    <foaf:givenname>Carroll W.</foaf:givenname>
+    <foaf:family_name>Moscoe</foaf:family_name>
+    <bio:event>
+      <bio:Birth>
+        <bio:date>2 Jun 1905</bio:date>
+        <bio:place>UNKNOWN</bio:place>
+      </bio:Birth>
+    </bio:event>
+    <bio:event>
+      <bio:Death>
+        <bio:date>28 Mar 1973</bio:date>
+        <bio:place>Clatsop Co, Oregon, USA</bio:place>
+      </bio:Death>
+    </bio:event>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I10058.xml#I10058">
+    <foaf:name>Margaret Blanch Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I10058.xml#I10058"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3611.xml#F3611">
+    <rdfs:seeAlso rdf:resource="F3611.xml#F3611"/>
+    <foaf:member rdf:resource="I10137.xml#I10137"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I10137.xml#I10137">
+    <foaf:name>Ronald David Barrie</foaf:name>
+    <foaf:givenname>Ronald David</foaf:givenname>
+    <foaf:family_name>Barrie</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1009.xml#I1009">
+    <foaf:name>Julianna Breeden</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1009.xml#I1009"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F3618.xml#F3618">
+    <rdfs:seeAlso rdf:resource="F3618.xml#F3618"/>
+    <foaf:member rdf:resource="I10158.xml#I10158"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I10158.xml#I10158">
+    <foaf:name>Grace Marie Unknown</foaf:name>
+    <foaf:givenname>Grace Marie</foaf:givenname>
+    <foaf:family_name>Unknown</foaf:family_name>
+    <foaf:gender>female</foaf:gender>
+    <rel:spouseOf rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I2276.xml#I2276">
+    <foaf:name>Jack Earl Morrison</foaf:name>
+    <rdfs:seeAlso rdf:resource="I2276.xml#I2276"/>
+  </foaf:Person>
+
+
+
+
+  <foaf:Group rdf:about="F4232.xml#F4232">
+    <rdfs:seeAlso rdf:resource="F4232.xml#F4232"/>
+    <foaf:member rdf:resource="I12106.xml#I12106"/>
+  </foaf:Group>
+  <foaf:Person rdf:about="I12106.xml#I12106">
+    <foaf:name>Unknown Plotner</foaf:name>
+    <foaf:givenname>Unknown</foaf:givenname>
+    <foaf:family_name>Plotner</foaf:family_name>
+    <foaf:gender>male</foaf:gender>
+    <rel:spouseOf rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:about="I1282.xml#I1282">
+    <foaf:name>Estelle Meredith Cochrane</foaf:name>
+    <rdfs:seeAlso rdf:resource="I1282.xml#I1282"/>
+  </foaf:Person>
+
+</rdf:RDF>
