@@ -1,0 +1,7 @@
+{
+  "name": "whos-ur-daddy",
+  "version": "0.0.1",
+  "dependencies": {
+    "d3": "~2.10.3"
+  }
+}
