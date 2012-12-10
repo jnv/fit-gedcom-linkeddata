@@ -1,0 +1,24 @@
+{
+ "name": "Lewin, Stephen Forrest",
+ "gender": "f",
+ "children": [
+  {
+   "name": "Cochrane, Estelle",
+   "gender": "f",
+   "children": [
+    {
+     "name": "Cochrane, John Douglas",
+     "gender": "m"
+    },
+    {
+     "name": "Edwards, Leah Mary",
+     "gender": "f"
+    }
+   ]
+  },
+  {
+    "name": "Lewin, Claude William",
+    "gender": "m"
+  }
+  ]
+}
