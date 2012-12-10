@@ -92,8 +92,18 @@ window.onload = function() {
         go(++cur % (s.length));
     };
     document.onkeydown = function(e) {
-        (e.which === 39) && go(Math.min(s.length - 1, ++cur));
-        (e.which === 37) && go(Math.max(0, --cur));
+        switch(e.which)
+        {
+          case 39: //rarr
+          case 34: //page down
+          case 32: //space
+            go(Math.min(s.length - 1, ++cur))
+            break;
+          case 37: //larr
+          case 33: //page up
+            go(Math.max(0, --cur));
+            break;
+        }
     };
     function parse_hash() {
         return Math.max(Math.min(
@@ -174,7 +184,7 @@ window.onload = function() {
   <a href="http://d3js.org/">d3</a>, <a href="http://yeoman.io/">yeoman</a>, <a href="http://json-ld.org/">json-ld</a>
 </div>
 
-<div>server-side is so 2000&hellip;</div>
+<div>server-side is so 2000</div>
 
 <div>
   <a href="http://git.io/daddy" class="icon-github">git.io/daddy</a>
