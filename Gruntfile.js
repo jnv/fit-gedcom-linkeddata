@@ -10,11 +10,16 @@ module.exports = function( grunt ) {
     // Project configuration
     // ---------------------
 
+    // specify an alternate install location for Bower
+    bower: {
+      dir: 'app/components'
+    },
+
     // Coffee to JS compilation
     coffee: {
       compile: {
         files: {
-          'temp/scripts/*.js': 'app/scripts/**/*.coffee'
+          'temp/scripts/*.js': 'app/scripts/**/*.coffee' 
         },
         options: {
           basePath: 'app/scripts'
@@ -166,9 +171,19 @@ module.exports = function( grunt ) {
       wrap: true,
       name: 'main'
     },
+
+    // While Yeoman handles concat/min when using
+    // usemin blocks, you can still use them manually
+    concat: {
+      dist: ''
+    },
+
+    min: {
+      dist: ''
+    }
   });
 
   // Alias the `test` task to run the `mocha` task instead
-  grunt.registerTask('test', 'mocha');
+  grunt.registerTask('test', 'server:phantom mocha');
 
 };
