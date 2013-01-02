@@ -1,4 +1,5 @@
 source :rubygems
 
 gem 'linkeddata'
-gem 'spira'
+gem 'spira', github: 'ruby-rdf/spira'
+gem 'equivalent-xml'

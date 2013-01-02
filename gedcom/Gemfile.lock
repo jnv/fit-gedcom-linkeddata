@@ -1,8 +1,19 @@
+GIT
+  remote: git://github.com/ruby-rdf/spira.git
+  revision: 6699393d0ed8e770118708fe7321dc83215d5fac
+  specs:
+    spira (0.3.0)
+      promise (>= 0.3.0)
+      rdf (>= 0.3.11)
+      rdf-isomorphic (>= 0.3.4)
+
 GEM
   remote: http://rubygems.org/
   specs:
     addressable (2.3.2)
     backports (2.6.5)
+    equivalent-xml (0.3.0)
+      nokogiri (>= 1.4.3)
     haml (3.1.7)
     htmlentities (4.3.1)
     json (1.7.6)
@@ -23,6 +34,7 @@ GEM
       rdf-trig (>= 0.1.1)
       rdf-trix (>= 0.3.0)
       rdf-turtle (>= 0.1.1)
+    nokogiri (1.5.6)
     promise (0.3.0)
     rdf (0.3.11.1)
       addressable (>= 2.2.6)
@@ -55,14 +67,11 @@ GEM
       rdf (>= 0.3.11)
     rdf-xsd (0.3.8)
       rdf (>= 0.3.4)
-    spira (0.0.12)
-      promise (>= 0.3.0)
-      rdf (>= 0.2.3)
-      rdf-isomorphic (>= 0.3.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  equivalent-xml
   linkeddata
-  spira
+  spira!
