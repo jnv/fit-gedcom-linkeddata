@@ -1,7 +1,8 @@
 source :rubygems
 
 gem 'linkeddata'
-gem 'spira', github: 'ruby-rdf/spira'
+#gem 'spira', github: 'ruby-rdf/spira'
 gem 'equivalent-xml'
+gem 'uuid'
 
 gem 'activesupport'
