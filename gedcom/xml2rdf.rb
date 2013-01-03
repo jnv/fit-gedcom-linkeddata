@@ -5,6 +5,8 @@ require 'rexml/document'
 require 'active_support/all'
 include RDF
 
+INPUT = 'royal.xml'
+
 BIO = Vocabulary.new('http://purl.org/vocab/bio/0.1/')
 REL = Vocabulary.new('http://purl.org/vocab/relationship/')
 
@@ -95,9 +97,11 @@ class Individual
     @repo << [@subject, RDF.type, TYPE]
     PROPERTIES.each do |prop, predicate|
       value = self.send(prop)
+      next if value.nil?
       @repo.insert(Statement.new(@subject, predicate, value))
     end
     @givennames.each do |value|
+      next if value.nil?
       @repo << [@subject, FOAF.givenName, value]
     end
     @repo
@@ -279,17 +283,19 @@ class Groups
 
   def resolve!
     @collection.each do |id, family|
-      puts family.inspect
       family.resolve_all
     end
   end
 end
 
 # Raw XML processing & Graph
-input = File.new('sample.xml')
+input = File.new(INPUT)
 doc = REXML::Document.new(input, {compress_whitespace: :all})
 graph = Graph.new
 groups = Groups.new
+
+$stderr.puts "Processing individuals..."
+
 doc.elements.each("/gedcom/INDI") do |element|
   indi = Individual.from_xml(element)
   $individuals[indi.id] = indi
@@ -300,22 +306,28 @@ doc.elements.each("/gedcom/INDI") do |element|
   #indi.save!
 end
 
+$stderr.puts "Processing families..."
+
 $individuals.each do |id, indi|
   groups.add_individual(indi)
 end
+
+$stderr.puts "Resolving families..."
 groups.resolve!
 
 # doc.elements.each("/gedcom/FAM") do |element|
   # groups.add_family_xml(element)
 # end
 
+$stderr.puts "Adding individuals to graph..."
 $individuals.each do |id, indi|
   graph << indi
 end
 
+$stderr.puts "Adding families to graph..."
 groups.collection.each do |id, group|
   graph << group
 end
 
-
+$stderr.puts "Dumping..."
 puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: 'http://example.com/')
