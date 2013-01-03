@@ -5,7 +5,7 @@ require 'rexml/document'
 require 'active_support/all'
 include RDF
 
-INPUT = 'royal.xml'
+INPUT = 'sample.xml'
 
 BIO = Vocabulary.new('http://purl.org/vocab/bio/0.1/')
 REL = Vocabulary.new('http://purl.org/vocab/relationship/')
@@ -24,6 +24,56 @@ def fragment_uri(obj)
     id = clean_id(obj)
   end
   ::RDF::URI.new("\##{id}")
+end
+
+class Event
+  TYPE = BIO.event
+
+  PROPERTIES = {
+    date: BIO.date,
+    place: BIO.place
+  }
+
+  attr_accessor :date, :place
+  attr_reader :subject
+
+  def self.from_xml(e)
+    type = case e.name
+    when 'DEAT' then :Death
+    when 'BIRT' then :Birth
+    else
+      raise "Unknown event type #{e.name}"
+    end
+
+    date = e.elements['DATE'].try(:text).try(:strip)
+    place = e.elements['PLAC'].try(:text).try(:strip)
+
+    event = self.new(type, date, place)
+
+    event
+  end
+
+  def initialize(type, date = nil, place = nil)
+    @subtype = BIO[type]
+    @date = date if date #Date.new(date) if date
+    @place = place if place
+    @repo = Repository.new
+    @subject = Node.uuid
+  end
+
+  def to_rdf
+    @repo << [@subject, RDF.type, @subtype]
+    PROPERTIES.each do |prop, predicate|
+      value = self.send(prop)
+      next if value.nil?
+      @repo << [@subject, predicate, value]
+    end
+    @repo
+  end
+
+  def empty?
+    date.nil? and place.nil?
+  end
 end
 
 class Individual
@@ -70,6 +120,11 @@ class Individual
       end
       #deat = e.elements['DEAT']
       #i.death = Death.from_xml(deat) unless deat.nil?
+
+      e.elements.each('BIRT|DEAT') do |element|
+        i.add_event(Event.from_xml(element))
+      end
+
     end
     indi
   end
@@ -109,6 +164,12 @@ class Individual
 
   def to_uri
     ::RDF::URI.new("\##{id}")
+  end
+
+  def add_event(event)
+    #return if event.empty?
+    @repo << [@subject, Event::TYPE, event.subject]
+    @repo << event.to_rdf
   end
 
   def add_child(id)
@@ -240,7 +301,7 @@ class Family
   end
 
   # def each(*args, &block)
-    #XXX support RDF::Enumerable
+  #XXX support RDF::Enumerable
   # end
 
   def to_rdf
@@ -316,7 +377,7 @@ $stderr.puts "Resolving families..."
 groups.resolve!
 
 # doc.elements.each("/gedcom/FAM") do |element|
-  # groups.add_family_xml(element)
+# groups.add_family_xml(element)
 # end
 
 $stderr.puts "Adding individuals to graph..."
