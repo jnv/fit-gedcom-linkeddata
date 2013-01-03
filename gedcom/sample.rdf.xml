@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:ns0="http://purl.org/vocab/bio/0.1/" xmlns:ns1="http://purl.org/vocab/relationship/" xml:base="http://example.com/">
+  <foaf:Person rdf:ID="I1" foaf:familyName="Cochrane" foaf:gender="male" foaf:givenName="John Douglas" foaf:name="John Douglas Cochrane">
+    <ns0:event>
+      <ns0:Birth ns0:date="21 Oct 1884" ns0:place="Drummond Terrace, Ottawa, Ontario, Canada"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="12 Jul 1941" ns0:place="Tranquille Sanitarium, Kamloops, British Columbia, Canada"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I1282"/>
+    <ns1:parentOf rdf:resource="#I1393"/>
+    <ns1:spouseOf rdf:resource="#I1101"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F3573">
+    <foaf:member rdf:resource="#I10057"/>
+    <foaf:member rdf:resource="#I4958"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F3618">
+    <foaf:member rdf:resource="#I10158"/>
+    <foaf:member rdf:resource="#I2276"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I111" foaf:familyName="Nims" foaf:gender="male" foaf:name="Creon Henry Nims">
+    <ns0:event>
+      <ns0:Birth ns0:date="21 Jan 1915" ns0:place="Maquoketa, Iowa, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="Jun 2004"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1393"/>
+    <foaf:givenName>Connie</foaf:givenName>
+    <foaf:givenName>Creon Henry</foaf:givenName>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F857">
+    <foaf:member rdf:resource="#I1900"/>
+    <foaf:member rdf:resource="#I4797"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F856">
+    <foaf:member rdf:resource="#I1900"/>
+    <foaf:member rdf:resource="#I4796"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I381" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Herman Franklin" foaf:name="Herman Franklin Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="15 Jan 1883" ns0:place="York, York Co, Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="19 Aug 1958" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I2276"/>
+    <ns1:parentOf rdf:resource="#I383"/>
+    <ns1:parentOf rdf:resource="#I998"/>
+    <ns1:spouseOf rdf:resource="#I382"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F820">
+    <foaf:member rdf:resource="#I1813"/>
+    <foaf:member rdf:resource="#I1828"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F819">
+    <foaf:member rdf:resource="#I1811"/>
+    <foaf:member rdf:resource="#I2045"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I382" foaf:familyName="DeChenne" foaf:gender="female" foaf:name="Pauline R. DeChenne">
+    <ns0:event>
+      <ns0:Birth ns0:date="10 Dec 1888" ns0:place="Pocahontas, Bond Co, Illinois, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="6 Oct 1961" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I2276"/>
+    <ns1:parentOf rdf:resource="#I383"/>
+    <ns1:parentOf rdf:resource="#I998"/>
+    <ns1:spouseOf rdf:resource="#I381"/>
+    <foaf:givenName>Pauline D.</foaf:givenName>
+    <foaf:givenName>Pauline R.</foaf:givenName>
+    <foaf:givenName>Pauline S.</foaf:givenName>
+    <foaf:givenName>Polly Belle</foaf:givenName>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F817">
+    <foaf:member rdf:resource="#I1809"/>
+    <foaf:member rdf:resource="#I1820"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F816">
+    <foaf:member rdf:resource="#I1808"/>
+    <foaf:member rdf:resource="#I1819"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I383" foaf:familyName="Morrison" foaf:gender="female" foaf:givenName="Evelyn Paula" foaf:name="Evelyn Paula Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="19 Mar 1910" ns0:place="Edwall, Lincoln, Washington, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="2 Aug 1992" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I381"/>
+    <ns1:childOf rdf:resource="#I382"/>
+    <ns1:siblingOf rdf:resource="#I2276"/>
+    <ns1:siblingOf rdf:resource="#I998"/>
+    <ns1:spouseOf rdf:resource="#I1181"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F815">
+    <foaf:member rdf:resource="#I1807"/>
+    <foaf:member rdf:resource="#I4684"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F814">
+    <foaf:member rdf:resource="#I1807"/>
+    <foaf:member rdf:resource="#I1815"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I887" foaf:familyName="Bartch" foaf:gender="female" foaf:givenName="Patricia" foaf:name="Patricia Bartch">
+    <ns0:event>
+      <ns0:Birth ns0:date="11 Feb 1951"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1577"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F3354">
+    <foaf:member rdf:resource="#I1789"/>
+    <foaf:member rdf:resource="#I9260"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I998" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Elwood Dean" foaf:name="Elwood Dean Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="15 Aug 1907" ns0:place="Edwall, Lincoln, Washington, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="23 Jan 1973" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I381"/>
+    <ns1:childOf rdf:resource="#I382"/>
+    <ns1:parentOf rdf:resource="#I1019"/>
+    <ns1:parentOf rdf:resource="#I1030"/>
+    <ns1:parentOf rdf:resource="#I1789"/>
+    <ns1:siblingOf rdf:resource="#I2276"/>
+    <ns1:siblingOf rdf:resource="#I383"/>
+    <ns1:spouseOf rdf:resource="#I1009"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F771">
+    <foaf:member rdf:resource="#I1687"/>
+    <foaf:member rdf:resource="#I1973"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F770">
+    <foaf:member rdf:resource="#I1687"/>
+    <foaf:member rdf:resource="#I1708"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1009" foaf:familyName="Breeden" foaf:gender="female" foaf:name="Julianna Breeden">
+    <ns0:event>
+      <ns0:Birth ns0:date="18 Apr 1917" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="4 Nov 1997" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I3579"/>
+    <ns1:childOf rdf:resource="#I4958"/>
+    <ns1:parentOf rdf:resource="#I1019"/>
+    <ns1:parentOf rdf:resource="#I1030"/>
+    <ns1:parentOf rdf:resource="#I1789"/>
+    <ns1:siblingOf rdf:resource="#I10058"/>
+    <ns1:siblingOf rdf:resource="#I1181"/>
+    <ns1:spouseOf rdf:resource="#I10137"/>
+    <ns1:spouseOf rdf:resource="#I998"/>
+    <foaf:givenName>Julia Anne</foaf:givenName>
+    <foaf:givenName>Julianna</foaf:givenName>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F5">
+    <foaf:member rdf:resource="#I1687"/>
+    <foaf:member rdf:resource="#I1789"/>
+    <foaf:member rdf:resource="#I1900"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F3905">
+    <foaf:member rdf:resource="#I1589"/>
+    <foaf:member rdf:resource="#I1687"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1019" foaf:familyName="Morrison" foaf:gender="female" foaf:givenName="Leanna" foaf:name="Leanna Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="28 Nov 1940"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1009"/>
+    <ns1:childOf rdf:resource="#I998"/>
+    <ns1:siblingOf rdf:resource="#I1030"/>
+    <ns1:siblingOf rdf:resource="#I1789"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F700">
+    <foaf:member rdf:resource="#I1467"/>
+    <foaf:member rdf:resource="#I1711"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1030" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Michael Dean" foaf:name="Michael Dean Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Jul 1950"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="22 Jul 1980" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1009"/>
+    <ns1:childOf rdf:resource="#I998"/>
+    <ns1:siblingOf rdf:resource="#I1019"/>
+    <ns1:siblingOf rdf:resource="#I1789"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F614">
+    <foaf:member rdf:resource="#I1282"/>
+    <foaf:member rdf:resource="#I1467"/>
+    <foaf:member rdf:resource="#I1577"/>
+    <foaf:member rdf:resource="#I1687"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F4232">
+    <foaf:member rdf:resource="#I12106"/>
+    <foaf:member rdf:resource="#I1282"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1101" foaf:familyName="Edwards" foaf:gender="female" foaf:name="Leah Mary Edwards">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Sep 1890" ns0:place="Lydeard St. Lawrence, Somerset, England"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="27 Dec 1964" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I1282"/>
+    <ns1:parentOf rdf:resource="#I1393"/>
+    <ns1:spouseOf rdf:resource="#I1"/>
+    <ns1:spouseOf rdf:resource="#I1710"/>
+    <foaf:givenName>Leah Mary</foaf:givenName>
+    <foaf:givenName>Lily</foaf:givenName>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F559">
+    <foaf:member rdf:resource="#I1155"/>
+    <foaf:member rdf:resource="#I1166"/>
+    <foaf:member rdf:resource="#I1467"/>
+    <foaf:member rdf:resource="#I1807"/>
+    <foaf:member rdf:resource="#I1808"/>
+    <foaf:member rdf:resource="#I1809"/>
+    <foaf:member rdf:resource="#I1810"/>
+    <foaf:member rdf:resource="#I1811"/>
+    <foaf:member rdf:resource="#I1813"/>
+    <foaf:member rdf:resource="#I1814"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F540">
+    <foaf:member rdf:resource="#I1101"/>
+    <foaf:member rdf:resource="#I1710"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1155" foaf:familyName="Lewin" foaf:gender="male" foaf:givenName="Forrest Eugene" foaf:name="Forrest Eugene Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="22 Jan 1882" ns0:place="Custer Co, Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="9 May 1943" ns0:place="Shingle Springs, El Dorado Co, California, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I1467"/>
+    <ns1:parentOf rdf:resource="#I1807"/>
+    <ns1:parentOf rdf:resource="#I1808"/>
+    <ns1:parentOf rdf:resource="#I1809"/>
+    <ns1:parentOf rdf:resource="#I1810"/>
+    <ns1:parentOf rdf:resource="#I1811"/>
+    <ns1:parentOf rdf:resource="#I1813"/>
+    <ns1:parentOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1166"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F3611">
+    <foaf:member rdf:resource="#I1009"/>
+    <foaf:member rdf:resource="#I10137"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F499">
+    <foaf:member rdf:resource="#I10058"/>
+    <foaf:member rdf:resource="#I1009"/>
+    <foaf:member rdf:resource="#I1181"/>
+    <foaf:member rdf:resource="#I3579"/>
+    <foaf:member rdf:resource="#I4958"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1166" foaf:familyName="Sumner" foaf:gender="female" foaf:givenName="Della Florence" foaf:name="Della Florence Sumner">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Jun 1882" ns0:place="Wilsonville, Furnas Co, Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="29 Jan 1971" ns0:place="Placerville, El Dorado Co, California, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I1467"/>
+    <ns1:parentOf rdf:resource="#I1807"/>
+    <ns1:parentOf rdf:resource="#I1808"/>
+    <ns1:parentOf rdf:resource="#I1809"/>
+    <ns1:parentOf rdf:resource="#I1810"/>
+    <ns1:parentOf rdf:resource="#I1811"/>
+    <ns1:parentOf rdf:resource="#I1813"/>
+    <ns1:parentOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1155"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F493">
+    <foaf:member rdf:resource="#I1009"/>
+    <foaf:member rdf:resource="#I1019"/>
+    <foaf:member rdf:resource="#I1030"/>
+    <foaf:member rdf:resource="#I1789"/>
+    <foaf:member rdf:resource="#I998"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F436">
+    <foaf:member rdf:resource="#I1577"/>
+    <foaf:member rdf:resource="#I887"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1181" foaf:familyName="Breeden" foaf:gender="male" foaf:name="Isaac Bern Breeden">
+    <ns0:event>
+      <ns0:Birth ns0:date="16 Aug 1910" ns0:place="Arnett, Oklahoma, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="24 Aug 1992" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I3579"/>
+    <ns1:childOf rdf:resource="#I4958"/>
+    <ns1:siblingOf rdf:resource="#I10058"/>
+    <ns1:siblingOf rdf:resource="#I1009"/>
+    <ns1:spouseOf rdf:resource="#I383"/>
+    <foaf:givenName>Bern</foaf:givenName>
+    <foaf:givenName>Isaac Bern</foaf:givenName>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F212">
+    <foaf:member rdf:resource="#I1181"/>
+    <foaf:member rdf:resource="#I383"/>
+  </foaf:Group>
+  <foaf:Group rdf:ID="F210">
+    <foaf:member rdf:resource="#I2276"/>
+    <foaf:member rdf:resource="#I381"/>
+    <foaf:member rdf:resource="#I382"/>
+    <foaf:member rdf:resource="#I383"/>
+    <foaf:member rdf:resource="#I998"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1282" foaf:familyName="Cochrane" foaf:gender="female" foaf:givenName="Estelle Meredith" foaf:name="Estelle Meredith Cochrane">
+    <ns0:event>
+      <ns0:Birth ns0:date="4 Apr 1916" ns0:place="Calgary, Alberta, Canada"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1"/>
+    <ns1:childOf rdf:resource="#I1101"/>
+    <ns1:parentOf rdf:resource="#I1577"/>
+    <ns1:parentOf rdf:resource="#I1687"/>
+    <ns1:siblingOf rdf:resource="#I1393"/>
+    <ns1:spouseOf rdf:resource="#I12106"/>
+    <ns1:spouseOf rdf:resource="#I1467"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F65">
+    <foaf:member rdf:resource="#I111"/>
+    <foaf:member rdf:resource="#I1393"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I1393" foaf:familyName="Cochrane" foaf:gender="female" foaf:givenName="Muriel Alice Elizabeth" foaf:name="Muriel Alice Elizabeth Cochrane">
+    <ns0:event>
+      <ns0:Birth ns0:date="10 Aug 1917" ns0:place="Calgary, Alberta, Canada"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="14 Nov 1996" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1"/>
+    <ns1:childOf rdf:resource="#I1101"/>
+    <ns1:siblingOf rdf:resource="#I1282"/>
+    <ns1:spouseOf rdf:resource="#I111"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F2">
+    <foaf:member rdf:resource="#I1"/>
+    <foaf:member rdf:resource="#I1101"/>
+    <foaf:member rdf:resource="#I1282"/>
+    <foaf:member rdf:resource="#I1393"/>
+  </foaf:Group>
+  <foaf:Person rdf:ID="I12106" foaf:familyName="Plotner" foaf:gender="male" foaf:givenName="Unknown" foaf:name="Unknown Plotner">
+    <ns1:spouseOf rdf:resource="#I1282"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1467" foaf:familyName="Lewin" foaf:gender="male" foaf:givenName="Claude William" foaf:name="Claude William Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="18 Mar 1914" ns0:place="Comstock, Custer Co, Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="18 Feb 2001" ns0:place="Novato, Marin Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:parentOf rdf:resource="#I1577"/>
+    <ns1:parentOf rdf:resource="#I1687"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1282"/>
+    <ns1:spouseOf rdf:resource="#I1711"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I10158" foaf:familyName="Unknown" foaf:gender="female" foaf:givenName="Grace Marie" foaf:name="Grace Marie Unknown">
+    <ns1:spouseOf rdf:resource="#I2276"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I10137" foaf:familyName="Barrie" foaf:gender="male" foaf:givenName="Ronald David" foaf:name="Ronald David Barrie">
+    <ns1:spouseOf rdf:resource="#I1009"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1577" foaf:familyName="Lewin" foaf:gender="male" foaf:givenName="Stephen Forrest" foaf:name="Stephen Forrest Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="16 May 1948" ns0:place="Stanford Medical Center, San Francisco, San Francisco Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1282"/>
+    <ns1:childOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1687"/>
+    <ns1:spouseOf rdf:resource="#I887"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I10063" foaf:familyName="Moscoe" foaf:gender="male" foaf:givenName="Carroll W." foaf:name="Carroll W. Moscoe">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Jun 1905"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="28 Mar 1973" ns0:place="Clatsop Co, Oregon, USA"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I10058"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1589" foaf:familyName="Vosper" foaf:gender="male" foaf:givenName="David Todd" foaf:name="David Todd Vosper">
+    <ns0:event>
+      <ns0:Birth ns0:date="1950"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1814" foaf:familyName="Lewin" foaf:gender="male" foaf:name="Jessie S. Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="11 Mar 1920" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="7 Aug 1967" ns0:place="San Francisco, San Francisco Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <foaf:givenName>Curly</foaf:givenName>
+    <foaf:givenName>Jessie S.</foaf:givenName>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1687" foaf:familyName="Lewin" foaf:gender="female" foaf:givenName="Claudia Leadele" foaf:name="Claudia Leadele Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Apr 1950" ns0:place="San Francisco, San Francisco Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1282"/>
+    <ns1:childOf rdf:resource="#I1467"/>
+    <ns1:parentOf rdf:resource="#I1900"/>
+    <ns1:siblingOf rdf:resource="#I1577"/>
+    <ns1:spouseOf rdf:resource="#I1589"/>
+    <ns1:spouseOf rdf:resource="#I1708"/>
+    <ns1:spouseOf rdf:resource="#I1789"/>
+    <ns1:spouseOf rdf:resource="#I1973"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I10058" foaf:familyName="Breeden" foaf:gender="female" foaf:givenName="Margaret Blanch" foaf:name="Margaret Blanch Breeden">
+    <ns0:event>
+      <ns0:Birth ns0:date="5 Feb 1915" ns0:place="Ranch 3 miles east of Monitor, Marion Co, Oregon, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="21 May 1990" ns0:place="Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I3579"/>
+    <ns1:childOf rdf:resource="#I4958"/>
+    <ns1:siblingOf rdf:resource="#I1009"/>
+    <ns1:siblingOf rdf:resource="#I1181"/>
+    <ns1:spouseOf rdf:resource="#I10063"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1708" foaf:familyName="Bleth" foaf:gender="male" foaf:givenName="Thomas" foaf:name="Thomas Bleth">
+    <ns1:spouseOf rdf:resource="#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1710" foaf:familyName="Bernard" foaf:gender="male" foaf:givenName="Herbert" foaf:name="Herbert Bernard">
+    <ns1:spouseOf rdf:resource="#I1101"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1711" foaf:familyName="McQuade" foaf:gender="female" foaf:givenName="Anne Louise" foaf:name="Anne Louise McQuade">
+    <ns0:event>
+      <ns0:Birth ns0:date="25 Aug 1928" ns0:place="San Francisco Co, California, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="16 Jun 1997" ns0:place="Novato, Marin Co, California, USA"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1467"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I10057" foaf:familyName="Curtner" foaf:gender="male" foaf:name="Grover Cleveland Curtner">
+    <ns0:event>
+      <ns0:Birth ns0:date="Abt 1886" ns0:place="Texas, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="27 Sep 1958" ns0:place="Multnomah Co, Oregon, USA"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I4958"/>
+    <foaf:givenName>Bud</foaf:givenName>
+    <foaf:givenName>Grover Cleveland</foaf:givenName>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I9260" foaf:familyName="Unknown" foaf:gender="female" foaf:givenName="Lindsey" foaf:name="Lindsey Unknown">
+    <ns1:spouseOf rdf:resource="#I1789"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1789" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Stephen Douglas" foaf:name="Stephen Douglas Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="4 Jun 1949" ns0:place="Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1009"/>
+    <ns1:childOf rdf:resource="#I998"/>
+    <ns1:parentOf rdf:resource="#I1900"/>
+    <ns1:siblingOf rdf:resource="#I1019"/>
+    <ns1:siblingOf rdf:resource="#I1030"/>
+    <ns1:spouseOf rdf:resource="#I1687"/>
+    <ns1:spouseOf rdf:resource="#I9260"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I4958" foaf:familyName="Blanch" foaf:gender="female" foaf:name="Berniece A. Blanch">
+    <ns0:event>
+      <ns0:Birth ns0:date="1 Mar 1891" ns0:place="Ottawa, Franklin, Kansas, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="4 May 1974" ns0:place="Seaside, Clatsop, Oregon, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I10058"/>
+    <ns1:parentOf rdf:resource="#I1009"/>
+    <ns1:parentOf rdf:resource="#I1181"/>
+    <ns1:spouseOf rdf:resource="#I10057"/>
+    <ns1:spouseOf rdf:resource="#I3579"/>
+    <foaf:givenName>Allie</foaf:givenName>
+    <foaf:givenName>Berniece A.</foaf:givenName>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1807" foaf:familyName="Lewin" foaf:gender="female" foaf:givenName="Zelda Elaine" foaf:name="Zelda Elaine Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="9 Mar 1907" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="24 Jan 1978" ns0:place="Sonoma, Sonoma Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1815"/>
+    <ns1:spouseOf rdf:resource="#I4684"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I4797" foaf:familyName="Santoyo Lopez" foaf:gender="female" foaf:givenName="Monica" foaf:name="Monica Santoyo Lopez">
+    <ns0:event>
+      <ns0:Birth ns0:date="13 Jan 1971" ns0:place="Celaya, , Guanajuato, México"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I4796" foaf:familyName="Heilman" foaf:gender="female" foaf:givenName="Suanne Marie" foaf:name="Suanne Marie Heilman">
+    <ns1:spouseOf rdf:resource="#I1900"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1808" foaf:familyName="Lewin" foaf:gender="female" foaf:givenName="Leola Edna" foaf:name="Leola Edna Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="14 Apr 1908" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="4 Jul 1981" ns0:place="Sacramento Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1819"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I4684" foaf:familyName="Neal" foaf:gender="male" foaf:givenName="Unknown" foaf:name="Unknown Neal">
+    <ns1:spouseOf rdf:resource="#I1807"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I3579" foaf:familyName="Breeden" foaf:gender="male" foaf:name="Arnold Ernest Breeden">
+    <ns0:event>
+      <ns0:Birth ns0:date="3 Mar 1885" ns0:place="Kansas, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="6 Jan 1918" ns0:place="Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"/>
+    </ns0:event>
+    <ns1:parentOf rdf:resource="#I10058"/>
+    <ns1:parentOf rdf:resource="#I1009"/>
+    <ns1:parentOf rdf:resource="#I1181"/>
+    <ns1:spouseOf rdf:resource="#I4958"/>
+    <foaf:givenName>Arnold Elsworth</foaf:givenName>
+    <foaf:givenName>Arnold Ernest</foaf:givenName>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1809" foaf:familyName="Lewin" foaf:gender="female" foaf:givenName="Lilas F." foaf:name="Lilas F. Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="12 Jul 1909" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1820"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I2276" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Jack Earl" foaf:name="Jack Earl Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="2 Aug 1917" ns0:place="Bellingham, Whatcom, Washington, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I381"/>
+    <ns1:childOf rdf:resource="#I382"/>
+    <ns1:siblingOf rdf:resource="#I383"/>
+    <ns1:siblingOf rdf:resource="#I998"/>
+    <ns1:spouseOf rdf:resource="#I10158"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I2045" foaf:familyName="Usselman" foaf:gender="female" foaf:givenName="Agnes" foaf:name="Agnes Usselman">
+    <ns0:event>
+      <ns0:Birth ns0:date="15 Jun 1913" ns0:place="Eureka, McPherson, South Dakota, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="12 Aug 1975" ns0:place="Sacramento, California, USA"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1811"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1810" foaf:familyName="Lewin" foaf:gender="male" foaf:name="Leo Eugene Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="25 Jan 1911" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="May 1986" ns0:place="Nevada, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <foaf:givenName>Eugene L.</foaf:givenName>
+    <foaf:givenName>Leo Eugene</foaf:givenName>
+    <foaf:givenName>Pinky</foaf:givenName>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1973" foaf:familyName="Falls" foaf:gender="male" foaf:givenName="Winston" foaf:name="Winston Falls">
+    <ns1:spouseOf rdf:resource="#I1687"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1900" foaf:familyName="Morrison" foaf:gender="male" foaf:givenName="Keith Douglas" foaf:name="Keith Douglas Morrison">
+    <ns0:event>
+      <ns0:Birth ns0:date="16 Feb 1971" ns0:place="St. Vincents Hospital, Portland, Multnomah, Oregon, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1687"/>
+    <ns1:childOf rdf:resource="#I1789"/>
+    <ns1:spouseOf rdf:resource="#I4796"/>
+    <ns1:spouseOf rdf:resource="#I4797"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1811" foaf:familyName="Lewin" foaf:gender="male" foaf:givenName="John Harvey" foaf:name="John Harvey Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="1 Sep 1915" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="18 Apr 1945" ns0:place="Italy"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1813"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I2045"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1828" foaf:familyName="Daniels" foaf:gender="male" foaf:givenName="William" foaf:name="William Daniels">
+    <ns1:spouseOf rdf:resource="#I1813"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1820" foaf:familyName="Thomas" foaf:gender="male" foaf:givenName="Ray" foaf:name="Ray Thomas">
+    <ns1:spouseOf rdf:resource="#I1809"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1813" foaf:familyName="Lewin" foaf:gender="female" foaf:givenName="Amy Lucille" foaf:name="Amy Lucille Lewin">
+    <ns0:event>
+      <ns0:Birth ns0:date="16 Sep 1917" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="9 Jun 1989" ns0:place="El Dorado Co, California, USA"/>
+    </ns0:event>
+    <ns1:childOf rdf:resource="#I1155"/>
+    <ns1:childOf rdf:resource="#I1166"/>
+    <ns1:siblingOf rdf:resource="#I1467"/>
+    <ns1:siblingOf rdf:resource="#I1807"/>
+    <ns1:siblingOf rdf:resource="#I1808"/>
+    <ns1:siblingOf rdf:resource="#I1809"/>
+    <ns1:siblingOf rdf:resource="#I1810"/>
+    <ns1:siblingOf rdf:resource="#I1811"/>
+    <ns1:siblingOf rdf:resource="#I1814"/>
+    <ns1:spouseOf rdf:resource="#I1828"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1819" foaf:familyName="Heinz" foaf:gender="male" foaf:givenName="Albert Carl" foaf:name="Albert Carl Heinz">
+    <ns0:event>
+      <ns0:Birth ns0:date="12 Sep 1901" ns0:place="Nebraska, USA"/>
+    </ns0:event>
+    <ns0:event>
+      <ns0:Death ns0:date="30 Oct 1960" ns0:place="El Dorado Co, California, USA"/>
+    </ns0:event>
+    <ns1:spouseOf rdf:resource="#I1808"/>
+  </foaf:Person>
+  <foaf:Person rdf:ID="I1815" foaf:familyName="Woods" foaf:gender="male" foaf:givenName="Unknown" foaf:name="Unknown Woods">
+    <ns1:spouseOf rdf:resource="#I1807"/>
+  </foaf:Person>
+  <foaf:Group rdf:ID="F3576">
+    <foaf:member rdf:resource="#I10058"/>
+    <foaf:member rdf:resource="#I10063"/>
+  </foaf:Group>
+</rdf:RDF>
