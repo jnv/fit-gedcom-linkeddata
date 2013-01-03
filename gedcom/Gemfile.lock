@@ -10,12 +10,16 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
+    activesupport (3.2.9)
+      i18n (~> 0.6)
+      multi_json (~> 1.0)
     addressable (2.3.2)
     backports (2.6.5)
     equivalent-xml (0.3.0)
       nokogiri (>= 1.4.3)
     haml (3.1.7)
     htmlentities (4.3.1)
+    i18n (0.6.1)
     json (1.7.6)
     json-ld (0.3.2)
       backports
@@ -34,6 +38,7 @@ GEM
       rdf-trig (>= 0.1.1)
       rdf-trix (>= 0.3.0)
       rdf-turtle (>= 0.1.1)
+    multi_json (1.5.0)
     nokogiri (1.5.6)
     promise (0.3.0)
     rdf (0.3.11.1)
@@ -72,6 +77,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport
   equivalent-xml
   linkeddata
   spira!

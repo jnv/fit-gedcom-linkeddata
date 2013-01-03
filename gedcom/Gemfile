@@ -3,3 +3,5 @@ source :rubygems
 gem 'linkeddata'
 gem 'spira', github: 'ruby-rdf/spira'
 gem 'equivalent-xml'
+
+gem 'activesupport'
