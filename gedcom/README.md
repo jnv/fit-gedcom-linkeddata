@@ -43,6 +43,8 @@ This is heavily inspired by [Gedcom::FOAF](http://search.cpan.org/~bricas/Gedcom
 
 The script has a few dependencies, most notably the [Linked Data gem](http://ruby-rdf.github.com/linkeddata/)  with an awesome [RDF.rb](http://ruby-rdf.github.com/rdf/) library. Dependencies are managed with [Bundler](http://gembundler.com/).
 
+### Usage
+
 ```sh
 bundle install
 bundle exec ./xml2rdf.rb <input.xml> > output.rdf
