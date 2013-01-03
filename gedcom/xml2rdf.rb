@@ -8,6 +8,9 @@ include RDF
 BIO = Vocabulary.new('http://purl.org/vocab/bio/0.1/')
 REL = Vocabulary.new('http://purl.org/vocab/relationship/')
 
+BASE_URI = 'http://example.com/'
+DUMP_FORMAT = :rdfxml
+
 $individuals = {}
 $families = {}
 
@@ -53,7 +56,8 @@ class Event
 
   def initialize(type, date = nil, place = nil)
     @subtype = BIO[type]
-    @date = date if date #Date.new(date) if date
+    #@date = date if date #Date.new(date) if date
+    @date = parse_date(date) if date
     @place = place if place
     @repo = Repository.new
     @subject = Node.uuid
@@ -71,6 +75,15 @@ class Event
 
   def empty?
     date.nil? and place.nil?
+  end
+
+  def parse_date(date = nil)
+    #chron = Chronic.parse(date, context: :past)
+    #chron.to_date
+    Date.parse(date)
+  rescue ArgumentError
+    $stderr.puts("Invalid date '#{date}'")
+    date.to_s
   end
 end
 
@@ -388,5 +401,8 @@ groups.collection.each do |id, group|
   graph << group
 end
 
+$stderr.print "Serializer for #{DUMP_FORMAT}: "
+$stderr.puts Format.for(:rdfxml).inspect
+
 $stderr.puts "Dumping..."
-puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: 'http://example.com/')
+puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: BASE_URI)
