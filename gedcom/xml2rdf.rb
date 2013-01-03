@@ -6,7 +6,7 @@ require 'active_support/all'
 include RDF
 
 BIO = Vocabulary.new('http://purl.org/vocab/bio/0.1/')
-REL = Vocabulary.new('http://purl.org/vocab/relationship')
+REL = Vocabulary.new('http://purl.org/vocab/relationship/')
 
 $individuals = {}
 $families = {}
@@ -14,6 +14,11 @@ $families = {}
 def clean_id(value)
   value.delete('@').strip
 end
+
+def fragment_uri(uri)
+  ::RDF::URI.new("\##{clean_id(uri)}")
+end
+
 class Individual
   # type FOAF.Person
   # property :id, predicate: RDF.ID
@@ -62,6 +67,7 @@ class Individual
     @givennames = []
     @family_ids = []
     @subject = RDF::Node(id)
+    @repo = Repository.new
   end
 
   def givennames=(names = [])
@@ -75,30 +81,79 @@ class Individual
 
   def to_rdf
     # self #RDF::Enumerable
-    repo = Repository.new
-    repo << [@subject, RDF.type, TYPE]
+    @repo << [@subject, RDF.type, TYPE]
     PROPERTIES.each do |prop, predicate|
       value = self.send(prop)
-      repo.insert(Statement.new(@subject, predicate, value))
+      @repo.insert(Statement.new(@subject, predicate, value))
     end
     @givennames.each do |value|
-      repo << [@subject, FOAF.givenName, value]
+      @repo << [@subject, FOAF.givenName, value]
     end
-    repo
+    @repo
   end
 
   def to_uri
     ::RDF::URI.new("\##{id}")
   end
 
+  def add_child(id)
+    @repo << [@subject, REL.parentOf, fragment_uri(id)]
+  end
+
+  def add_spouse(id)
+    @repo << [@subject, REL.spouseOf, fragment_uri(id)]
+  end
+
+  def add_parents(*ids)
+    ids.each do |id|
+      @repo << [@subject, REL.childOf, fragment_uri(id)]
+    end
+  end
+
+  def add_siblings(ids = [])
+    ids.each do |id|
+      next if id == @id
+      @repo << [@subject, REL.siblingOf, fragment_uri(id)]
+    end
+  end
+
   # def each(*args, &block)
   # end
+
 
 end
 
 class Family
   TYPE = FOAF.Group
+  attr_accessor :id
   # has_many :individuals, predicate: FOAF.Member
+  def self.from_xml(e)
+    id = clean_id(e.attributes['id'])
+    f = Family.new(id)
+    children = []
+    e.elements.each('CHIL') do |elem|
+      children << clean_id(elem.text)
+    end
+
+    husb_id = clean_id(e.elements['HUSB'].text)
+    wife_id = clean_id(e.elements['WIFE'].text)
+    husb = $individuals[husb_id]
+    wife = $individuals[wife_id]
+
+    husb.add_spouse(wife_id)
+    wife.add_spouse(husb_id)
+
+    children.each do |cid|
+      husb.add_child(cid)
+      wife.add_child(cid)
+      child = $individuals[cid]
+      child.add_parents(husb_id, wife_id)
+      child.add_siblings(children)
+    end
+
+    f
+  end
+
   def initialize(id)
     @id = id
     @subject = RDF::Node(id)
@@ -140,6 +195,13 @@ class Groups
     @collection[id] = family unless @collection.key?(id)
     family
   end
+
+  def add_family_xml(e)
+    #id = clean_id(e.attributes['id'])
+    #add_family(id)
+    family = Family.from_xml(e)
+    @collection[family.id] = family
+  end
 end
 
 # Raw XML processing & Graph
@@ -150,12 +212,19 @@ groups = Groups.new
 doc.elements.each("/gedcom/INDI") do |element|
   indi = Individual.from_xml(element)
   $individuals[indi.id] = indi
-  groups.add_individual(indi)
 
   #puts indi.id
-  graph << indi
+  #graph << indi
   # puts indi.inspect
   #indi.save!
+end
+
+doc.elements.each("/gedcom/FAM") do |element|
+  groups.add_family_xml(element)
+end
+
+$individuals.each do |id, indi|
+  graph << indi
 end
 
 groups.collection.each do |id, group|
