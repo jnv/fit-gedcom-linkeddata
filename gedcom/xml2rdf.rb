@@ -78,8 +78,10 @@ class Event
   end
 
   def parse_date(date = nil)
-    #chron = Chronic.parse(date, context: :past)
-    #chron.to_date
+    if date =~ /\A\d{4}\z/
+      $stderr.puts("Won't parse an year '#{date}'")
+      return date
+    end
     Date.parse(date)
   rescue ArgumentError
     $stderr.puts("Invalid date '#{date}'")
