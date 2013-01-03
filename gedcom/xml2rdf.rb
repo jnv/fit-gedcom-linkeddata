@@ -15,8 +15,13 @@ def clean_id(value)
   value.delete('@').strip
 end
 
-def fragment_uri(uri)
-  ::RDF::URI.new("\##{clean_id(uri)}")
+def fragment_uri(obj)
+  if obj.respond_to?(:id)
+    id = obj.id
+  else
+    id = clean_id(obj)
+  end
+  ::RDF::URI.new("\##{id}")
 end
 
 class Individual
@@ -28,7 +33,7 @@ class Individual
   # property :gender, predicate: FOAF.gender
   #property :death, type: Native, predicate: BIO.Event
   #include RDF::Enumerable
-  attr_accessor :id, :name, :givennames, :surname, :gender, :family_ids, :families
+  attr_accessor :id, :name, :givennames, :surname, :gender, :fams_ids, :famc_ids
 
   TYPE = FOAF.Person
 
@@ -52,9 +57,14 @@ class Individual
       else 'unknown'
       end
 
-      families = e.elements.to_a('FAMS')
-      unless families.blank?
-        i.family_ids = families.map(&:text).map {|fam| clean_id(fam)}
+      fams = e.elements.to_a('FAMS')
+      unless fams.blank?
+        i.fams_ids = fams.map(&:text).map {|fam| clean_id(fam)}
+      end
+
+      famc = e.elements.to_a('FAMC')
+      unless famc.blank?
+        i.famc_ids = famc.map(&:text).map {|fam| clean_id(fam)}
       end
       #deat = e.elements['DEAT']
       #i.death = Death.from_xml(deat) unless deat.nil?
@@ -65,7 +75,8 @@ class Individual
   def initialize(id)
     @id = id
     @givennames = []
-    @family_ids = []
+    @famc_ids = []
+    @fams_ids = []
     @subject = RDF::Node(id)
     @repo = Repository.new
   end
@@ -100,20 +111,29 @@ class Individual
     @repo << [@subject, REL.parentOf, fragment_uri(id)]
   end
 
-  def add_spouse(id)
-    @repo << [@subject, REL.spouseOf, fragment_uri(id)]
-  end
-
-  def add_parents(*ids)
-    ids.each do |id|
-      @repo << [@subject, REL.childOf, fragment_uri(id)]
+  def add_spouses(spouses = [])
+    spouses.each do |sp|
+      next if sp.id == @id
+      @repo << [@subject, REL.spouseOf, sp.to_uri]
     end
   end
 
-  def add_siblings(ids = [])
-    ids.each do |id|
-      next if id == @id
-      @repo << [@subject, REL.siblingOf, fragment_uri(id)]
+  def add_parents(parents = [])
+    parents.each do |parent|
+      @repo << [@subject, REL.childOf, parent.to_uri]
+    end
+  end
+
+  def add_siblings(siblings = [])
+    siblings.each do |sib|
+      next if sib.id == @id
+      @repo << [@subject, REL.siblingOf, sib.to_uri]
+    end
+  end
+
+  def add_children(children = [])
+    children.each do |ch|
+      @repo << [@subject, REL.parentOf, ch.to_uri]
     end
   end
 
@@ -158,12 +178,61 @@ class Family
     @id = id
     @subject = RDF::Node(id)
     @members = []
+    @spouses = []
+    @children = []
     @repo = Repository.new
   end
 
   def add_member(member)
     @members << member
     @repo << [@subject, FOAF.member, member.to_uri]
+  end
+
+  def add_spouse(individual)
+    @spouses << individual
+    add_member(individual)
+  end
+
+  def add_child(individual)
+    @children << individual
+    add_member(individual)
+  end
+
+  def resolve_siblings
+    #resolve_relations(@children, :add_siblings)
+    @children.each {|ch| ch.add_siblings(@children)}
+  end
+
+  def resolve_spouses
+    #resolve_relations(@spouses, :add_spouses)
+    @spouses.each {|sp| sp.add_spouses(@spouses)}
+  end
+
+  def resolve_parents
+    @children.each do |child|
+      child.add_parents(@spouses)
+    end
+  end
+
+  def resolve_children
+    @spouses.each do |spouse|
+      spouse.add_children(@children)
+    end
+  end
+
+  def resolve_all
+    resolve_siblings
+    resolve_spouses
+    resolve_parents
+    resolve_children
+  end
+
+  def resolve_relations(source, method, target = nil)
+    source = target if target.nil?
+
+    target.each do |t|
+      t.send(method, source)
+    end
   end
 
   # def each(*args, &block)
@@ -184,9 +253,14 @@ class Groups
   end
 
   def add_individual(indi)
-    indi.family_ids.each do |fam_id|
+    indi.famc_ids.each do |fam_id|
       family = add_family(fam_id)
-      family.add_member(indi)
+      family.add_child(indi)
+    end
+
+    indi.fams_ids.each do |fam_id|
+      family = add_family(fam_id)
+      family.add_spouse(indi)
     end
   end
 
@@ -202,10 +276,17 @@ class Groups
     family = Family.from_xml(e)
     @collection[family.id] = family
   end
+
+  def resolve!
+    @collection.each do |id, family|
+      puts family.inspect
+      family.resolve_all
+    end
+  end
 end
 
 # Raw XML processing & Graph
-input = File.new('royal.xml')
+input = File.new('sample.xml')
 doc = REXML::Document.new(input, {compress_whitespace: :all})
 graph = Graph.new
 groups = Groups.new
@@ -219,9 +300,14 @@ doc.elements.each("/gedcom/INDI") do |element|
   #indi.save!
 end
 
-doc.elements.each("/gedcom/FAM") do |element|
-  groups.add_family_xml(element)
+$individuals.each do |id, indi|
+  groups.add_individual(indi)
 end
+groups.resolve!
+
+# doc.elements.each("/gedcom/FAM") do |element|
+  # groups.add_family_xml(element)
+# end
 
 $individuals.each do |id, indi|
   graph << indi
