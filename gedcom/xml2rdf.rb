@@ -28,6 +28,7 @@ class Individual
   TYPE = FOAF.Person
 
   PROPERTIES = {
+    id: RDF.ID,
     name: FOAF.name,
     surname: FOAF.familyName,
     gender: FOAF.gender
@@ -140,4 +141,4 @@ doc.elements.each("/gedcom/INDI") do |element|
   #indi.save!
 end
 
-puts graph.dump(:rdf)
+puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: 'http://example.com/')
