@@ -60,6 +60,7 @@ class Individual
   def initialize(id)
     @id = id
     @givennames = []
+    @family_ids = []
     @subject = RDF::Node(id)
   end
 
@@ -86,29 +87,43 @@ class Individual
     repo
   end
 
+  def to_uri
+    ::RDF::URI.new("\##{id}")
+  end
+
   # def each(*args, &block)
   # end
 
 end
 
 class Family
+  TYPE = FOAF.Group
   # has_many :individuals, predicate: FOAF.Member
   def initialize(id)
     @id = id
     @subject = RDF::Node(id)
     @members = []
+    @repo = Repository.new
   end
 
   def add_member(member)
     @members << member
+    @repo << [@subject, FOAF.member, member.to_uri]
   end
 
-  def each(*args, &block)
+  # def each(*args, &block)
     #XXX support RDF::Enumerable
+  # end
+
+  def to_rdf
+    @repo << [@subject, RDF.type, TYPE]
+    @repo << [@subject, RDF.ID, @id]
+    @repo
   end
 end
 
 class Groups
+  attr_reader :collection
   def initialize
     @collection = {}
   end
@@ -131,14 +146,21 @@ end
 input = File.new('sample.xml')
 doc = REXML::Document.new(input, {compress_whitespace: :all})
 graph = Graph.new
-
+groups = Groups.new
 doc.elements.each("/gedcom/INDI") do |element|
   indi = Individual.from_xml(element)
   $individuals[indi.id] = indi
+  groups.add_individual(indi)
+
   #puts indi.id
   graph << indi
   # puts indi.inspect
   #indi.save!
 end
+
+groups.collection.each do |id, group|
+  graph << group
+end
+
 
 puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: 'http://example.com/')
