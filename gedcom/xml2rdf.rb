@@ -5,8 +5,6 @@ require 'rexml/document'
 require 'active_support/all'
 include RDF
 
-INPUT = 'sample.xml'
-
 BIO = Vocabulary.new('http://purl.org/vocab/bio/0.1/')
 REL = Vocabulary.new('http://purl.org/vocab/relationship/')
 
@@ -350,7 +348,7 @@ class Groups
 end
 
 # Raw XML processing & Graph
-input = File.new(INPUT)
+input = File.open(ARGV[0])
 doc = REXML::Document.new(input, {compress_whitespace: :all})
 graph = Graph.new
 groups = Groups.new
