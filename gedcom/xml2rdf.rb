@@ -45,8 +45,8 @@ class Individual
     indi = self.new(id).tap do |i|
       i.name = e.elements['NAME'].text.strip
       i.givennames = e.elements.to_a('NAME/GIVN').map(&:text)
-      i.surname = e.elements['NAME/SURN'].text.strip
-      i.gender = case e.elements['SEX'].text.strip
+      i.surname = e.elements['NAME/SURN'].try(:text).try(:strip)
+      i.gender = case e.elements['SEX'].try(:text).try(:strip)
       when 'M' then 'male'
       when 'F' then 'female'
       else 'unknown'
@@ -205,7 +205,7 @@ class Groups
 end
 
 # Raw XML processing & Graph
-input = File.new('sample.xml')
+input = File.new('royal.xml')
 doc = REXML::Document.new(input, {compress_whitespace: :all})
 graph = Graph.new
 groups = Groups.new
