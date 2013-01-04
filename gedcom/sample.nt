@@ -1,0 +1,945 @@
+_:I1 <http://purl.org/vocab/bio/0.1/event> _:8a0543c0-38f4-0130-cdf9-406186348d92 .
+_:I1 <http://purl.org/vocab/bio/0.1/event> _:8a057c60-38f4-0130-cdf9-406186348d92 .
+_:I1 <http://purl.org/vocab/relationship/spouseOf> <#I1101> .
+_:I1 <http://purl.org/vocab/relationship/parentOf> <#I1282> .
+_:I1 <http://purl.org/vocab/relationship/parentOf> <#I1393> .
+_:I1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1" .
+_:I1 <http://xmlns.com/foaf/0.1/name> "John Douglas Cochrane" .
+_:I1 <http://xmlns.com/foaf/0.1/familyName> "Cochrane" .
+_:I1 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1 <http://xmlns.com/foaf/0.1/givenName> "John Douglas" .
+_:8a0543c0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0543c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1884-10-21Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0543c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Drummond Terrace, Ottawa, Ontario, Canada" .
+_:8a057c60-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a057c60-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1941-07-12Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a057c60-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Tranquille Sanitarium, Kamloops, British Columbia, Canada" .
+_:I111 <http://purl.org/vocab/bio/0.1/event> _:8a0610f0-38f4-0130-cdf9-406186348d92 .
+_:I111 <http://purl.org/vocab/bio/0.1/event> _:8a0631a0-38f4-0130-cdf9-406186348d92 .
+_:I111 <http://purl.org/vocab/relationship/spouseOf> <#I1393> .
+_:I111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I111 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I111" .
+_:I111 <http://xmlns.com/foaf/0.1/name> "Creon Henry Nims" .
+_:I111 <http://xmlns.com/foaf/0.1/familyName> "Nims" .
+_:I111 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I111 <http://xmlns.com/foaf/0.1/givenName> "Creon Henry" .
+_:I111 <http://xmlns.com/foaf/0.1/givenName> "Connie" .
+_:8a0610f0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0610f0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1915-01-21Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0610f0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Maquoketa, Iowa, USA" .
+_:8a0631a0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0631a0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "2004-06-01Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:I381 <http://purl.org/vocab/bio/0.1/event> _:8a06e460-38f4-0130-cdf9-406186348d92 .
+_:I381 <http://purl.org/vocab/bio/0.1/event> _:8a070010-38f4-0130-cdf9-406186348d92 .
+_:I381 <http://purl.org/vocab/relationship/spouseOf> <#I382> .
+_:I381 <http://purl.org/vocab/relationship/parentOf> <#I383> .
+_:I381 <http://purl.org/vocab/relationship/parentOf> <#I998> .
+_:I381 <http://purl.org/vocab/relationship/parentOf> <#I2276> .
+_:I381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I381 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I381" .
+_:I381 <http://xmlns.com/foaf/0.1/name> "Herman Franklin Morrison" .
+_:I381 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I381 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I381 <http://xmlns.com/foaf/0.1/givenName> "Herman Franklin" .
+_:8a06e460-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a06e460-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1883-01-15Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a06e460-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "York, York Co, Nebraska, USA" .
+_:8a070010-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a070010-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1958-08-19Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a070010-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I382 <http://purl.org/vocab/bio/0.1/event> _:8a07cec0-38f4-0130-cdf9-406186348d92 .
+_:I382 <http://purl.org/vocab/bio/0.1/event> _:8a07e960-38f4-0130-cdf9-406186348d92 .
+_:I382 <http://purl.org/vocab/relationship/spouseOf> <#I381> .
+_:I382 <http://purl.org/vocab/relationship/parentOf> <#I383> .
+_:I382 <http://purl.org/vocab/relationship/parentOf> <#I998> .
+_:I382 <http://purl.org/vocab/relationship/parentOf> <#I2276> .
+_:I382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I382 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I382" .
+_:I382 <http://xmlns.com/foaf/0.1/name> "Pauline R. DeChenne" .
+_:I382 <http://xmlns.com/foaf/0.1/familyName> "DeChenne" .
+_:I382 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I382 <http://xmlns.com/foaf/0.1/givenName> "Pauline R." .
+_:I382 <http://xmlns.com/foaf/0.1/givenName> "Pauline D." .
+_:I382 <http://xmlns.com/foaf/0.1/givenName> "Pauline S." .
+_:I382 <http://xmlns.com/foaf/0.1/givenName> "Polly Belle" .
+_:8a07cec0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a07cec0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1888-12-10Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a07cec0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Pocahontas, Bond Co, Illinois, USA" .
+_:8a07e960-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a07e960-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1961-10-06Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a07e960-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I383 <http://purl.org/vocab/bio/0.1/event> _:8a089b00-38f4-0130-cdf9-406186348d92 .
+_:I383 <http://purl.org/vocab/bio/0.1/event> _:8a08ba70-38f4-0130-cdf9-406186348d92 .
+_:I383 <http://purl.org/vocab/relationship/siblingOf> <#I998> .
+_:I383 <http://purl.org/vocab/relationship/siblingOf> <#I2276> .
+_:I383 <http://purl.org/vocab/relationship/childOf> <#I381> .
+_:I383 <http://purl.org/vocab/relationship/childOf> <#I382> .
+_:I383 <http://purl.org/vocab/relationship/spouseOf> <#I1181> .
+_:I383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I383 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I383" .
+_:I383 <http://xmlns.com/foaf/0.1/name> "Evelyn Paula Morrison" .
+_:I383 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I383 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I383 <http://xmlns.com/foaf/0.1/givenName> "Evelyn Paula" .
+_:8a089b00-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a089b00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1910-03-19Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a089b00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Edwall, Lincoln, Washington, USA" .
+_:8a08ba70-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a08ba70-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1992-08-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a08ba70-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I887 <http://purl.org/vocab/bio/0.1/event> _:8a092580-38f4-0130-cdf9-406186348d92 .
+_:I887 <http://purl.org/vocab/relationship/spouseOf> <#I1577> .
+_:I887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I887 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I887" .
+_:I887 <http://xmlns.com/foaf/0.1/name> "Patricia Bartch" .
+_:I887 <http://xmlns.com/foaf/0.1/familyName> "Bartch" .
+_:I887 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I887 <http://xmlns.com/foaf/0.1/givenName> "Patricia" .
+_:8a092580-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a092580-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1951-02-11Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:I998 <http://purl.org/vocab/bio/0.1/event> _:8a09ddc0-38f4-0130-cdf9-406186348d92 .
+_:I998 <http://purl.org/vocab/bio/0.1/event> _:8a09f8d0-38f4-0130-cdf9-406186348d92 .
+_:I998 <http://purl.org/vocab/relationship/siblingOf> <#I383> .
+_:I998 <http://purl.org/vocab/relationship/siblingOf> <#I2276> .
+_:I998 <http://purl.org/vocab/relationship/childOf> <#I381> .
+_:I998 <http://purl.org/vocab/relationship/childOf> <#I382> .
+_:I998 <http://purl.org/vocab/relationship/spouseOf> <#I1009> .
+_:I998 <http://purl.org/vocab/relationship/parentOf> <#I1019> .
+_:I998 <http://purl.org/vocab/relationship/parentOf> <#I1030> .
+_:I998 <http://purl.org/vocab/relationship/parentOf> <#I1789> .
+_:I998 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I998 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I998" .
+_:I998 <http://xmlns.com/foaf/0.1/name> "Elwood Dean Morrison" .
+_:I998 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I998 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I998 <http://xmlns.com/foaf/0.1/givenName> "Elwood Dean" .
+_:8a09ddc0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a09ddc0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1907-08-15Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a09ddc0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Edwall, Lincoln, Washington, USA" .
+_:8a09f8d0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a09f8d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1973-01-23Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a09f8d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1009 <http://purl.org/vocab/bio/0.1/event> _:8a0ab780-38f4-0130-cdf9-406186348d92 .
+_:I1009 <http://purl.org/vocab/bio/0.1/event> _:8a0ad460-38f4-0130-cdf9-406186348d92 .
+_:I1009 <http://purl.org/vocab/relationship/spouseOf> <#I998> .
+_:I1009 <http://purl.org/vocab/relationship/spouseOf> <#I10137> .
+_:I1009 <http://purl.org/vocab/relationship/parentOf> <#I1019> .
+_:I1009 <http://purl.org/vocab/relationship/parentOf> <#I1030> .
+_:I1009 <http://purl.org/vocab/relationship/parentOf> <#I1789> .
+_:I1009 <http://purl.org/vocab/relationship/siblingOf> <#I1181> .
+_:I1009 <http://purl.org/vocab/relationship/siblingOf> <#I10058> .
+_:I1009 <http://purl.org/vocab/relationship/childOf> <#I3579> .
+_:I1009 <http://purl.org/vocab/relationship/childOf> <#I4958> .
+_:I1009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1009 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1009" .
+_:I1009 <http://xmlns.com/foaf/0.1/name> "Julianna Breeden" .
+_:I1009 <http://xmlns.com/foaf/0.1/familyName> "Breeden" .
+_:I1009 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1009 <http://xmlns.com/foaf/0.1/givenName> "Julianna" .
+_:I1009 <http://xmlns.com/foaf/0.1/givenName> "Julia Anne" .
+_:8a0ab780-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0ab780-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1917-04-18Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0ab780-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:8a0ad460-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0ad460-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1997-11-04Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0ad460-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1019 <http://purl.org/vocab/bio/0.1/event> _:8a0b36a0-38f4-0130-cdf9-406186348d92 .
+_:I1019 <http://purl.org/vocab/relationship/siblingOf> <#I1030> .
+_:I1019 <http://purl.org/vocab/relationship/siblingOf> <#I1789> .
+_:I1019 <http://purl.org/vocab/relationship/childOf> <#I998> .
+_:I1019 <http://purl.org/vocab/relationship/childOf> <#I1009> .
+_:I1019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1019 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1019" .
+_:I1019 <http://xmlns.com/foaf/0.1/name> "Leanna Morrison" .
+_:I1019 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I1019 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1019 <http://xmlns.com/foaf/0.1/givenName> "Leanna" .
+_:8a0b36a0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0b36a0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1940-11-28Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:I1030 <http://purl.org/vocab/bio/0.1/event> _:8a0bbfb0-38f4-0130-cdf9-406186348d92 .
+_:I1030 <http://purl.org/vocab/bio/0.1/event> _:8a0bd9c0-38f4-0130-cdf9-406186348d92 .
+_:I1030 <http://purl.org/vocab/relationship/siblingOf> <#I1019> .
+_:I1030 <http://purl.org/vocab/relationship/siblingOf> <#I1789> .
+_:I1030 <http://purl.org/vocab/relationship/childOf> <#I998> .
+_:I1030 <http://purl.org/vocab/relationship/childOf> <#I1009> .
+_:I1030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1030 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1030" .
+_:I1030 <http://xmlns.com/foaf/0.1/name> "Michael Dean Morrison" .
+_:I1030 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I1030 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1030 <http://xmlns.com/foaf/0.1/givenName> "Michael Dean" .
+_:8a0bbfb0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0bbfb0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1950-07-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0bd9c0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0bd9c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1980-07-22Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0bd9c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1101 <http://purl.org/vocab/bio/0.1/event> _:8a0ca7c0-38f4-0130-cdf9-406186348d92 .
+_:I1101 <http://purl.org/vocab/bio/0.1/event> _:8a0cc4a0-38f4-0130-cdf9-406186348d92 .
+_:I1101 <http://purl.org/vocab/relationship/spouseOf> <#I1> .
+_:I1101 <http://purl.org/vocab/relationship/spouseOf> <#I1710> .
+_:I1101 <http://purl.org/vocab/relationship/parentOf> <#I1282> .
+_:I1101 <http://purl.org/vocab/relationship/parentOf> <#I1393> .
+_:I1101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1101 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1101" .
+_:I1101 <http://xmlns.com/foaf/0.1/name> "Leah Mary Edwards" .
+_:I1101 <http://xmlns.com/foaf/0.1/familyName> "Edwards" .
+_:I1101 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1101 <http://xmlns.com/foaf/0.1/givenName> "Leah Mary" .
+_:I1101 <http://xmlns.com/foaf/0.1/givenName> "Lily" .
+_:8a0ca7c0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0ca7c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1890-09-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0ca7c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Lydeard St. Lawrence, Somerset, England" .
+_:8a0cc4a0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0cc4a0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1964-12-27Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0cc4a0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1155 <http://purl.org/vocab/bio/0.1/event> _:8a0da1d0-38f4-0130-cdf9-406186348d92 .
+_:I1155 <http://purl.org/vocab/bio/0.1/event> _:8a0dbf40-38f4-0130-cdf9-406186348d92 .
+_:I1155 <http://purl.org/vocab/relationship/spouseOf> <#I1166> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1467> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1807> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1808> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1809> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1810> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1811> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1813> .
+_:I1155 <http://purl.org/vocab/relationship/parentOf> <#I1814> .
+_:I1155 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1155 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1155" .
+_:I1155 <http://xmlns.com/foaf/0.1/name> "Forrest Eugene Lewin" .
+_:I1155 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1155 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1155 <http://xmlns.com/foaf/0.1/givenName> "Forrest Eugene" .
+_:8a0da1d0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0da1d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1882-01-22Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0da1d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Custer Co, Nebraska, USA" .
+_:8a0dbf40-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0dbf40-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1943-05-09Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0dbf40-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Shingle Springs, El Dorado Co, California, USA" .
+_:I1166 <http://purl.org/vocab/bio/0.1/event> _:8a0e7b50-38f4-0130-cdf9-406186348d92 .
+_:I1166 <http://purl.org/vocab/bio/0.1/event> _:8a0e9ad0-38f4-0130-cdf9-406186348d92 .
+_:I1166 <http://purl.org/vocab/relationship/spouseOf> <#I1155> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1467> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1807> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1808> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1809> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1810> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1811> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1813> .
+_:I1166 <http://purl.org/vocab/relationship/parentOf> <#I1814> .
+_:I1166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1166 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1166" .
+_:I1166 <http://xmlns.com/foaf/0.1/name> "Della Florence Sumner" .
+_:I1166 <http://xmlns.com/foaf/0.1/familyName> "Sumner" .
+_:I1166 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1166 <http://xmlns.com/foaf/0.1/givenName> "Della Florence" .
+_:8a0e7b50-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0e7b50-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1882-06-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0e7b50-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Wilsonville, Furnas Co, Nebraska, USA" .
+_:8a0e9ad0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0e9ad0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1971-01-29Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0e9ad0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Placerville, El Dorado Co, California, USA" .
+_:I1181 <http://purl.org/vocab/bio/0.1/event> _:8a0f5b10-38f4-0130-cdf9-406186348d92 .
+_:I1181 <http://purl.org/vocab/bio/0.1/event> _:8a0f7830-38f4-0130-cdf9-406186348d92 .
+_:I1181 <http://purl.org/vocab/relationship/spouseOf> <#I383> .
+_:I1181 <http://purl.org/vocab/relationship/siblingOf> <#I1009> .
+_:I1181 <http://purl.org/vocab/relationship/siblingOf> <#I10058> .
+_:I1181 <http://purl.org/vocab/relationship/childOf> <#I3579> .
+_:I1181 <http://purl.org/vocab/relationship/childOf> <#I4958> .
+_:I1181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1181 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1181" .
+_:I1181 <http://xmlns.com/foaf/0.1/name> "Isaac Bern Breeden" .
+_:I1181 <http://xmlns.com/foaf/0.1/familyName> "Breeden" .
+_:I1181 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1181 <http://xmlns.com/foaf/0.1/givenName> "Isaac Bern" .
+_:I1181 <http://xmlns.com/foaf/0.1/givenName> "Bern" .
+_:8a0f5b10-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a0f5b10-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1910-08-16Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0f5b10-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Arnett, Oklahoma, USA" .
+_:8a0f7830-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a0f7830-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1992-08-24Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a0f7830-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1282 <http://purl.org/vocab/bio/0.1/event> _:8a102b50-38f4-0130-cdf9-406186348d92 .
+_:I1282 <http://purl.org/vocab/relationship/siblingOf> <#I1393> .
+_:I1282 <http://purl.org/vocab/relationship/childOf> <#I1> .
+_:I1282 <http://purl.org/vocab/relationship/childOf> <#I1101> .
+_:I1282 <http://purl.org/vocab/relationship/spouseOf> <#I12106> .
+_:I1282 <http://purl.org/vocab/relationship/spouseOf> <#I1467> .
+_:I1282 <http://purl.org/vocab/relationship/parentOf> <#I1577> .
+_:I1282 <http://purl.org/vocab/relationship/parentOf> <#I1687> .
+_:I1282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1282 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1282" .
+_:I1282 <http://xmlns.com/foaf/0.1/name> "Estelle Meredith Cochrane" .
+_:I1282 <http://xmlns.com/foaf/0.1/familyName> "Cochrane" .
+_:I1282 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1282 <http://xmlns.com/foaf/0.1/givenName> "Estelle Meredith" .
+_:8a102b50-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a102b50-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1916-04-04Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a102b50-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Calgary, Alberta, Canada" .
+_:I1393 <http://purl.org/vocab/bio/0.1/event> _:8a10eb60-38f4-0130-cdf9-406186348d92 .
+_:I1393 <http://purl.org/vocab/bio/0.1/event> _:8a110fe0-38f4-0130-cdf9-406186348d92 .
+_:I1393 <http://purl.org/vocab/relationship/siblingOf> <#I1282> .
+_:I1393 <http://purl.org/vocab/relationship/childOf> <#I1> .
+_:I1393 <http://purl.org/vocab/relationship/childOf> <#I1101> .
+_:I1393 <http://purl.org/vocab/relationship/spouseOf> <#I111> .
+_:I1393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1393 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1393" .
+_:I1393 <http://xmlns.com/foaf/0.1/name> "Muriel Alice Elizabeth Cochrane" .
+_:I1393 <http://xmlns.com/foaf/0.1/familyName> "Cochrane" .
+_:I1393 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1393 <http://xmlns.com/foaf/0.1/givenName> "Muriel Alice Elizabeth" .
+_:8a10eb60-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a10eb60-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1917-08-10Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a10eb60-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Calgary, Alberta, Canada" .
+_:8a110fe0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a110fe0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1996-11-14Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a110fe0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I1467 <http://purl.org/vocab/bio/0.1/event> _:8a121c80-38f4-0130-cdf9-406186348d92 .
+_:I1467 <http://purl.org/vocab/bio/0.1/event> _:8a1239f0-38f4-0130-cdf9-406186348d92 .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1467 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1467 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1467 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1467 <http://purl.org/vocab/relationship/spouseOf> <#I1282> .
+_:I1467 <http://purl.org/vocab/relationship/spouseOf> <#I1711> .
+_:I1467 <http://purl.org/vocab/relationship/parentOf> <#I1577> .
+_:I1467 <http://purl.org/vocab/relationship/parentOf> <#I1687> .
+_:I1467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1467 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1467" .
+_:I1467 <http://xmlns.com/foaf/0.1/name> "Claude William Lewin" .
+_:I1467 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1467 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1467 <http://xmlns.com/foaf/0.1/givenName> "Claude William" .
+_:8a121c80-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a121c80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1914-03-18Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a121c80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Comstock, Custer Co, Nebraska, USA" .
+_:8a1239f0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a1239f0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "2001-02-18Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1239f0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Novato, Marin Co, California, USA" .
+_:I1577 <http://purl.org/vocab/bio/0.1/event> _:8a14a0c0-38f4-0130-cdf9-406186348d92 .
+_:I1577 <http://purl.org/vocab/relationship/spouseOf> <#I887> .
+_:I1577 <http://purl.org/vocab/relationship/siblingOf> <#I1687> .
+_:I1577 <http://purl.org/vocab/relationship/childOf> <#I1282> .
+_:I1577 <http://purl.org/vocab/relationship/childOf> <#I1467> .
+_:I1577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1577 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1577" .
+_:I1577 <http://xmlns.com/foaf/0.1/name> "Stephen Forrest Lewin" .
+_:I1577 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1577 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1577 <http://xmlns.com/foaf/0.1/givenName> "Stephen Forrest" .
+_:8a14a0c0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a14a0c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1948-05-16Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a14a0c0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Stanford Medical Center, San Francisco, San Francisco Co, California, USA" .
+_:I1589 <http://purl.org/vocab/bio/0.1/event> _:8a150680-38f4-0130-cdf9-406186348d92 .
+_:I1589 <http://purl.org/vocab/relationship/spouseOf> <#I1687> .
+_:I1589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1589 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1589" .
+_:I1589 <http://xmlns.com/foaf/0.1/name> "David Todd Vosper" .
+_:I1589 <http://xmlns.com/foaf/0.1/familyName> "Vosper" .
+_:I1589 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1589 <http://xmlns.com/foaf/0.1/givenName> "David Todd" .
+_:8a150680-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a150680-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1950" .
+_:I1687 <http://purl.org/vocab/bio/0.1/event> _:8a159a30-38f4-0130-cdf9-406186348d92 .
+_:I1687 <http://purl.org/vocab/relationship/siblingOf> <#I1577> .
+_:I1687 <http://purl.org/vocab/relationship/childOf> <#I1282> .
+_:I1687 <http://purl.org/vocab/relationship/childOf> <#I1467> .
+_:I1687 <http://purl.org/vocab/relationship/spouseOf> <#I1589> .
+_:I1687 <http://purl.org/vocab/relationship/spouseOf> <#I1789> .
+_:I1687 <http://purl.org/vocab/relationship/spouseOf> <#I1708> .
+_:I1687 <http://purl.org/vocab/relationship/spouseOf> <#I1973> .
+_:I1687 <http://purl.org/vocab/relationship/parentOf> <#I1900> .
+_:I1687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1687 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1687" .
+_:I1687 <http://xmlns.com/foaf/0.1/name> "Claudia Leadele Lewin" .
+_:I1687 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1687 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1687 <http://xmlns.com/foaf/0.1/givenName> "Claudia Leadele" .
+_:8a159a30-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a159a30-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1950-04-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a159a30-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "San Francisco, San Francisco Co, California, USA" .
+_:I1708 <http://purl.org/vocab/relationship/spouseOf> <#I1687> .
+_:I1708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1708 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1708" .
+_:I1708 <http://xmlns.com/foaf/0.1/name> "Thomas Bleth" .
+_:I1708 <http://xmlns.com/foaf/0.1/familyName> "Bleth" .
+_:I1708 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1708 <http://xmlns.com/foaf/0.1/givenName> "Thomas" .
+_:I1710 <http://purl.org/vocab/relationship/spouseOf> <#I1101> .
+_:I1710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1710 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1710" .
+_:I1710 <http://xmlns.com/foaf/0.1/name> "Herbert Bernard" .
+_:I1710 <http://xmlns.com/foaf/0.1/familyName> "Bernard" .
+_:I1710 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1710 <http://xmlns.com/foaf/0.1/givenName> "Herbert" .
+_:I1711 <http://purl.org/vocab/bio/0.1/event> _:8a16a740-38f4-0130-cdf9-406186348d92 .
+_:I1711 <http://purl.org/vocab/bio/0.1/event> _:8a16c410-38f4-0130-cdf9-406186348d92 .
+_:I1711 <http://purl.org/vocab/relationship/spouseOf> <#I1467> .
+_:I1711 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1711 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1711" .
+_:I1711 <http://xmlns.com/foaf/0.1/name> "Anne Louise McQuade" .
+_:I1711 <http://xmlns.com/foaf/0.1/familyName> "McQuade" .
+_:I1711 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1711 <http://xmlns.com/foaf/0.1/givenName> "Anne Louise" .
+_:8a16a740-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a16a740-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1928-08-25Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a16a740-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "San Francisco Co, California, USA" .
+_:8a16c410-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a16c410-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1997-06-16Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a16c410-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Novato, Marin Co, California, USA" .
+_:I1789 <http://purl.org/vocab/bio/0.1/event> _:8a174590-38f4-0130-cdf9-406186348d92 .
+_:I1789 <http://purl.org/vocab/relationship/siblingOf> <#I1019> .
+_:I1789 <http://purl.org/vocab/relationship/siblingOf> <#I1030> .
+_:I1789 <http://purl.org/vocab/relationship/childOf> <#I998> .
+_:I1789 <http://purl.org/vocab/relationship/childOf> <#I1009> .
+_:I1789 <http://purl.org/vocab/relationship/spouseOf> <#I1687> .
+_:I1789 <http://purl.org/vocab/relationship/spouseOf> <#I9260> .
+_:I1789 <http://purl.org/vocab/relationship/parentOf> <#I1900> .
+_:I1789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1789 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1789" .
+_:I1789 <http://xmlns.com/foaf/0.1/name> "Stephen Douglas Morrison" .
+_:I1789 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I1789 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1789 <http://xmlns.com/foaf/0.1/givenName> "Stephen Douglas" .
+_:8a174590-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a174590-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1949-06-04Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a174590-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA" .
+_:I1807 <http://purl.org/vocab/bio/0.1/event> _:8a17fa20-38f4-0130-cdf9-406186348d92 .
+_:I1807 <http://purl.org/vocab/bio/0.1/event> _:8a181980-38f4-0130-cdf9-406186348d92 .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1807 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1807 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1807 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1807 <http://purl.org/vocab/relationship/spouseOf> <#I1815> .
+_:I1807 <http://purl.org/vocab/relationship/spouseOf> <#I4684> .
+_:I1807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1807 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1807" .
+_:I1807 <http://xmlns.com/foaf/0.1/name> "Zelda Elaine Lewin" .
+_:I1807 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1807 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1807 <http://xmlns.com/foaf/0.1/givenName> "Zelda Elaine" .
+_:8a17fa20-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a17fa20-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1907-03-09Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a17fa20-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a181980-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a181980-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1978-01-24Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a181980-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Sonoma, Sonoma Co, California, USA" .
+_:I1808 <http://purl.org/vocab/bio/0.1/event> _:8a18bb00-38f4-0130-cdf9-406186348d92 .
+_:I1808 <http://purl.org/vocab/bio/0.1/event> _:8a18d950-38f4-0130-cdf9-406186348d92 .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1808 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1808 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1808 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1808 <http://purl.org/vocab/relationship/spouseOf> <#I1819> .
+_:I1808 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1808 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1808" .
+_:I1808 <http://xmlns.com/foaf/0.1/name> "Leola Edna Lewin" .
+_:I1808 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1808 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1808 <http://xmlns.com/foaf/0.1/givenName> "Leola Edna" .
+_:8a18bb00-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a18bb00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1908-04-14Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a18bb00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a18d950-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a18d950-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1981-07-04Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a18d950-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Sacramento Co, California, USA" .
+_:I1809 <http://purl.org/vocab/bio/0.1/event> _:8a1cc560-38f4-0130-cdf9-406186348d92 .
+_:I1809 <http://purl.org/vocab/bio/0.1/event> _:8a1cd4b0-38f4-0130-cdf9-406186348d92 .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1809 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1809 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1809 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1809 <http://purl.org/vocab/relationship/spouseOf> <#I1820> .
+_:I1809 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1809 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1809" .
+_:I1809 <http://xmlns.com/foaf/0.1/name> "Lilas F. Lewin" .
+_:I1809 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1809 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1809 <http://xmlns.com/foaf/0.1/givenName> "Lilas F." .
+_:8a1cc560-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a1cc560-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1909-07-12Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1cc560-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a1cd4b0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:I1810 <http://purl.org/vocab/bio/0.1/event> _:8a1d7900-38f4-0130-cdf9-406186348d92 .
+_:I1810 <http://purl.org/vocab/bio/0.1/event> _:8a1d92e0-38f4-0130-cdf9-406186348d92 .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1810 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1810 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1810 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1810 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1810" .
+_:I1810 <http://xmlns.com/foaf/0.1/name> "Leo Eugene Lewin" .
+_:I1810 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1810 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1810 <http://xmlns.com/foaf/0.1/givenName> "Leo Eugene" .
+_:I1810 <http://xmlns.com/foaf/0.1/givenName> "Pinky" .
+_:I1810 <http://xmlns.com/foaf/0.1/givenName> "Eugene L." .
+_:8a1d7900-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a1d7900-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1911-01-25Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1d7900-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a1d92e0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a1d92e0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1986-05-01Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1d92e0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nevada, USA" .
+_:I1811 <http://purl.org/vocab/bio/0.1/event> _:8a1e3930-38f4-0130-cdf9-406186348d92 .
+_:I1811 <http://purl.org/vocab/bio/0.1/event> _:8a1e5350-38f4-0130-cdf9-406186348d92 .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1811 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1811 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1811 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1811 <http://purl.org/vocab/relationship/spouseOf> <#I2045> .
+_:I1811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1811 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1811" .
+_:I1811 <http://xmlns.com/foaf/0.1/name> "John Harvey Lewin" .
+_:I1811 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1811 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1811 <http://xmlns.com/foaf/0.1/givenName> "John Harvey" .
+_:8a1e3930-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a1e3930-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1915-09-01Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1e3930-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a1e5350-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a1e5350-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1945-04-18Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1e5350-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Italy" .
+_:I1813 <http://purl.org/vocab/bio/0.1/event> _:8a1ee0d0-38f4-0130-cdf9-406186348d92 .
+_:I1813 <http://purl.org/vocab/bio/0.1/event> _:8a1efb10-38f4-0130-cdf9-406186348d92 .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1813 <http://purl.org/vocab/relationship/siblingOf> <#I1814> .
+_:I1813 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1813 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1813 <http://purl.org/vocab/relationship/spouseOf> <#I1828> .
+_:I1813 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1813 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1813" .
+_:I1813 <http://xmlns.com/foaf/0.1/name> "Amy Lucille Lewin" .
+_:I1813 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1813 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I1813 <http://xmlns.com/foaf/0.1/givenName> "Amy Lucille" .
+_:8a1ee0d0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a1ee0d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1917-09-16Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1ee0d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a1efb10-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a1efb10-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1989-06-09Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1efb10-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "El Dorado Co, California, USA" .
+_:I1814 <http://purl.org/vocab/bio/0.1/event> _:8a1f8ac0-38f4-0130-cdf9-406186348d92 .
+_:I1814 <http://purl.org/vocab/bio/0.1/event> _:8a1fa2d0-38f4-0130-cdf9-406186348d92 .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1467> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1807> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1808> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1809> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1810> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1811> .
+_:I1814 <http://purl.org/vocab/relationship/siblingOf> <#I1813> .
+_:I1814 <http://purl.org/vocab/relationship/childOf> <#I1155> .
+_:I1814 <http://purl.org/vocab/relationship/childOf> <#I1166> .
+_:I1814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1814" .
+_:I1814 <http://xmlns.com/foaf/0.1/name> "Jessie S. Lewin" .
+_:I1814 <http://xmlns.com/foaf/0.1/familyName> "Lewin" .
+_:I1814 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1814 <http://xmlns.com/foaf/0.1/givenName> "Jessie S." .
+_:I1814 <http://xmlns.com/foaf/0.1/givenName> "Curly" .
+_:8a1f8ac0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a1f8ac0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1920-03-11Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1f8ac0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a1fa2d0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a1fa2d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1967-08-07Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a1fa2d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "San Francisco, San Francisco Co, California, USA" .
+_:I1815 <http://purl.org/vocab/relationship/spouseOf> <#I1807> .
+_:I1815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1815" .
+_:I1815 <http://xmlns.com/foaf/0.1/name> "Unknown Woods" .
+_:I1815 <http://xmlns.com/foaf/0.1/familyName> "Woods" .
+_:I1815 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1815 <http://xmlns.com/foaf/0.1/givenName> "Unknown" .
+_:I1819 <http://purl.org/vocab/bio/0.1/event> _:8a206450-38f4-0130-cdf9-406186348d92 .
+_:I1819 <http://purl.org/vocab/bio/0.1/event> _:8a207c80-38f4-0130-cdf9-406186348d92 .
+_:I1819 <http://purl.org/vocab/relationship/spouseOf> <#I1808> .
+_:I1819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1819" .
+_:I1819 <http://xmlns.com/foaf/0.1/name> "Albert Carl Heinz" .
+_:I1819 <http://xmlns.com/foaf/0.1/familyName> "Heinz" .
+_:I1819 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1819 <http://xmlns.com/foaf/0.1/givenName> "Albert Carl" .
+_:8a206450-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a206450-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1901-09-12Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a206450-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA" .
+_:8a207c80-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a207c80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1960-10-30Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a207c80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "El Dorado Co, California, USA" .
+_:I1820 <http://purl.org/vocab/relationship/spouseOf> <#I1809> .
+_:I1820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1820" .
+_:I1820 <http://xmlns.com/foaf/0.1/name> "Ray Thomas" .
+_:I1820 <http://xmlns.com/foaf/0.1/familyName> "Thomas" .
+_:I1820 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1820 <http://xmlns.com/foaf/0.1/givenName> "Ray" .
+_:I1828 <http://purl.org/vocab/relationship/spouseOf> <#I1813> .
+_:I1828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1828 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1828" .
+_:I1828 <http://xmlns.com/foaf/0.1/name> "William Daniels" .
+_:I1828 <http://xmlns.com/foaf/0.1/familyName> "Daniels" .
+_:I1828 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1828 <http://xmlns.com/foaf/0.1/givenName> "William" .
+_:I1900 <http://purl.org/vocab/bio/0.1/event> _:8a216de0-38f4-0130-cdf9-406186348d92 .
+_:I1900 <http://purl.org/vocab/relationship/childOf> <#I1687> .
+_:I1900 <http://purl.org/vocab/relationship/childOf> <#I1789> .
+_:I1900 <http://purl.org/vocab/relationship/spouseOf> <#I4796> .
+_:I1900 <http://purl.org/vocab/relationship/spouseOf> <#I4797> .
+_:I1900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1900 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1900" .
+_:I1900 <http://xmlns.com/foaf/0.1/name> "Keith Douglas Morrison" .
+_:I1900 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I1900 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1900 <http://xmlns.com/foaf/0.1/givenName> "Keith Douglas" .
+_:8a216de0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a216de0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1971-02-16Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a216de0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "St. Vincents Hospital, Portland, Multnomah, Oregon, USA" .
+_:I1973 <http://purl.org/vocab/relationship/spouseOf> <#I1687> .
+_:I1973 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I1973 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I1973" .
+_:I1973 <http://xmlns.com/foaf/0.1/name> "Winston Falls" .
+_:I1973 <http://xmlns.com/foaf/0.1/familyName> "Falls" .
+_:I1973 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I1973 <http://xmlns.com/foaf/0.1/givenName> "Winston" .
+_:I2045 <http://purl.org/vocab/bio/0.1/event> _:8a222960-38f4-0130-cdf9-406186348d92 .
+_:I2045 <http://purl.org/vocab/bio/0.1/event> _:8a224410-38f4-0130-cdf9-406186348d92 .
+_:I2045 <http://purl.org/vocab/relationship/spouseOf> <#I1811> .
+_:I2045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I2045 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I2045" .
+_:I2045 <http://xmlns.com/foaf/0.1/name> "Agnes Usselman" .
+_:I2045 <http://xmlns.com/foaf/0.1/familyName> "Usselman" .
+_:I2045 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I2045 <http://xmlns.com/foaf/0.1/givenName> "Agnes" .
+_:8a222960-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a222960-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1913-06-15Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a222960-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Eureka, McPherson, South Dakota, USA" .
+_:8a224410-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a224410-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1975-08-12Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a224410-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Sacramento, California, USA" .
+_:I2276 <http://purl.org/vocab/bio/0.1/event> _:8a22c360-38f4-0130-cdf9-406186348d92 .
+_:I2276 <http://purl.org/vocab/relationship/siblingOf> <#I383> .
+_:I2276 <http://purl.org/vocab/relationship/siblingOf> <#I998> .
+_:I2276 <http://purl.org/vocab/relationship/childOf> <#I381> .
+_:I2276 <http://purl.org/vocab/relationship/childOf> <#I382> .
+_:I2276 <http://purl.org/vocab/relationship/spouseOf> <#I10158> .
+_:I2276 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I2276 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I2276" .
+_:I2276 <http://xmlns.com/foaf/0.1/name> "Jack Earl Morrison" .
+_:I2276 <http://xmlns.com/foaf/0.1/familyName> "Morrison" .
+_:I2276 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I2276 <http://xmlns.com/foaf/0.1/givenName> "Jack Earl" .
+_:8a22c360-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a22c360-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1917-08-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a22c360-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Bellingham, Whatcom, Washington, USA" .
+_:I3579 <http://purl.org/vocab/bio/0.1/event> _:8a234f80-38f4-0130-cdf9-406186348d92 .
+_:I3579 <http://purl.org/vocab/bio/0.1/event> _:8a2367d0-38f4-0130-cdf9-406186348d92 .
+_:I3579 <http://purl.org/vocab/relationship/spouseOf> <#I4958> .
+_:I3579 <http://purl.org/vocab/relationship/parentOf> <#I1009> .
+_:I3579 <http://purl.org/vocab/relationship/parentOf> <#I1181> .
+_:I3579 <http://purl.org/vocab/relationship/parentOf> <#I10058> .
+_:I3579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I3579 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I3579" .
+_:I3579 <http://xmlns.com/foaf/0.1/name> "Arnold Ernest Breeden" .
+_:I3579 <http://xmlns.com/foaf/0.1/familyName> "Breeden" .
+_:I3579 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I3579 <http://xmlns.com/foaf/0.1/givenName> "Arnold Ernest" .
+_:I3579 <http://xmlns.com/foaf/0.1/givenName> "Arnold Elsworth" .
+_:8a234f80-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a234f80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1885-03-03Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a234f80-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Kansas, USA" .
+_:8a2367d0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a2367d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1918-01-06Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a2367d0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA" .
+_:I4684 <http://purl.org/vocab/relationship/spouseOf> <#I1807> .
+_:I4684 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I4684 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I4684" .
+_:I4684 <http://xmlns.com/foaf/0.1/name> "Unknown Neal" .
+_:I4684 <http://xmlns.com/foaf/0.1/familyName> "Neal" .
+_:I4684 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I4684 <http://xmlns.com/foaf/0.1/givenName> "Unknown" .
+_:I4796 <http://purl.org/vocab/relationship/spouseOf> <#I1900> .
+_:I4796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I4796 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I4796" .
+_:I4796 <http://xmlns.com/foaf/0.1/name> "Suanne Marie Heilman" .
+_:I4796 <http://xmlns.com/foaf/0.1/familyName> "Heilman" .
+_:I4796 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I4796 <http://xmlns.com/foaf/0.1/givenName> "Suanne Marie" .
+_:I4797 <http://purl.org/vocab/bio/0.1/event> _:8a244a00-38f4-0130-cdf9-406186348d92 .
+_:I4797 <http://purl.org/vocab/relationship/spouseOf> <#I1900> .
+_:I4797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I4797 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I4797" .
+_:I4797 <http://xmlns.com/foaf/0.1/name> "Monica Santoyo Lopez" .
+_:I4797 <http://xmlns.com/foaf/0.1/familyName> "Santoyo Lopez" .
+_:I4797 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I4797 <http://xmlns.com/foaf/0.1/givenName> "Monica" .
+_:8a244a00-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a244a00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1971-01-13Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a244a00-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Celaya, , Guanajuato, México" .
+_:I4958 <http://purl.org/vocab/bio/0.1/event> _:8a24fec0-38f4-0130-cdf9-406186348d92 .
+_:I4958 <http://purl.org/vocab/bio/0.1/event> _:8a251710-38f4-0130-cdf9-406186348d92 .
+_:I4958 <http://purl.org/vocab/relationship/spouseOf> <#I3579> .
+_:I4958 <http://purl.org/vocab/relationship/spouseOf> <#I10057> .
+_:I4958 <http://purl.org/vocab/relationship/parentOf> <#I1009> .
+_:I4958 <http://purl.org/vocab/relationship/parentOf> <#I1181> .
+_:I4958 <http://purl.org/vocab/relationship/parentOf> <#I10058> .
+_:I4958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I4958 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I4958" .
+_:I4958 <http://xmlns.com/foaf/0.1/name> "Berniece A. Blanch" .
+_:I4958 <http://xmlns.com/foaf/0.1/familyName> "Blanch" .
+_:I4958 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I4958 <http://xmlns.com/foaf/0.1/givenName> "Berniece A." .
+_:I4958 <http://xmlns.com/foaf/0.1/givenName> "Allie" .
+_:8a24fec0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a24fec0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1891-03-01Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a24fec0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Ottawa, Franklin, Kansas, USA" .
+_:8a251710-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a251710-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1974-05-04Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a251710-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Seaside, Clatsop, Oregon, USA" .
+_:I9260 <http://purl.org/vocab/relationship/spouseOf> <#I1789> .
+_:I9260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I9260 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I9260" .
+_:I9260 <http://xmlns.com/foaf/0.1/name> "Lindsey Unknown" .
+_:I9260 <http://xmlns.com/foaf/0.1/familyName> "Unknown" .
+_:I9260 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I9260 <http://xmlns.com/foaf/0.1/givenName> "Lindsey" .
+_:I10057 <http://purl.org/vocab/bio/0.1/event> _:8a25f180-38f4-0130-cdf9-406186348d92 .
+_:I10057 <http://purl.org/vocab/bio/0.1/event> _:8a260a40-38f4-0130-cdf9-406186348d92 .
+_:I10057 <http://purl.org/vocab/relationship/spouseOf> <#I4958> .
+_:I10057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I10057 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I10057" .
+_:I10057 <http://xmlns.com/foaf/0.1/name> "Grover Cleveland Curtner" .
+_:I10057 <http://xmlns.com/foaf/0.1/familyName> "Curtner" .
+_:I10057 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I10057 <http://xmlns.com/foaf/0.1/givenName> "Grover Cleveland" .
+_:I10057 <http://xmlns.com/foaf/0.1/givenName> "Bud" .
+_:8a25f180-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a25f180-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "Abt 1886" .
+_:8a25f180-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Texas, USA" .
+_:8a260a40-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a260a40-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1958-09-27Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a260a40-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Multnomah Co, Oregon, USA" .
+_:I10058 <http://purl.org/vocab/bio/0.1/event> _:8a269c70-38f4-0130-cdf9-406186348d92 .
+_:I10058 <http://purl.org/vocab/bio/0.1/event> _:8a26b6e0-38f4-0130-cdf9-406186348d92 .
+_:I10058 <http://purl.org/vocab/relationship/siblingOf> <#I1009> .
+_:I10058 <http://purl.org/vocab/relationship/siblingOf> <#I1181> .
+_:I10058 <http://purl.org/vocab/relationship/childOf> <#I3579> .
+_:I10058 <http://purl.org/vocab/relationship/childOf> <#I4958> .
+_:I10058 <http://purl.org/vocab/relationship/spouseOf> <#I10063> .
+_:I10058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I10058 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I10058" .
+_:I10058 <http://xmlns.com/foaf/0.1/name> "Margaret Blanch Breeden" .
+_:I10058 <http://xmlns.com/foaf/0.1/familyName> "Breeden" .
+_:I10058 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I10058 <http://xmlns.com/foaf/0.1/givenName> "Margaret Blanch" .
+_:8a269c70-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a269c70-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1915-02-05Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a269c70-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Ranch 3 miles east of Monitor, Marion Co, Oregon, USA" .
+_:8a26b6e0-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a26b6e0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1990-05-21Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a26b6e0-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA" .
+_:I10063 <http://purl.org/vocab/bio/0.1/event> _:8a272230-38f4-0130-cdf9-406186348d92 .
+_:I10063 <http://purl.org/vocab/bio/0.1/event> _:8a273a20-38f4-0130-cdf9-406186348d92 .
+_:I10063 <http://purl.org/vocab/relationship/spouseOf> <#I10058> .
+_:I10063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I10063 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I10063" .
+_:I10063 <http://xmlns.com/foaf/0.1/name> "Carroll W. Moscoe" .
+_:I10063 <http://xmlns.com/foaf/0.1/familyName> "Moscoe" .
+_:I10063 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I10063 <http://xmlns.com/foaf/0.1/givenName> "Carroll W." .
+_:8a272230-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Birth> .
+_:8a272230-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1905-06-02Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a273a20-38f4-0130-cdf9-406186348d92 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/vocab/bio/0.1/Death> .
+_:8a273a20-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/date> "1973-03-28Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+_:8a273a20-38f4-0130-cdf9-406186348d92 <http://purl.org/vocab/bio/0.1/place> "Clatsop Co, Oregon, USA" .
+_:I10137 <http://purl.org/vocab/relationship/spouseOf> <#I1009> .
+_:I10137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I10137 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I10137" .
+_:I10137 <http://xmlns.com/foaf/0.1/name> "Ronald David Barrie" .
+_:I10137 <http://xmlns.com/foaf/0.1/familyName> "Barrie" .
+_:I10137 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I10137 <http://xmlns.com/foaf/0.1/givenName> "Ronald David" .
+_:I10158 <http://purl.org/vocab/relationship/spouseOf> <#I2276> .
+_:I10158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I10158 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I10158" .
+_:I10158 <http://xmlns.com/foaf/0.1/name> "Grace Marie Unknown" .
+_:I10158 <http://xmlns.com/foaf/0.1/familyName> "Unknown" .
+_:I10158 <http://xmlns.com/foaf/0.1/gender> "female" .
+_:I10158 <http://xmlns.com/foaf/0.1/givenName> "Grace Marie" .
+_:I12106 <http://purl.org/vocab/relationship/spouseOf> <#I1282> .
+_:I12106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Person> .
+_:I12106 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "I12106" .
+_:I12106 <http://xmlns.com/foaf/0.1/name> "Unknown Plotner" .
+_:I12106 <http://xmlns.com/foaf/0.1/familyName> "Plotner" .
+_:I12106 <http://xmlns.com/foaf/0.1/gender> "male" .
+_:I12106 <http://xmlns.com/foaf/0.1/givenName> "Unknown" .
+_:F2 <http://xmlns.com/foaf/0.1/member> <#I1> .
+_:F2 <http://xmlns.com/foaf/0.1/member> <#I1101> .
+_:F2 <http://xmlns.com/foaf/0.1/member> <#I1282> .
+_:F2 <http://xmlns.com/foaf/0.1/member> <#I1393> .
+_:F2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F2" .
+_:F65 <http://xmlns.com/foaf/0.1/member> <#I111> .
+_:F65 <http://xmlns.com/foaf/0.1/member> <#I1393> .
+_:F65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F65 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F65" .
+_:F210 <http://xmlns.com/foaf/0.1/member> <#I381> .
+_:F210 <http://xmlns.com/foaf/0.1/member> <#I382> .
+_:F210 <http://xmlns.com/foaf/0.1/member> <#I383> .
+_:F210 <http://xmlns.com/foaf/0.1/member> <#I998> .
+_:F210 <http://xmlns.com/foaf/0.1/member> <#I2276> .
+_:F210 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F210 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F210" .
+_:F212 <http://xmlns.com/foaf/0.1/member> <#I383> .
+_:F212 <http://xmlns.com/foaf/0.1/member> <#I1181> .
+_:F212 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F212 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F212" .
+_:F436 <http://xmlns.com/foaf/0.1/member> <#I887> .
+_:F436 <http://xmlns.com/foaf/0.1/member> <#I1577> .
+_:F436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F436 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F436" .
+_:F493 <http://xmlns.com/foaf/0.1/member> <#I998> .
+_:F493 <http://xmlns.com/foaf/0.1/member> <#I1009> .
+_:F493 <http://xmlns.com/foaf/0.1/member> <#I1019> .
+_:F493 <http://xmlns.com/foaf/0.1/member> <#I1030> .
+_:F493 <http://xmlns.com/foaf/0.1/member> <#I1789> .
+_:F493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F493 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F493" .
+_:F499 <http://xmlns.com/foaf/0.1/member> <#I1009> .
+_:F499 <http://xmlns.com/foaf/0.1/member> <#I1181> .
+_:F499 <http://xmlns.com/foaf/0.1/member> <#I3579> .
+_:F499 <http://xmlns.com/foaf/0.1/member> <#I4958> .
+_:F499 <http://xmlns.com/foaf/0.1/member> <#I10058> .
+_:F499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F499 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F499" .
+_:F3611 <http://xmlns.com/foaf/0.1/member> <#I1009> .
+_:F3611 <http://xmlns.com/foaf/0.1/member> <#I10137> .
+_:F3611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3611 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3611" .
+_:F540 <http://xmlns.com/foaf/0.1/member> <#I1101> .
+_:F540 <http://xmlns.com/foaf/0.1/member> <#I1710> .
+_:F540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F540" .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1155> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1166> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1467> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1807> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1808> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1809> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1810> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1811> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1813> .
+_:F559 <http://xmlns.com/foaf/0.1/member> <#I1814> .
+_:F559 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F559 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F559" .
+_:F4232 <http://xmlns.com/foaf/0.1/member> <#I1282> .
+_:F4232 <http://xmlns.com/foaf/0.1/member> <#I12106> .
+_:F4232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F4232 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F4232" .
+_:F614 <http://xmlns.com/foaf/0.1/member> <#I1282> .
+_:F614 <http://xmlns.com/foaf/0.1/member> <#I1467> .
+_:F614 <http://xmlns.com/foaf/0.1/member> <#I1577> .
+_:F614 <http://xmlns.com/foaf/0.1/member> <#I1687> .
+_:F614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F614 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F614" .
+_:F700 <http://xmlns.com/foaf/0.1/member> <#I1467> .
+_:F700 <http://xmlns.com/foaf/0.1/member> <#I1711> .
+_:F700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F700 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F700" .
+_:F3905 <http://xmlns.com/foaf/0.1/member> <#I1589> .
+_:F3905 <http://xmlns.com/foaf/0.1/member> <#I1687> .
+_:F3905 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3905 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3905" .
+_:F5 <http://xmlns.com/foaf/0.1/member> <#I1687> .
+_:F5 <http://xmlns.com/foaf/0.1/member> <#I1789> .
+_:F5 <http://xmlns.com/foaf/0.1/member> <#I1900> .
+_:F5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F5 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F5" .
+_:F770 <http://xmlns.com/foaf/0.1/member> <#I1687> .
+_:F770 <http://xmlns.com/foaf/0.1/member> <#I1708> .
+_:F770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F770 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F770" .
+_:F771 <http://xmlns.com/foaf/0.1/member> <#I1687> .
+_:F771 <http://xmlns.com/foaf/0.1/member> <#I1973> .
+_:F771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F771 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F771" .
+_:F3354 <http://xmlns.com/foaf/0.1/member> <#I1789> .
+_:F3354 <http://xmlns.com/foaf/0.1/member> <#I9260> .
+_:F3354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3354 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3354" .
+_:F814 <http://xmlns.com/foaf/0.1/member> <#I1807> .
+_:F814 <http://xmlns.com/foaf/0.1/member> <#I1815> .
+_:F814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F814 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F814" .
+_:F815 <http://xmlns.com/foaf/0.1/member> <#I1807> .
+_:F815 <http://xmlns.com/foaf/0.1/member> <#I4684> .
+_:F815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F815 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F815" .
+_:F816 <http://xmlns.com/foaf/0.1/member> <#I1808> .
+_:F816 <http://xmlns.com/foaf/0.1/member> <#I1819> .
+_:F816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F816 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F816" .
+_:F817 <http://xmlns.com/foaf/0.1/member> <#I1809> .
+_:F817 <http://xmlns.com/foaf/0.1/member> <#I1820> .
+_:F817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F817 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F817" .
+_:F819 <http://xmlns.com/foaf/0.1/member> <#I1811> .
+_:F819 <http://xmlns.com/foaf/0.1/member> <#I2045> .
+_:F819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F819 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F819" .
+_:F820 <http://xmlns.com/foaf/0.1/member> <#I1813> .
+_:F820 <http://xmlns.com/foaf/0.1/member> <#I1828> .
+_:F820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F820 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F820" .
+_:F856 <http://xmlns.com/foaf/0.1/member> <#I1900> .
+_:F856 <http://xmlns.com/foaf/0.1/member> <#I4796> .
+_:F856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F856 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F856" .
+_:F857 <http://xmlns.com/foaf/0.1/member> <#I1900> .
+_:F857 <http://xmlns.com/foaf/0.1/member> <#I4797> .
+_:F857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F857 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F857" .
+_:F3618 <http://xmlns.com/foaf/0.1/member> <#I2276> .
+_:F3618 <http://xmlns.com/foaf/0.1/member> <#I10158> .
+_:F3618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3618 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3618" .
+_:F3573 <http://xmlns.com/foaf/0.1/member> <#I4958> .
+_:F3573 <http://xmlns.com/foaf/0.1/member> <#I10057> .
+_:F3573 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3573 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3573" .
+_:F3576 <http://xmlns.com/foaf/0.1/member> <#I10058> .
+_:F3576 <http://xmlns.com/foaf/0.1/member> <#I10063> .
+_:F3576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Group> .
+_:F3576 <http://www.w3.org/1999/02/22-rdf-syntax-ns#ID> "F3576" .
