@@ -404,7 +404,7 @@ groups.collection.each do |id, group|
 end
 
 $stderr.print "Serializer for #{DUMP_FORMAT}: "
-$stderr.puts Format.for(:rdfxml).inspect
+$stderr.puts Format.for(DUMP_FORMAT).inspect
 
 $stderr.puts "Dumping..."
-puts graph.dump(:rdfxml, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: BASE_URI)
+puts graph.dump(DUMP_FORMAT, standard_prefixes: true, max_depth: 10, attributes: :untyped, base_uri: BASE_URI)
