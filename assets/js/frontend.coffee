@@ -1,5 +1,2 @@
-js = [
-]
-
-require js, (ko)->
+require ["rdfstore_frontend"], (RDFStoreFrontend)->
 
