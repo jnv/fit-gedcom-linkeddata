@@ -1,5 +1,4 @@
-require ['jquery', 'vendor/rdf_store'], ($)->
-  Store = window.rdfstore #FIXME: use Requirejs instead
+require ['jquery', 'rdfstore'], ($, Store)->
 
   getGraph = (url)->
     $.get '/data/sample.json', (data) ->
