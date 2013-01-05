@@ -7,7 +7,8 @@ require.config
     rdfstore: "vendor/rdf_store"
     rdfstore_frontend: "vendor/rdfstore_frontend"
     linkedvis: "vendor/linkedvis"
-    sizzle: "//cdnjs.cloudflare.com/ajax/libs/sizzle/1.4.4/sizzle.min.js "
+    sizzle: "//cdnjs.cloudflare.com/ajax/libs/sizzle/1.4.4/sizzle.min.js"
+    jquerytmpl: "http://ajax.aspnetcdn.com/ajax/jquery.templates/beta1/jquery.tmpl"
   shim:
     rdfstore:
       exports: "rdfstore"
@@ -26,4 +27,7 @@ require js, ($, Store, Frontend)->
     store = new Store()
     store.load('/data/sample.json', 'application/json')
     window.Store = store
+
+    frontend = new Frontend()
+    frontend.open('#frontend', store.store)
 

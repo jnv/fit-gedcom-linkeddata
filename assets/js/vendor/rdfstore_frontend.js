@@ -1,4 +1,4 @@
-define(["jquery", "knockout", "jqueryui"], function(jQuery, ko) {
+define(["jquery", "knockout", "jqueryui", "jquerytmpl"], function(jQuery, ko) {
 
     RDFaParser = {};
 
