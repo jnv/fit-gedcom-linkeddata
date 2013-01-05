@@ -15,10 +15,11 @@ require.config
 js = [
   'jquery'
   'store'
+  'frontend'
 ]
 
 # this will fire once the required scripts have been loaded
-require js, ($, Store)->
+require js, ($, Store, Frontend)->
   $ ->
     console.log 'jquery loaded, dom ready'
 
