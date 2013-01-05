@@ -6,17 +6,23 @@ require.config
     d3: "//cdnjs.cloudflare.com/ajax/libs/d3/3.0.1/d3.v3.min"
     rdfstore: "vendor/rdf_store"
     rdfstore_frontend: "vendor/rdfstore_frontend"
+    linkedvis: "vendor/linkedvis"
+    sizzle: "//cdnjs.cloudflare.com/ajax/libs/sizzle/1.4.4/sizzle.min.js "
   shim:
     rdfstore:
       exports: "rdfstore"
 
 js = [
   'jquery'
-  'rdfstore_frontend'
   'store'
 ]
 
 # this will fire once the required scripts have been loaded
-require js, ($, frontend)->
+require js, ($, Store)->
   $ ->
     console.log 'jquery loaded, dom ready'
+
+    store = new Store()
+    store.load('/data/sample.json', 'application/json')
+    window.Store = store
+
