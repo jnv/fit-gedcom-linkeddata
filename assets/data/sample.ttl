@@ -1,0 +1,961 @@
+@base <http://example.com/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ [ a foaf:Group;
+    rdf:ID "F2";
+    foaf:member <#I1>,
+      <#I1101>,
+      <#I1282>,
+      <#I1393>] .
+
+ [ a foaf:Group;
+    rdf:ID "F210";
+    foaf:member <#I381>,
+      <#I382>,
+      <#I383>,
+      <#I998>,
+      <#I2276>] .
+
+ [ a foaf:Group;
+    rdf:ID "F212";
+    foaf:member <#I383>,
+      <#I1181>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3354";
+    foaf:member <#I1789>,
+      <#I9260>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3573";
+    foaf:member <#I4958>,
+      <#I10057>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3576";
+    foaf:member <#I10058>,
+      <#I10063>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3611";
+    foaf:member <#I1009>,
+      <#I10137>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3618";
+    foaf:member <#I2276>,
+      <#I10158>] .
+
+ [ a foaf:Group;
+    rdf:ID "F3905";
+    foaf:member <#I1589>,
+      <#I1687>] .
+
+ [ a foaf:Group;
+    rdf:ID "F4232";
+    foaf:member <#I1282>,
+      <#I12106>] .
+
+ [ a foaf:Group;
+    rdf:ID "F436";
+    foaf:member <#I887>,
+      <#I1577>] .
+
+ [ a foaf:Group;
+    rdf:ID "F493";
+    foaf:member <#I998>,
+      <#I1009>,
+      <#I1019>,
+      <#I1030>,
+      <#I1789>] .
+
+ [ a foaf:Group;
+    rdf:ID "F499";
+    foaf:member <#I1009>,
+      <#I1181>,
+      <#I3579>,
+      <#I4958>,
+      <#I10058>] .
+
+ [ a foaf:Group;
+    rdf:ID "F5";
+    foaf:member <#I1687>,
+      <#I1789>,
+      <#I1900>] .
+
+ [ a foaf:Group;
+    rdf:ID "F540";
+    foaf:member <#I1101>,
+      <#I1710>] .
+
+ [ a foaf:Group;
+    rdf:ID "F559";
+    foaf:member <#I1155>,
+      <#I1166>,
+      <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>] .
+
+ [ a foaf:Group;
+    rdf:ID "F614";
+    foaf:member <#I1282>,
+      <#I1467>,
+      <#I1577>,
+      <#I1687>] .
+
+ [ a foaf:Group;
+    rdf:ID "F65";
+    foaf:member <#I111>,
+      <#I1393>] .
+
+ [ a foaf:Group;
+    rdf:ID "F700";
+    foaf:member <#I1467>,
+      <#I1711>] .
+
+ [ a foaf:Group;
+    rdf:ID "F770";
+    foaf:member <#I1687>,
+      <#I1708>] .
+
+ [ a foaf:Group;
+    rdf:ID "F771";
+    foaf:member <#I1687>,
+      <#I1973>] .
+
+ [ a foaf:Group;
+    rdf:ID "F814";
+    foaf:member <#I1807>,
+      <#I1815>] .
+
+ [ a foaf:Group;
+    rdf:ID "F815";
+    foaf:member <#I1807>,
+      <#I4684>] .
+
+ [ a foaf:Group;
+    rdf:ID "F816";
+    foaf:member <#I1808>,
+      <#I1819>] .
+
+ [ a foaf:Group;
+    rdf:ID "F817";
+    foaf:member <#I1809>,
+      <#I1820>] .
+
+ [ a foaf:Group;
+    rdf:ID "F819";
+    foaf:member <#I1811>,
+      <#I2045>] .
+
+ [ a foaf:Group;
+    rdf:ID "F820";
+    foaf:member <#I1813>,
+      <#I1828>] .
+
+ [ a foaf:Group;
+    rdf:ID "F856";
+    foaf:member <#I1900>,
+      <#I4796>] .
+
+ [ a foaf:Group;
+    rdf:ID "F857";
+    foaf:member <#I1900>,
+      <#I4797>] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1884-10-21Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Drummond Terrace, Ottawa, Ontario, Canada"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1941-07-12Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Tranquille Sanitarium, Kamloops, British Columbia, Canada"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1282>,
+      <#I1393>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1101>;
+    rdf:ID "I1";
+    foaf:familyName "Cochrane";
+    foaf:gender "male";
+    foaf:givenName "John Douglas";
+    foaf:name "John Douglas Cochrane"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "Abt 1886";
+      <http://purl.org/vocab/bio/0.1/place> "Texas, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1958-09-27Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Multnomah Co, Oregon, USA"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I4958>;
+    rdf:ID "I10057";
+    foaf:familyName "Curtner";
+    foaf:gender "male";
+    foaf:givenName "Grover Cleveland",
+      "Bud";
+    foaf:name "Grover Cleveland Curtner"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1915-02-05Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Ranch 3 miles east of Monitor, Marion Co, Oregon, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1990-05-21Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I3579>,
+      <#I4958>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1009>,
+      <#I1181>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I10063>;
+    rdf:ID "I10058";
+    foaf:familyName "Breeden";
+    foaf:gender "female";
+    foaf:givenName "Margaret Blanch";
+    foaf:name "Margaret Blanch Breeden"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1905-06-02Z"^^xsd:date],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1973-03-28Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Clatsop Co, Oregon, USA"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I10058>;
+    rdf:ID "I10063";
+    foaf:familyName "Moscoe";
+    foaf:gender "male";
+    foaf:givenName "Carroll W.";
+    foaf:name "Carroll W. Moscoe"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1917-04-18Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1997-11-04Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I3579>,
+      <#I4958>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1019>,
+      <#I1030>,
+      <#I1789>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1181>,
+      <#I10058>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I998>,
+      <#I10137>;
+    rdf:ID "I1009";
+    foaf:familyName "Breeden";
+    foaf:gender "female";
+    foaf:givenName "Julianna",
+      "Julia Anne";
+    foaf:name "Julianna Breeden"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1009>;
+    rdf:ID "I10137";
+    foaf:familyName "Barrie";
+    foaf:gender "male";
+    foaf:givenName "Ronald David";
+    foaf:name "Ronald David Barrie"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I2276>;
+    rdf:ID "I10158";
+    foaf:familyName "Unknown";
+    foaf:gender "female";
+    foaf:givenName "Grace Marie";
+    foaf:name "Grace Marie Unknown"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1940-11-28Z"^^xsd:date];
+    <http://purl.org/vocab/relationship/childOf> <#I998>,
+      <#I1009>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1030>,
+      <#I1789>;
+    rdf:ID "I1019";
+    foaf:familyName "Morrison";
+    foaf:gender "female";
+    foaf:givenName "Leanna";
+    foaf:name "Leanna Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1950-07-02Z"^^xsd:date],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1980-07-22Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I998>,
+      <#I1009>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1019>,
+      <#I1789>;
+    rdf:ID "I1030";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Michael Dean";
+    foaf:name "Michael Dean Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1890-09-02Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Lydeard St. Lawrence, Somerset, England"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1964-12-27Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1282>,
+      <#I1393>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1>,
+      <#I1710>;
+    rdf:ID "I1101";
+    foaf:familyName "Edwards";
+    foaf:gender "female";
+    foaf:givenName "Leah Mary",
+      "Lily";
+    foaf:name "Leah Mary Edwards"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1915-01-21Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Maquoketa, Iowa, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "2004-06-01Z"^^xsd:date];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1393>;
+    rdf:ID "I111";
+    foaf:familyName "Nims";
+    foaf:gender "male";
+    foaf:givenName "Creon Henry",
+      "Connie";
+    foaf:name "Creon Henry Nims"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1882-01-22Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Custer Co, Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1943-05-09Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Shingle Springs, El Dorado Co, California, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1166>;
+    rdf:ID "I1155";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "Forrest Eugene";
+    foaf:name "Forrest Eugene Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1882-06-02Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Wilsonville, Furnas Co, Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1971-01-29Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Placerville, El Dorado Co, California, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1155>;
+    rdf:ID "I1166";
+    foaf:familyName "Sumner";
+    foaf:gender "female";
+    foaf:givenName "Della Florence";
+    foaf:name "Della Florence Sumner"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1910-08-16Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Arnett, Oklahoma, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1992-08-24Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I3579>,
+      <#I4958>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1009>,
+      <#I10058>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I383>;
+    rdf:ID "I1181";
+    foaf:familyName "Breeden";
+    foaf:gender "male";
+    foaf:givenName "Isaac Bern",
+      "Bern";
+    foaf:name "Isaac Bern Breeden"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1282>;
+    rdf:ID "I12106";
+    foaf:familyName "Plotner";
+    foaf:gender "male";
+    foaf:givenName "Unknown";
+    foaf:name "Unknown Plotner"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1916-04-04Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Calgary, Alberta, Canada"];
+    <http://purl.org/vocab/relationship/childOf> <#I1>,
+      <#I1101>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1577>,
+      <#I1687>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1393>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I12106>,
+      <#I1467>;
+    rdf:ID "I1282";
+    foaf:familyName "Cochrane";
+    foaf:gender "female";
+    foaf:givenName "Estelle Meredith";
+    foaf:name "Estelle Meredith Cochrane"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1917-08-10Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Calgary, Alberta, Canada"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1996-11-14Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1>,
+      <#I1101>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1282>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I111>;
+    rdf:ID "I1393";
+    foaf:familyName "Cochrane";
+    foaf:gender "female";
+    foaf:givenName "Muriel Alice Elizabeth";
+    foaf:name "Muriel Alice Elizabeth Cochrane"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1914-03-18Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Comstock, Custer Co, Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "2001-02-18Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Novato, Marin Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1577>,
+      <#I1687>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1282>,
+      <#I1711>;
+    rdf:ID "I1467";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "Claude William";
+    foaf:name "Claude William Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1948-05-16Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Stanford Medical Center, San Francisco, San Francisco Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1282>,
+      <#I1467>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1687>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I887>;
+    rdf:ID "I1577";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "Stephen Forrest";
+    foaf:name "Stephen Forrest Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1950"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1687>;
+    rdf:ID "I1589";
+    foaf:familyName "Vosper";
+    foaf:gender "male";
+    foaf:givenName "David Todd";
+    foaf:name "David Todd Vosper"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1950-04-02Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "San Francisco, San Francisco Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1282>,
+      <#I1467>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1900>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1577>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1589>,
+      <#I1789>,
+      <#I1708>,
+      <#I1973>;
+    rdf:ID "I1687";
+    foaf:familyName "Lewin";
+    foaf:gender "female";
+    foaf:givenName "Claudia Leadele";
+    foaf:name "Claudia Leadele Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1687>;
+    rdf:ID "I1708";
+    foaf:familyName "Bleth";
+    foaf:gender "male";
+    foaf:givenName "Thomas";
+    foaf:name "Thomas Bleth"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1101>;
+    rdf:ID "I1710";
+    foaf:familyName "Bernard";
+    foaf:gender "male";
+    foaf:givenName "Herbert";
+    foaf:name "Herbert Bernard"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1928-08-25Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "San Francisco Co, California, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1997-06-16Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Novato, Marin Co, California, USA"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1467>;
+    rdf:ID "I1711";
+    foaf:familyName "McQuade";
+    foaf:gender "female";
+    foaf:givenName "Anne Louise";
+    foaf:name "Anne Louise McQuade"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1949-06-04Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I998>,
+      <#I1009>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1900>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1019>,
+      <#I1030>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1687>,
+      <#I9260>;
+    rdf:ID "I1789";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Stephen Douglas";
+    foaf:name "Stephen Douglas Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1907-03-09Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1978-01-24Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Sonoma, Sonoma Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1815>,
+      <#I4684>;
+    rdf:ID "I1807";
+    foaf:familyName "Lewin";
+    foaf:gender "female";
+    foaf:givenName "Zelda Elaine";
+    foaf:name "Zelda Elaine Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1908-04-14Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1981-07-04Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Sacramento Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1819>;
+    rdf:ID "I1808";
+    foaf:familyName "Lewin";
+    foaf:gender "female";
+    foaf:givenName "Leola Edna";
+    foaf:name "Leola Edna Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1909-07-12Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1820>;
+    rdf:ID "I1809";
+    foaf:familyName "Lewin";
+    foaf:gender "female";
+    foaf:givenName "Lilas F.";
+    foaf:name "Lilas F. Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1911-01-25Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1986-05-01Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nevada, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1811>,
+      <#I1813>,
+      <#I1814>;
+    rdf:ID "I1810";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "Leo Eugene",
+      "Pinky",
+      "Eugene L.";
+    foaf:name "Leo Eugene Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1915-09-01Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1945-04-18Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Italy"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1813>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I2045>;
+    rdf:ID "I1811";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "John Harvey";
+    foaf:name "John Harvey Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1917-09-16Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1989-06-09Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "El Dorado Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1814>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1828>;
+    rdf:ID "I1813";
+    foaf:familyName "Lewin";
+    foaf:gender "female";
+    foaf:givenName "Amy Lucille";
+    foaf:name "Amy Lucille Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1920-03-11Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1967-08-07Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "San Francisco, San Francisco Co, California, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1155>,
+      <#I1166>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I1467>,
+      <#I1807>,
+      <#I1808>,
+      <#I1809>,
+      <#I1810>,
+      <#I1811>,
+      <#I1813>;
+    rdf:ID "I1814";
+    foaf:familyName "Lewin";
+    foaf:gender "male";
+    foaf:givenName "Jessie S.",
+      "Curly";
+    foaf:name "Jessie S. Lewin"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1807>;
+    rdf:ID "I1815";
+    foaf:familyName "Woods";
+    foaf:gender "male";
+    foaf:givenName "Unknown";
+    foaf:name "Unknown Woods"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1901-09-12Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1960-10-30Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "El Dorado Co, California, USA"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1808>;
+    rdf:ID "I1819";
+    foaf:familyName "Heinz";
+    foaf:gender "male";
+    foaf:givenName "Albert Carl";
+    foaf:name "Albert Carl Heinz"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1809>;
+    rdf:ID "I1820";
+    foaf:familyName "Thomas";
+    foaf:gender "male";
+    foaf:givenName "Ray";
+    foaf:name "Ray Thomas"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1813>;
+    rdf:ID "I1828";
+    foaf:familyName "Daniels";
+    foaf:gender "male";
+    foaf:givenName "William";
+    foaf:name "William Daniels"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1971-02-16Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "St. Vincents Hospital, Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I1687>,
+      <#I1789>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I4796>,
+      <#I4797>;
+    rdf:ID "I1900";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Keith Douglas";
+    foaf:name "Keith Douglas Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1687>;
+    rdf:ID "I1973";
+    foaf:familyName "Falls";
+    foaf:gender "male";
+    foaf:givenName "Winston";
+    foaf:name "Winston Falls"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1913-06-15Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Eureka, McPherson, South Dakota, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1975-08-12Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Sacramento, California, USA"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1811>;
+    rdf:ID "I2045";
+    foaf:familyName "Usselman";
+    foaf:gender "female";
+    foaf:givenName "Agnes";
+    foaf:name "Agnes Usselman"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1917-08-02Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Bellingham, Whatcom, Washington, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I381>,
+      <#I382>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I383>,
+      <#I998>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I10158>;
+    rdf:ID "I2276";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Jack Earl";
+    foaf:name "Jack Earl Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1885-03-03Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Kansas, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1918-01-06Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1009>,
+      <#I1181>,
+      <#I10058>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I4958>;
+    rdf:ID "I3579";
+    foaf:familyName "Breeden";
+    foaf:gender "male";
+    foaf:givenName "Arnold Ernest",
+      "Arnold Elsworth";
+    foaf:name "Arnold Ernest Breeden"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1883-01-15Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "York, York Co, Nebraska, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1958-08-19Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I383>,
+      <#I998>,
+      <#I2276>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I382>;
+    rdf:ID "I381";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Herman Franklin";
+    foaf:name "Herman Franklin Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1888-12-10Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Pocahontas, Bond Co, Illinois, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1961-10-06Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I383>,
+      <#I998>,
+      <#I2276>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I381>;
+    rdf:ID "I382";
+    foaf:familyName "DeChenne";
+    foaf:gender "female";
+    foaf:givenName "Pauline R.",
+      "Pauline D.",
+      "Pauline S.",
+      "Polly Belle";
+    foaf:name "Pauline R. DeChenne"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1910-03-19Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Edwall, Lincoln, Washington, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1992-08-02Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I381>,
+      <#I382>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I998>,
+      <#I2276>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1181>;
+    rdf:ID "I383";
+    foaf:familyName "Morrison";
+    foaf:gender "female";
+    foaf:givenName "Evelyn Paula";
+    foaf:name "Evelyn Paula Morrison"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1807>;
+    rdf:ID "I4684";
+    foaf:familyName "Neal";
+    foaf:gender "male";
+    foaf:givenName "Unknown";
+    foaf:name "Unknown Neal"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1900>;
+    rdf:ID "I4796";
+    foaf:familyName "Heilman";
+    foaf:gender "female";
+    foaf:givenName "Suanne Marie";
+    foaf:name "Suanne Marie Heilman"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1971-01-13Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Celaya, , Guanajuato, México"];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1900>;
+    rdf:ID "I4797";
+    foaf:familyName "Santoyo Lopez";
+    foaf:gender "female";
+    foaf:givenName "Monica";
+    foaf:name "Monica Santoyo Lopez"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1891-03-01Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Ottawa, Franklin, Kansas, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1974-05-04Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Seaside, Clatsop, Oregon, USA"];
+    <http://purl.org/vocab/relationship/parentOf> <#I1009>,
+      <#I1181>,
+      <#I10058>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I3579>,
+      <#I10057>;
+    rdf:ID "I4958";
+    foaf:familyName "Blanch";
+    foaf:gender "female";
+    foaf:givenName "Berniece A.",
+      "Allie";
+    foaf:name "Berniece A. Blanch"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1951-02-11Z"^^xsd:date];
+    <http://purl.org/vocab/relationship/spouseOf> <#I1577>;
+    rdf:ID "I887";
+    foaf:familyName "Bartch";
+    foaf:gender "female";
+    foaf:givenName "Patricia";
+    foaf:name "Patricia Bartch"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1789>;
+    rdf:ID "I9260";
+    foaf:familyName "Unknown";
+    foaf:gender "female";
+    foaf:givenName "Lindsey";
+    foaf:name "Lindsey Unknown"] .
+
+ [ a foaf:Person;
+    <http://purl.org/vocab/bio/0.1/event> [ a <http://purl.org/vocab/bio/0.1/Birth>;
+      <http://purl.org/vocab/bio/0.1/date> "1907-08-15Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Edwall, Lincoln, Washington, USA"],
+      [ a <http://purl.org/vocab/bio/0.1/Death>;
+      <http://purl.org/vocab/bio/0.1/date> "1973-01-23Z"^^xsd:date;
+      <http://purl.org/vocab/bio/0.1/place> "Portland, Multnomah, Oregon, USA"];
+    <http://purl.org/vocab/relationship/childOf> <#I381>,
+      <#I382>;
+    <http://purl.org/vocab/relationship/parentOf> <#I1019>,
+      <#I1030>,
+      <#I1789>;
+    <http://purl.org/vocab/relationship/siblingOf> <#I383>,
+      <#I2276>;
+    <http://purl.org/vocab/relationship/spouseOf> <#I1009>;
+    rdf:ID "I998";
+    foaf:familyName "Morrison";
+    foaf:gender "male";
+    foaf:givenName "Elwood Dean";
+    foaf:name "Elwood Dean Morrison"] .

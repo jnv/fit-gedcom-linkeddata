@@ -1,0 +1,2593 @@
+{
+    "@context": {
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#"
+    },
+    "@graph": [
+        {
+            "@id": "_:7d086de0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1884-10-21Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Drummond Terrace, Ottawa, Ontario, Canada"
+        },
+        {
+            "@id": "_:7d08a4d0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1941-07-12Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Tranquille Sanitarium, Kamloops, British Columbia, Canada"
+        },
+        {
+            "@id": "_:7d093610-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1915-01-21Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Maquoketa, Iowa, USA"
+        },
+        {
+            "@id": "_:7d0955f0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "2004-06-01Z",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "_:7d0a04c0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1883-01-15Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "York, York Co, Nebraska, USA"
+        },
+        {
+            "@id": "_:7d0a1f20-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1958-08-19Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0ae880-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1888-12-10Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Pocahontas, Bond Co, Illinois, USA"
+        },
+        {
+            "@id": "_:7d0b02a0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1961-10-06Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0bb350-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1910-03-19Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Edwall, Lincoln, Washington, USA"
+        },
+        {
+            "@id": "_:7d0bd160-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1992-08-02Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0c31c0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1951-02-11Z",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "_:7d0ce970-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1907-08-15Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Edwall, Lincoln, Washington, USA"
+        },
+        {
+            "@id": "_:7d0d0400-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1973-01-23Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0dbbd0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1917-04-18Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0dd7f0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1997-11-04Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0e3970-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1940-11-28Z",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "_:7d0ebb10-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1950-07-02Z",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "_:7d0ed4d0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1980-07-22Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d0f9f60-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1890-09-02Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Lydeard St. Lawrence, Somerset, England"
+        },
+        {
+            "@id": "_:7d0fbb60-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1964-12-27Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d1093b0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1882-01-22Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Custer Co, Nebraska, USA"
+        },
+        {
+            "@id": "_:7d10ada0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1943-05-09Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Shingle Springs, El Dorado Co, California, USA"
+        },
+        {
+            "@id": "_:7d116190-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1882-06-02Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Wilsonville, Furnas Co, Nebraska, USA"
+        },
+        {
+            "@id": "_:7d118080-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1971-01-29Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Placerville, El Dorado Co, California, USA"
+        },
+        {
+            "@id": "_:7d123bd0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1910-08-16Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Arnett, Oklahoma, USA"
+        },
+        {
+            "@id": "_:7d1257e0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1992-08-24Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d130620-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1916-04-04Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Calgary, Alberta, Canada"
+        },
+        {
+            "@id": "_:7d13bbb0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1917-08-10Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Calgary, Alberta, Canada"
+        },
+        {
+            "@id": "_:7d13e4c0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1996-11-14Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d14e630-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1914-03-18Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Comstock, Custer Co, Nebraska, USA"
+        },
+        {
+            "@id": "_:7d150380-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "2001-02-18Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Novato, Marin Co, California, USA"
+        },
+        {
+            "@id": "_:7d1766d0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1948-05-16Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Stanford Medical Center, San Francisco, San Francisco Co, California, USA"
+        },
+        {
+            "@id": "_:7d17cb80-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": "1950"
+        },
+        {
+            "@id": "_:7d1856b0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1950-04-02Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "San Francisco, San Francisco Co, California, USA"
+        },
+        {
+            "@id": "_:7d195e80-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1928-08-25Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "San Francisco Co, California, USA"
+        },
+        {
+            "@id": "_:7d197b80-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1997-06-16Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Novato, Marin Co, California, USA"
+        },
+        {
+            "@id": "_:7d19f970-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1949-06-04Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"
+        },
+        {
+            "@id": "_:7d1aa510-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1907-03-09Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1ac080-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1978-01-24Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Sonoma, Sonoma Co, California, USA"
+        },
+        {
+            "@id": "_:7d1b68e0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1908-04-14Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1b8500-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1981-07-04Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Sacramento Co, California, USA"
+        },
+        {
+            "@id": "_:7d1c1fa0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1909-07-12Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1c2e50-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death"
+        },
+        {
+            "@id": "_:7d1cdbd0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1911-01-25Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1cf5b0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1986-05-01Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nevada, USA"
+        },
+        {
+            "@id": "_:7d1da8b0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1915-09-01Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1dc420-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1945-04-18Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Italy"
+        },
+        {
+            "@id": "_:7d1e58b0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1917-09-16Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1e7440-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1989-06-09Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "El Dorado Co, California, USA"
+        },
+        {
+            "@id": "_:7d1f07e0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1920-03-11Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d1f21a0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1967-08-07Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "San Francisco, San Francisco Co, California, USA"
+        },
+        {
+            "@id": "_:7d1fec90-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1901-09-12Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Nebraska, USA"
+        },
+        {
+            "@id": "_:7d200af0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1960-10-30Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "El Dorado Co, California, USA"
+        },
+        {
+            "@id": "_:7d210770-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1971-02-16Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "St. Vincents Hospital, Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d21c570-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1913-06-15Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Eureka, McPherson, South Dakota, USA"
+        },
+        {
+            "@id": "_:7d21e0f0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1975-08-12Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Sacramento, California, USA"
+        },
+        {
+            "@id": "_:7d226bf0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1917-08-02Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Bellingham, Whatcom, Washington, USA"
+        },
+        {
+            "@id": "_:7d22ffa0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1885-03-03Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Kansas, USA"
+        },
+        {
+            "@id": "_:7d2319f0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1918-01-06Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Good Samaritan Hospital, Multnomah Co, Portland, Oregon, USA"
+        },
+        {
+            "@id": "_:7d240930-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1971-01-13Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Celaya, , Guanajuato, México"
+        },
+        {
+            "@id": "_:7d24d4d0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1891-03-01Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Ottawa, Franklin, Kansas, USA"
+        },
+        {
+            "@id": "_:7d24f4e0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1974-05-04Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Seaside, Clatsop, Oregon, USA"
+        },
+        {
+            "@id": "_:7d27c320-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": "Abt 1886",
+            "http://purl.org/vocab/bio/0.1/place": "Texas, USA"
+        },
+        {
+            "@id": "_:7d27def0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1958-09-27Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Multnomah Co, Oregon, USA"
+        },
+        {
+            "@id": "_:7d287cf0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1915-02-05Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Ranch 3 miles east of Monitor, Marion Co, Oregon, USA"
+        },
+        {
+            "@id": "_:7d2897c0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1990-05-21Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Portland, Multnomah, Oregon, USA"
+        },
+        {
+            "@id": "_:7d2907e0-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Birth",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1905-06-02Z",
+                "@type": "xsd:date"
+            }
+        },
+        {
+            "@id": "_:7d292020-38f5-0130-cdfc-406186348d92",
+            "@type": "http://purl.org/vocab/bio/0.1/Death",
+            "http://purl.org/vocab/bio/0.1/date": {
+                "@value": "1973-03-28Z",
+                "@type": "xsd:date"
+            },
+            "http://purl.org/vocab/bio/0.1/place": "Clatsop Co, Oregon, USA"
+        },
+        {
+            "@id": "_:F2",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1"
+                },
+                {
+                    "@id": "#I1101"
+                },
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1393"
+                }
+            ],
+            "rdf:ID": "F2"
+        },
+        {
+            "@id": "_:F210",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I381"
+                },
+                {
+                    "@id": "#I382"
+                },
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I2276"
+                }
+            ],
+            "rdf:ID": "F210"
+        },
+        {
+            "@id": "_:F212",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I1181"
+                }
+            ],
+            "rdf:ID": "F212"
+        },
+        {
+            "@id": "_:F3354",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1789"
+                },
+                {
+                    "@id": "#I9260"
+                }
+            ],
+            "rdf:ID": "F3354"
+        },
+        {
+            "@id": "_:F3573",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I4958"
+                },
+                {
+                    "@id": "#I10057"
+                }
+            ],
+            "rdf:ID": "F3573"
+        },
+        {
+            "@id": "_:F3576",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I10058"
+                },
+                {
+                    "@id": "#I10063"
+                }
+            ],
+            "rdf:ID": "F3576"
+        },
+        {
+            "@id": "_:F3611",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I10137"
+                }
+            ],
+            "rdf:ID": "F3611"
+        },
+        {
+            "@id": "_:F3618",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I2276"
+                },
+                {
+                    "@id": "#I10158"
+                }
+            ],
+            "rdf:ID": "F3618"
+        },
+        {
+            "@id": "_:F3905",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1589"
+                },
+                {
+                    "@id": "#I1687"
+                }
+            ],
+            "rdf:ID": "F3905"
+        },
+        {
+            "@id": "_:F4232",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I12106"
+                }
+            ],
+            "rdf:ID": "F4232"
+        },
+        {
+            "@id": "_:F436",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I887"
+                },
+                {
+                    "@id": "#I1577"
+                }
+            ],
+            "rdf:ID": "F436"
+        },
+        {
+            "@id": "_:F493",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I1019"
+                },
+                {
+                    "@id": "#I1030"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "rdf:ID": "F493"
+        },
+        {
+            "@id": "_:F499",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I1181"
+                },
+                {
+                    "@id": "#I3579"
+                },
+                {
+                    "@id": "#I4958"
+                },
+                {
+                    "@id": "#I10058"
+                }
+            ],
+            "rdf:ID": "F499"
+        },
+        {
+            "@id": "_:F5",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1687"
+                },
+                {
+                    "@id": "#I1789"
+                },
+                {
+                    "@id": "#I1900"
+                }
+            ],
+            "rdf:ID": "F5"
+        },
+        {
+            "@id": "_:F540",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1101"
+                },
+                {
+                    "@id": "#I1710"
+                }
+            ],
+            "rdf:ID": "F540"
+        },
+        {
+            "@id": "_:F559",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                },
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "rdf:ID": "F559"
+        },
+        {
+            "@id": "_:F614",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1577"
+                },
+                {
+                    "@id": "#I1687"
+                }
+            ],
+            "rdf:ID": "F614"
+        },
+        {
+            "@id": "_:F65",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I111"
+                },
+                {
+                    "@id": "#I1393"
+                }
+            ],
+            "rdf:ID": "F65"
+        },
+        {
+            "@id": "_:F700",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1711"
+                }
+            ],
+            "rdf:ID": "F700"
+        },
+        {
+            "@id": "_:F770",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1687"
+                },
+                {
+                    "@id": "#I1708"
+                }
+            ],
+            "rdf:ID": "F770"
+        },
+        {
+            "@id": "_:F771",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1687"
+                },
+                {
+                    "@id": "#I1973"
+                }
+            ],
+            "rdf:ID": "F771"
+        },
+        {
+            "@id": "_:F814",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1815"
+                }
+            ],
+            "rdf:ID": "F814"
+        },
+        {
+            "@id": "_:F815",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I4684"
+                }
+            ],
+            "rdf:ID": "F815"
+        },
+        {
+            "@id": "_:F816",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1819"
+                }
+            ],
+            "rdf:ID": "F816"
+        },
+        {
+            "@id": "_:F817",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1820"
+                }
+            ],
+            "rdf:ID": "F817"
+        },
+        {
+            "@id": "_:F819",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I2045"
+                }
+            ],
+            "rdf:ID": "F819"
+        },
+        {
+            "@id": "_:F820",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1828"
+                }
+            ],
+            "rdf:ID": "F820"
+        },
+        {
+            "@id": "_:F856",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1900"
+                },
+                {
+                    "@id": "#I4796"
+                }
+            ],
+            "rdf:ID": "F856"
+        },
+        {
+            "@id": "_:F857",
+            "@type": "foaf:Group",
+            "foaf:member": [
+                {
+                    "@id": "#I1900"
+                },
+                {
+                    "@id": "#I4797"
+                }
+            ],
+            "rdf:ID": "F857"
+        },
+        {
+            "@id": "_:I1",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Cochrane",
+            "foaf:gender": "male",
+            "foaf:givenName": "John Douglas",
+            "foaf:name": "John Douglas Cochrane",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d086de0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d08a4d0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1393"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1101"
+            },
+            "rdf:ID": "I1"
+        },
+        {
+            "@id": "_:I10057",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Curtner",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Grover Cleveland",
+                "Bud"
+            ],
+            "foaf:name": "Grover Cleveland Curtner",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d27c320-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d27def0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I4958"
+            },
+            "rdf:ID": "I10057"
+        },
+        {
+            "@id": "_:I10058",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Breeden",
+            "foaf:gender": "female",
+            "foaf:givenName": "Margaret Blanch",
+            "foaf:name": "Margaret Blanch Breeden",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d287cf0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d2897c0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I3579"
+                },
+                {
+                    "@id": "#I4958"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I1181"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I10063"
+            },
+            "rdf:ID": "I10058"
+        },
+        {
+            "@id": "_:I10063",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Moscoe",
+            "foaf:gender": "male",
+            "foaf:givenName": "Carroll W.",
+            "foaf:name": "Carroll W. Moscoe",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d2907e0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d292020-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I10058"
+            },
+            "rdf:ID": "I10063"
+        },
+        {
+            "@id": "_:I1009",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Breeden",
+            "foaf:gender": "female",
+            "foaf:givenName": [
+                "Julianna",
+                "Julia Anne"
+            ],
+            "foaf:name": "Julianna Breeden",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0dbbd0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0dd7f0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I3579"
+                },
+                {
+                    "@id": "#I4958"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1019"
+                },
+                {
+                    "@id": "#I1030"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1181"
+                },
+                {
+                    "@id": "#I10058"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I10137"
+                }
+            ],
+            "rdf:ID": "I1009"
+        },
+        {
+            "@id": "_:I10137",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Barrie",
+            "foaf:gender": "male",
+            "foaf:givenName": "Ronald David",
+            "foaf:name": "Ronald David Barrie",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1009"
+            },
+            "rdf:ID": "I10137"
+        },
+        {
+            "@id": "_:I10158",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Unknown",
+            "foaf:gender": "female",
+            "foaf:givenName": "Grace Marie",
+            "foaf:name": "Grace Marie Unknown",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I2276"
+            },
+            "rdf:ID": "I10158"
+        },
+        {
+            "@id": "_:I1019",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "female",
+            "foaf:givenName": "Leanna",
+            "foaf:name": "Leanna Morrison",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d0e3970-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I1009"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1030"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "rdf:ID": "I1019"
+        },
+        {
+            "@id": "_:I1030",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Michael Dean",
+            "foaf:name": "Michael Dean Morrison",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0ebb10-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0ed4d0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I1009"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1019"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "rdf:ID": "I1030"
+        },
+        {
+            "@id": "_:I1101",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Edwards",
+            "foaf:gender": "female",
+            "foaf:givenName": [
+                "Leah Mary",
+                "Lily"
+            ],
+            "foaf:name": "Leah Mary Edwards",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0f9f60-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0fbb60-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1393"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I1"
+                },
+                {
+                    "@id": "#I1710"
+                }
+            ],
+            "rdf:ID": "I1101"
+        },
+        {
+            "@id": "_:I111",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Nims",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Creon Henry",
+                "Connie"
+            ],
+            "foaf:name": "Creon Henry Nims",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d093610-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0955f0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1393"
+            },
+            "rdf:ID": "I111"
+        },
+        {
+            "@id": "_:I1155",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": "Forrest Eugene",
+            "foaf:name": "Forrest Eugene Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1093b0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d10ada0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1166"
+            },
+            "rdf:ID": "I1155"
+        },
+        {
+            "@id": "_:I1166",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Sumner",
+            "foaf:gender": "female",
+            "foaf:givenName": "Della Florence",
+            "foaf:name": "Della Florence Sumner",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d116190-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d118080-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1155"
+            },
+            "rdf:ID": "I1166"
+        },
+        {
+            "@id": "_:I1181",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Breeden",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Isaac Bern",
+                "Bern"
+            ],
+            "foaf:name": "Isaac Bern Breeden",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d123bd0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1257e0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I3579"
+                },
+                {
+                    "@id": "#I4958"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I10058"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I383"
+            },
+            "rdf:ID": "I1181"
+        },
+        {
+            "@id": "_:I12106",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Plotner",
+            "foaf:gender": "male",
+            "foaf:givenName": "Unknown",
+            "foaf:name": "Unknown Plotner",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1282"
+            },
+            "rdf:ID": "I12106"
+        },
+        {
+            "@id": "_:I1282",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Cochrane",
+            "foaf:gender": "female",
+            "foaf:givenName": "Estelle Meredith",
+            "foaf:name": "Estelle Meredith Cochrane",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d130620-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1"
+                },
+                {
+                    "@id": "#I1101"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1577"
+                },
+                {
+                    "@id": "#I1687"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": {
+                "@id": "#I1393"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I12106"
+                },
+                {
+                    "@id": "#I1467"
+                }
+            ],
+            "rdf:ID": "I1282"
+        },
+        {
+            "@id": "_:I1393",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Cochrane",
+            "foaf:gender": "female",
+            "foaf:givenName": "Muriel Alice Elizabeth",
+            "foaf:name": "Muriel Alice Elizabeth Cochrane",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d13bbb0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d13e4c0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1"
+                },
+                {
+                    "@id": "#I1101"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": {
+                "@id": "#I1282"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I111"
+            },
+            "rdf:ID": "I1393"
+        },
+        {
+            "@id": "_:I1467",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": "Claude William",
+            "foaf:name": "Claude William Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d14e630-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d150380-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1577"
+                },
+                {
+                    "@id": "#I1687"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1711"
+                }
+            ],
+            "rdf:ID": "I1467"
+        },
+        {
+            "@id": "_:I1577",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": "Stephen Forrest",
+            "foaf:name": "Stephen Forrest Lewin",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d1766d0-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1467"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": {
+                "@id": "#I1687"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I887"
+            },
+            "rdf:ID": "I1577"
+        },
+        {
+            "@id": "_:I1589",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Vosper",
+            "foaf:gender": "male",
+            "foaf:givenName": "David Todd",
+            "foaf:name": "David Todd Vosper",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d17cb80-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1687"
+            },
+            "rdf:ID": "I1589"
+        },
+        {
+            "@id": "_:I1687",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "female",
+            "foaf:givenName": "Claudia Leadele",
+            "foaf:name": "Claudia Leadele Lewin",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d1856b0-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1282"
+                },
+                {
+                    "@id": "#I1467"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": {
+                "@id": "#I1900"
+            },
+            "http://purl.org/vocab/relationship/siblingOf": {
+                "@id": "#I1577"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I1589"
+                },
+                {
+                    "@id": "#I1789"
+                },
+                {
+                    "@id": "#I1708"
+                },
+                {
+                    "@id": "#I1973"
+                }
+            ],
+            "rdf:ID": "I1687"
+        },
+        {
+            "@id": "_:I1708",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Bleth",
+            "foaf:gender": "male",
+            "foaf:givenName": "Thomas",
+            "foaf:name": "Thomas Bleth",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1687"
+            },
+            "rdf:ID": "I1708"
+        },
+        {
+            "@id": "_:I1710",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Bernard",
+            "foaf:gender": "male",
+            "foaf:givenName": "Herbert",
+            "foaf:name": "Herbert Bernard",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1101"
+            },
+            "rdf:ID": "I1710"
+        },
+        {
+            "@id": "_:I1711",
+            "@type": "foaf:Person",
+            "foaf:familyName": "McQuade",
+            "foaf:gender": "female",
+            "foaf:givenName": "Anne Louise",
+            "foaf:name": "Anne Louise McQuade",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d195e80-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d197b80-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1467"
+            },
+            "rdf:ID": "I1711"
+        },
+        {
+            "@id": "_:I1789",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Stephen Douglas",
+            "foaf:name": "Stephen Douglas Morrison",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d19f970-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I1009"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": {
+                "@id": "#I1900"
+            },
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1019"
+                },
+                {
+                    "@id": "#I1030"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I1687"
+                },
+                {
+                    "@id": "#I9260"
+                }
+            ],
+            "rdf:ID": "I1789"
+        },
+        {
+            "@id": "_:I1807",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "female",
+            "foaf:givenName": "Zelda Elaine",
+            "foaf:name": "Zelda Elaine Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1aa510-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1ac080-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I1815"
+                },
+                {
+                    "@id": "#I4684"
+                }
+            ],
+            "rdf:ID": "I1807"
+        },
+        {
+            "@id": "_:I1808",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "female",
+            "foaf:givenName": "Leola Edna",
+            "foaf:name": "Leola Edna Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1b68e0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1b8500-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1819"
+            },
+            "rdf:ID": "I1808"
+        },
+        {
+            "@id": "_:I1809",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "female",
+            "foaf:givenName": "Lilas F.",
+            "foaf:name": "Lilas F. Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1c1fa0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1c2e50-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1820"
+            },
+            "rdf:ID": "I1809"
+        },
+        {
+            "@id": "_:I1810",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Leo Eugene",
+                "Pinky",
+                "Eugene L."
+            ],
+            "foaf:name": "Leo Eugene Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1cdbd0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1cf5b0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "rdf:ID": "I1810"
+        },
+        {
+            "@id": "_:I1811",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": "John Harvey",
+            "foaf:name": "John Harvey Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1da8b0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1dc420-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1813"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I2045"
+            },
+            "rdf:ID": "I1811"
+        },
+        {
+            "@id": "_:I1813",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "female",
+            "foaf:givenName": "Amy Lucille",
+            "foaf:name": "Amy Lucille Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1e58b0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1e7440-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1814"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1828"
+            },
+            "rdf:ID": "I1813"
+        },
+        {
+            "@id": "_:I1814",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Lewin",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Jessie S.",
+                "Curly"
+            ],
+            "foaf:name": "Jessie S. Lewin",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1f07e0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d1f21a0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1155"
+                },
+                {
+                    "@id": "#I1166"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I1467"
+                },
+                {
+                    "@id": "#I1807"
+                },
+                {
+                    "@id": "#I1808"
+                },
+                {
+                    "@id": "#I1809"
+                },
+                {
+                    "@id": "#I1810"
+                },
+                {
+                    "@id": "#I1811"
+                },
+                {
+                    "@id": "#I1813"
+                }
+            ],
+            "rdf:ID": "I1814"
+        },
+        {
+            "@id": "_:I1815",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Woods",
+            "foaf:gender": "male",
+            "foaf:givenName": "Unknown",
+            "foaf:name": "Unknown Woods",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1807"
+            },
+            "rdf:ID": "I1815"
+        },
+        {
+            "@id": "_:I1819",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Heinz",
+            "foaf:gender": "male",
+            "foaf:givenName": "Albert Carl",
+            "foaf:name": "Albert Carl Heinz",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d1fec90-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d200af0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1808"
+            },
+            "rdf:ID": "I1819"
+        },
+        {
+            "@id": "_:I1820",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Thomas",
+            "foaf:gender": "male",
+            "foaf:givenName": "Ray",
+            "foaf:name": "Ray Thomas",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1809"
+            },
+            "rdf:ID": "I1820"
+        },
+        {
+            "@id": "_:I1828",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Daniels",
+            "foaf:gender": "male",
+            "foaf:givenName": "William",
+            "foaf:name": "William Daniels",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1813"
+            },
+            "rdf:ID": "I1828"
+        },
+        {
+            "@id": "_:I1900",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Keith Douglas",
+            "foaf:name": "Keith Douglas Morrison",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d210770-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I1687"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I4796"
+                },
+                {
+                    "@id": "#I4797"
+                }
+            ],
+            "rdf:ID": "I1900"
+        },
+        {
+            "@id": "_:I1973",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Falls",
+            "foaf:gender": "male",
+            "foaf:givenName": "Winston",
+            "foaf:name": "Winston Falls",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1687"
+            },
+            "rdf:ID": "I1973"
+        },
+        {
+            "@id": "_:I2045",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Usselman",
+            "foaf:gender": "female",
+            "foaf:givenName": "Agnes",
+            "foaf:name": "Agnes Usselman",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d21c570-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d21e0f0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1811"
+            },
+            "rdf:ID": "I2045"
+        },
+        {
+            "@id": "_:I2276",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Jack Earl",
+            "foaf:name": "Jack Earl Morrison",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d226bf0-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I381"
+                },
+                {
+                    "@id": "#I382"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I998"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I10158"
+            },
+            "rdf:ID": "I2276"
+        },
+        {
+            "@id": "_:I3579",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Breeden",
+            "foaf:gender": "male",
+            "foaf:givenName": [
+                "Arnold Ernest",
+                "Arnold Elsworth"
+            ],
+            "foaf:name": "Arnold Ernest Breeden",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d22ffa0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d2319f0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I1181"
+                },
+                {
+                    "@id": "#I10058"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I4958"
+            },
+            "rdf:ID": "I3579"
+        },
+        {
+            "@id": "_:I381",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Herman Franklin",
+            "foaf:name": "Herman Franklin Morrison",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0a04c0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0a1f20-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I2276"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I382"
+            },
+            "rdf:ID": "I381"
+        },
+        {
+            "@id": "_:I382",
+            "@type": "foaf:Person",
+            "foaf:familyName": "DeChenne",
+            "foaf:gender": "female",
+            "foaf:givenName": [
+                "Pauline R.",
+                "Pauline D.",
+                "Pauline S.",
+                "Polly Belle"
+            ],
+            "foaf:name": "Pauline R. DeChenne",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0ae880-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0b02a0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I2276"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I381"
+            },
+            "rdf:ID": "I382"
+        },
+        {
+            "@id": "_:I383",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "female",
+            "foaf:givenName": "Evelyn Paula",
+            "foaf:name": "Evelyn Paula Morrison",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0bb350-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0bd160-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I381"
+                },
+                {
+                    "@id": "#I382"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I998"
+                },
+                {
+                    "@id": "#I2276"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1181"
+            },
+            "rdf:ID": "I383"
+        },
+        {
+            "@id": "_:I4684",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Neal",
+            "foaf:gender": "male",
+            "foaf:givenName": "Unknown",
+            "foaf:name": "Unknown Neal",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1807"
+            },
+            "rdf:ID": "I4684"
+        },
+        {
+            "@id": "_:I4796",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Heilman",
+            "foaf:gender": "female",
+            "foaf:givenName": "Suanne Marie",
+            "foaf:name": "Suanne Marie Heilman",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1900"
+            },
+            "rdf:ID": "I4796"
+        },
+        {
+            "@id": "_:I4797",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Santoyo Lopez",
+            "foaf:gender": "female",
+            "foaf:givenName": "Monica",
+            "foaf:name": "Monica Santoyo Lopez",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d240930-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1900"
+            },
+            "rdf:ID": "I4797"
+        },
+        {
+            "@id": "_:I4958",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Blanch",
+            "foaf:gender": "female",
+            "foaf:givenName": [
+                "Berniece A.",
+                "Allie"
+            ],
+            "foaf:name": "Berniece A. Blanch",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d24d4d0-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d24f4e0-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1009"
+                },
+                {
+                    "@id": "#I1181"
+                },
+                {
+                    "@id": "#I10058"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": [
+                {
+                    "@id": "#I3579"
+                },
+                {
+                    "@id": "#I10057"
+                }
+            ],
+            "rdf:ID": "I4958"
+        },
+        {
+            "@id": "_:I887",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Bartch",
+            "foaf:gender": "female",
+            "foaf:givenName": "Patricia",
+            "foaf:name": "Patricia Bartch",
+            "http://purl.org/vocab/bio/0.1/event": {
+                "@id": "_:7d0c31c0-38f5-0130-cdfc-406186348d92"
+            },
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1577"
+            },
+            "rdf:ID": "I887"
+        },
+        {
+            "@id": "_:I9260",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Unknown",
+            "foaf:gender": "female",
+            "foaf:givenName": "Lindsey",
+            "foaf:name": "Lindsey Unknown",
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1789"
+            },
+            "rdf:ID": "I9260"
+        },
+        {
+            "@id": "_:I998",
+            "@type": "foaf:Person",
+            "foaf:familyName": "Morrison",
+            "foaf:gender": "male",
+            "foaf:givenName": "Elwood Dean",
+            "foaf:name": "Elwood Dean Morrison",
+            "http://purl.org/vocab/bio/0.1/event": [
+                {
+                    "@id": "_:7d0ce970-38f5-0130-cdfc-406186348d92"
+                },
+                {
+                    "@id": "_:7d0d0400-38f5-0130-cdfc-406186348d92"
+                }
+            ],
+            "http://purl.org/vocab/relationship/childOf": [
+                {
+                    "@id": "#I381"
+                },
+                {
+                    "@id": "#I382"
+                }
+            ],
+            "http://purl.org/vocab/relationship/parentOf": [
+                {
+                    "@id": "#I1019"
+                },
+                {
+                    "@id": "#I1030"
+                },
+                {
+                    "@id": "#I1789"
+                }
+            ],
+            "http://purl.org/vocab/relationship/siblingOf": [
+                {
+                    "@id": "#I383"
+                },
+                {
+                    "@id": "#I2276"
+                }
+            ],
+            "http://purl.org/vocab/relationship/spouseOf": {
+                "@id": "#I1009"
+            },
+            "rdf:ID": "I998"
+        }
+    ]
+}
