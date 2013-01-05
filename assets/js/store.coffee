@@ -29,14 +29,16 @@ define ["jquery", "rdfstore"], ($, RDFStore) ->
         @store.setPrefix(k, url)
 
     load: (url, type) ->
-      @store.load type, @getGraph(url), 'graph', (success, result) ->
+      @store.load type, @downloadGraph(url), 'graph', (success, result) ->
         console.log "Graph loaded", result
 
-    clear: () ->
-      @store.clear()
-      console.log 'Store cleared'
+    clear: (uri)->
+      @store.clear uri, ->
+        console.log 'Store cleared'
 
-    getGraph: (url) ->
+    downloadGraph: (url) ->
       $.get '/data/sample.json', (data) ->
         return data
 
+    graph: ->
+      @store.graph()
